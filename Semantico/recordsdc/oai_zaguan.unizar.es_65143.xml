@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Cuartero lópez, María Pilar</dc:creator>
+  <dc:creator>Vicente Gimeno, Luis Alfonso</dc:creator>
+  <dc:title>Análisis de un sistema de trading basado en gaps</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/65143</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:description>Este trabajo de fin de grado (TFG) desarrolla la elaboración de un sistema de inversión en Bolsa, mediante la creación de un sistema de trading basado en gaps que permita lanzar señales al mercado de manera automática y restar cualquier posible subjetividad a los traders. Su análisis y validación se ha realizado sobre la evolución durante diez años del índice español Ibex-35. En primer lugar trata dar a conocer las principales características de la Bolsa y su funcionamiento, así como las distintas formas de operar que hay en el mercado. Luego se introduce el análisis técnico, donde se detalla su sistemática para llegar a entender su uso a la hora de elaborar un sistema. A continuación se explica la importancia de la psicología al hacer trading. A través del análisis empírico se puede ver la evolución de nuestro sistema de inversión para llegar cada vez a resultados más óptimos, pero antes resultaba imprescindible explicar con detalle en qué consiste un gap bursátil y cuáles pueden ser las causas de su aparición. Finalmente se han obtenido conclusiones al respecto.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Garralaga Marquesán, David</dc:creator>
+  <dc:creator>Alegre Sanchez, Ricardo</dc:creator>
+  <dc:title>Análisis y optimización de una caldera de biomasa</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/7130</dc:identifier>
+  <dc:subject>energía de la biomasa</dc:subject>
+  <dc:subject>calderas</dc:subject>
+  <dc:subject>análisis de la combustión</dc:subject>
+  <dc:subject>transferencia de calor</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2012</dc:date>
+  <dc:description>El presente trabajo se ha llevado a cabo para evaluar las hipótesis asumidas en temas de combustión, de intercambio de calor y en definitiva en el campo de la energía por la empresa “Componentes para calefacción, S.L.” a la hora de desarrollar sus productos. Calderas de biomasa. Para ello se han estudiado los fenómenos de combustión en la cámara de combustión, y de intercambio de calor en la misma y en un intercambiador de calor de tipo carcasa y tubos con el apoyo de la teoría existente en la bibliografía y la implementación de las ecuaciones que rigen dichos procesos en el programa ingenieril EES. Tras la evaluación de estos fenómenos se han realizado varios estudios con la finalidad de introducir mejoras en el aparato y optimizar así su trabajo y rendimiento. Por último, debido a que el producto objeto del proyecto está sometido a presiones internas y externas en la realización de la función para la que fue diseñado, se ha aplicado la normativa requerida para la salida al mercado de este tipo de productos. La norma UNE-EN 12953. Calderas pirotubulares. Parte 3: Diseño y cálculo de partes a presión.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Romeo Sánchez, Paula</dc:creator>
+  <dc:creator>Martínez Cortés, Juan Pablo</dc:creator>
+  <dc:title>Clasificador automático de latidos basado en las características de la transformada wavelet del ECG</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/6380</dc:identifier>
+  <dc:subject>clasificación automática de latidos</dc:subject>
+  <dc:subject>reconocimiento de patrones</dc:subject>
+  <dc:subject>ecg</dc:subject>
+  <dc:subject>transformada wavelet</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2011</dc:date>
+  <dc:description>Diseño y evaluación de un clasificador automático de latidos del ECG sencillo y robusto que permite emplear características que se pueden obtener de forma simple a partir de la delineación. La peculiaridad que presenta es que está basado en la transformada wavelet, lo que nos permite hacer uso de un delineador ya creado basado en dicha transformada y además nos permite una descripción y representación de la señal en el dominio del tiempo a diferentes resoluciones.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

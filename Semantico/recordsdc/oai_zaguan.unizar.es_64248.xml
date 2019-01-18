@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Latorre Pastor, Guayente</dc:creator>
+  <dc:creator>Carrodeguas Villar, José Alberto</dc:creator>
+  <dc:creator>Latorre Muro, Pedro</dc:creator>
+  <dc:title>Estudio del papel en la proliferación celular y en el metabolismo celular de la isoforma mitocondrial de la fosfoenolpiruvato carboxiquinasa (PEPCK-M) mediante edición genómica con CRISPR-Cas9</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/64248</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:description>La fosfoenolpiruvato carboxiquinasa es una proteína clave del metabolismo celular al catalizar la reacción limitante de la gluconeogénesis. Cuenta con dos isoformas, citosólica y mitocondrial. El papel de esta última en el organismo no se conoce todavía en profundidad, por lo que su estudio resulta muy interesante. Una aproximación adecuada para tratar de elucidar su función es silenciarla mediante la técnica CRISPR-Cas9, una potente y novedosa herramienta de edición genética, dirigida específicamente a producir una deleción en el primer exón del gen que codifica para la proteína. Por una parte, los resultados muestran que la eficiencia de la técnica no ha sido muy buena, ya que de todos los clones seleccionados, solo dos muestran evidencias de deleción. Por otra parte, los efectos fenotípicos observados en el metabolismo no son muy significativos, al no haber grandes diferencias en la producción de glucosa en los clones silenciados con respecto al silvestre. Asimismo, no ha sido posible correlacionar el silenciamiento de la proteína con una proliferación celular alterada, ya que los clones positivos han resultado ser de crecimiento tanto rápido como lento, del mismo modo que clones negativos tenían bien crecimiento rápido, bien lento.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

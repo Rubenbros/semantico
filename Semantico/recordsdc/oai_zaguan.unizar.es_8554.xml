@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Gancedo Sanz, Mario</dc:creator>
+  <dc:creator>Kelly, Anthony</dc:creator>
+  <dc:title>Visible light data communications</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/8554</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2012</dc:date>
+  <dc:description>In the first part of this paper, a general overview of Visible Light Communications (VLC)is described. After an introduction which covers a short historical overview, the main characteristics of this technology including applications and comparisons with other wireless technologies (radiofrequency and infrared communication) are presented. Next, the basic configuration of a VLC system will be covered, including the VLC transmitter, the VLC channel, the VLC receiver and the main modulation techniques used. This part concludes with some challenges being worked, standardization efforts and general conclusions. In the second part, the practical work of the project is presented. We focused on the electrical and optical characteristics of the VLC transmitter: Light Emitting Diodes (LEDs).Experiments carried out in different commercial LEDs such as I-V characteristics, spectra measurements, Light Power vs. Current characteristics, pulse response and frequency response are described and discussed.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>eng</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

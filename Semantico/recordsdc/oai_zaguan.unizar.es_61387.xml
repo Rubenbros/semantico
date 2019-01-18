@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Sánchez Lagraba, Darío</dc:creator>
+  <dc:creator>Bernal Agustín, José Luis</dc:creator>
+  <dc:title>Estudio de la eficiencia indicada por los fabricantes de paneles fotovoltaicos</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/61387</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:description>La idea principal del estudio es comprobar que los fabricantes de paneles fotovoltaicos ofrecen datos fiables y verídicos sobre el rendimiento de los paneles fotovoltaicos. Para realizar el estudio se han realizado una serie de simulaciones mediante el programa PVEF 1.0, y con los datos obtenidos se han realizado tablas y gráficas con las eficiencias generadas en dichas simulaciones.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

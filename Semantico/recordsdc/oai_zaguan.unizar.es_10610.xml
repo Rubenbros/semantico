@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Sierra Granada, Alejandro</dc:creator>
+  <dc:creator>Dietzel, Andreas</dc:creator>
+  <dc:title>Desarrollo y fabricación de un sensor de micro fuerza para máquinas de medición por coordenadas</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/10610</dc:identifier>
+  <dc:subject>sensor de micro fuerza</dc:subject>
+  <dc:subject>microtecnología</dc:subject>
+  <dc:subject>palpador</dc:subject>
+  <dc:subject>máquina de medir por coordenadas</dc:subject>
+  <dc:subject>metrología</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2013</dc:date>
+  <dc:description>Este proyecto describe la fabricación y caracterización de un sensor de micro fuerza consistente en una mezcla de polímero y silicio que está en período de desarrollo por el Instituto de Microtecnología de Braunschweig (Alemania). El objetivo de dicho sensor es su utilización como elemento sensible de un  palpador por contacto para la nueva generación de máquinas de micro medición por coordenadas en las cuales se requieren fuerzas de palpado extremadamente bajas para no dañar el elemento medido así como elevadas precisiones (nanométricas).</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

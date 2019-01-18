@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Alvarez Pascual, Sergio</dc:creator>
+  <dc:creator>Bibow, Pascal</dc:creator>
+  <dc:title>Análisis de los métodos y tecnologías actuales para predecir intervalos de mantenimiento basados en los datos recogidos durante un proceso productivo</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/63959</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:description>El trabajo consiste en un análisis de los diferentes métodos y tecnologías que se pueden usar para el mantenimiento predictivo. Y una vez definidos estos, se seleccionan los que pueden ser utilizados para monitorizar la condicion de los moldes de inyección y se plantea una rutina de mantenimiento usando estas tecnologías.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>eng</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Albajar Lafarga, Teresa Zoe</dc:creator>
+  <dc:creator>Serón Arbeloa, Francisco José</dc:creator>
+  <dc:creator>González Bedia, Manuel</dc:creator>
+  <dc:title>Creación de un agente basado en la arquitectura SOAR</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/37149</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2015</dc:date>
+  <dc:description>El objetivo de este proyecto es estudiar a fondo la arquitectura SOAR, analizar su alcance y utilizarla. Se presenta un problema para el que se crea un agente que interactúa con el entorno. Debe tomar decisiones para intentar sobrevivir el máximo tiempo posible y aprender de ellas para optimizar sus acciones. El agente creado para ésta arquitectura hace uso de los módulos que SOAR ofrece para realizar dos tipos de aprendizaje: uno a largo plazo  y otro a corto plazo.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

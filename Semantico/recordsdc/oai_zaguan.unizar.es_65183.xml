@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Luna Duarte, Jorge</dc:creator>
+  <dc:creator>García Abancéns, Eduardo</dc:creator>
+  <dc:title>Estudio de la actividad mínima detectable en un espectrómetro gamma de Ge (Li)</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/65183</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:description>El objetivo es realizar un estudio de la actividad mínima detectable (MDA) en espectrometría gamma. Se utilizará un semiconductor de Ge(Li) con el que se realizarán medidas del fondo radiactivo y medidas con fuentes radiactivas gamma de distintas actividades. Se caracterizará el detector, se estudiará su sensibilidad y se compararán diferentes algoritmos de estimación de la MDA.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Dueso Molina, Martín</dc:creator>
+  <dc:creator>Beltrán Blázquez, José Ramón</dc:creator>
+  <dc:creator>Buldain Pérez, Julio David</dc:creator>
+  <dc:title>Análisis de datos y evaluación mediante Redes Neuronales para predicción meteorológica</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/64289</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:description>El proyecto consiste en la evaluación y comparación de diversas arquitecturas de redes neuronales, tanto con redes con algoritmos clásicos como con deep learning, para su uso en la predicción meteorológica de determinados umbrales de temperatura en un plazo entre 3 y 7 días. Se ha utilizado una base de datos con datos temporales de varias estaciones de Alemania. Posteriormente estos datos de entrada se tienen que preprocesar antes de introducirlos a la red. Tras ello se entrena la red con la mayor parte de estos datos y se deja una pequeña parte para su testeo. Después de evaluar con distintos parámetros para cada arquitectura neuronal se ha tratado de discutir cuál es la mejor configuración.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

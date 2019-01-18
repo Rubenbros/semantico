@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>García Asín, Susana</dc:creator>
+  <dc:creator>Aliod Sebastián, Ricardo</dc:creator>
+  <dc:title>Desarrollo e implementación de estrategias y herramientas en GESTAR2014 para el dimensionado de redes de riego presurizadas con funcionamiento a turnos</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/13123</dc:identifier>
+  <dc:subject>riego a presión</dc:subject>
+  <dc:subject>dimensionado tuberías </dc:subject>
+  <dc:subject>turnos de riego</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2013</dc:date>
+  <dc:description>Estableciendo una organización de riego a turnos, se producen caudales menores que los que se dan en los sistemas de riego a la demanda y por lo tanto puede resultar una inversión en tuberías menor. Asimismo, con la ayuda de los nuevos sistemas de telecontrol y de gestión, se puede conseguir en los riegos planificados, un funcionamiento eficiente de los equipos de impulsión y un reparto del tiempo de riego que optimice el coste de la energía en función de las tarifas eléctricas establecidas. En este trabajo se desarrollan,  implementan y describen estrategias y herramientas que mejoran el dimensionado de las conducciones en sistemas de riego a presión operando a turnos (tanto para conducciones principales de parcela que alimentan sectores, como para conducciones de redes de distribución general) con altura de cabecera conocida y altura de cabecera desconocida. Estas herramientas se han incorporado en la aplicación de análisis y diseño hidráulico para redes de riego presurizadas GESTAR2014. Como ejemplo y caso de estudio, se aplica el algoritmo y la metodología de diseño y análisis a una red distribución general, con altura de cabecera desconocida (red con bombeo en cabecera) y se compara los resultados los obtenidos con un dimensionado a la demanda.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

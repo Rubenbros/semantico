@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Martínez López, Diego</dc:creator>
+  <dc:creator>Dufo López, Rodolfo</dc:creator>
+  <dc:title>Análisis de la red de alta tensión de Tenerife mediante PowerWorld</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/69905</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:description>En el presente trabajo se realiza un análisis de la red de alta tensión de Tenerife. Para ello se modela la red en PowerWorld a partir de datos de Red eléctrica de España y Gobierno de Canarias. También se estudia la estructura de la generación y las posibles mejoras de este sistema.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

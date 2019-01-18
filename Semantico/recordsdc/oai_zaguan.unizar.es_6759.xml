@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Irisarri Jiménez, Diego</dc:creator>
+  <dc:creator>Hauke Bernardos, Guillermo</dc:creator>
+  <dc:title>Estimación del error a posteriori del método de elementos finitos con la teoría variacional de las multiescalas aplicado a elasticidad lineal</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/6759</dc:identifier>
+  <dc:subject>estimación error</dc:subject>
+  <dc:subject>elementos finitos</dc:subject>
+  <dc:subject>elasticidad</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2011</dc:date>
+  <dc:description>El presente trabajo investiga técnicas de estimadores de error a posteriori para el método de elementos finitos aplicado al problema de elasticidad lineal. Para hallar el error que comete el método de elementos finitos se emplea el método variacional multiescala. Con la ayuda de este método y partiendo de los resultados obtenidos de la simulación de elementos finitos, se obtiene una estimación del error cometido. En concreto, en este proyecto se ha estudiado la estimación de error para problemas de tensión plana. A la hora de analizar el acierto en la estimación de error, es necesario conocer previamente el error real que comete el método de elementos finitos. Por ello, se ha calculadola solución analítica de los casos estudiados de tensión plana, empleando las ecuaciones básicas de elasticidad. Los problemas estudiados de tensión plana son aplicados sobre dominios rectangulares. Sobre estos dominios se han impuesto distintos tipos de solicitaciones en el contorno para estudiar cómo afectan los distintos tipos de esfuerzos en los estimadores de error. También se analiza su influencia con los principales parámetros que caracterizan el problema de elasticidad plana. Con el objetivo de cuantificar la calidad de los estimadores de error, se establece la denominada eficiencia del estimador de error, el cual relaciona el error estimado con el error realmente cometido.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

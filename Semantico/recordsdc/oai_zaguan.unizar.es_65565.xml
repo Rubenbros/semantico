@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Calejero Martinez, Juan</dc:creator>
+  <dc:creator>Director: Lanza, Gisela </dc:creator>
+  <dc:creator>Coordinador: Krämer, Alexandra</dc:creator>
+  <dc:title>Investigación sobre los errores de medida producidos en una máquina de tomografía computerizada para metrología dimensional</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/65565</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:description>Objetivo: Determinación de los errores geométricos producidos por las diferentes fuentes de error presentes en el proceso de tomografía computarizada. Estas fuentes de error deben ser estudiadas a fondo para poder conocer cada una de sus consecuencias en la medición de piezas y así obtener una gran precisión en las mediciones.  Metodología: Con un enfoque experimental, se deben idear y desarrollar métodos empíricos, basados en el uso de objetos de calibración, específicos para poder corregir cada uno de los efectos producidos por las fuentes de error de la máquina de tomografía computarizada. Cronograma: -Investigación de las fuentes de error geométrico de la máquina y de sus efectos sobre las mediciones.  -Desarrollo de objetos de calibración específicos y métodos empíricos para corregir cada error geométrico en particular. -Medida de los objetos de calibración con una máquina de medir por coordenadas, considerada más precisa. -Medida de los objetos de calibración con una máquina de tomografía computarizada. -Comparación de ambas medidas y determinación del error geométrico definitivo.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>eng</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Pina Beatove, Ángel</dc:creator>
+  <dc:creator>Casas Nebra, Roberto José</dc:creator>
+  <dc:title>Diseño de un sistema domótico con comunicación Wifi</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/69927</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:description>Se trata de un diseño completo de un sistema domótico en el que interviene la comunicación Wifi. El diseño incluye tanto el hardware, con el diseño de la PCB; como el firmware implementando todo el código en el microcontrolador elegido para la aplicación. Los principales objetivos del sistema son: Coste reducido y eficiencia energética máxima, interoperabilidad y flexibilidad. En este sistema se implementan aplicaciones de control de iluminación, de temperatura, de las persianas y detección de presencia entre otros. Todo esto pudiendo ser controlado y manipulado a través de una aplicación móvil y una plataforma en la nube.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

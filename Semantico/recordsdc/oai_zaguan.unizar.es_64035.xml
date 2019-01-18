@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Bautista del Monte, Iván</dc:creator>
+  <dc:creator>Comech Moreno, María Paz</dc:creator>
+  <dc:title>Análisis de la integración de la energía fotovoltaica y el vehículo eléctrico en la red de distribución</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/64035</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:description>La integración de la generación distribuida presenta numerosas ventajas medioambientales, pero para que se haga realidad es necesario afrontar grandes retos en la operación y control de la red de distribución. Además, la implantación masiva de vehículos eléctricos conllevará un aumento significativo de la demanda eléctrica en las zonas urbanas, por lo que es necesario analizar los posibles impactos que la conexión de estos nuevos sistemas puede conllevar para evitar futuros inconvenientes. En este trabajo se ha realizado el estudio mediante simulación en DIgSILENT PowerFactory de un modelo de red desarrollado por CIGRE que está formado por 30 nudos. Se han definido tres escenarios basados en tres horizontes de planificación, según la evolución esperada en la demanda, en la potencia de generación distribuida y en la integración del vehículo eléctrico en la red eléctrica. Para la obtención de los casos de simulación se ha estudiado la información obtenida con relación a estos horizontes y extrapolado a la red CIGRE de trabajo. Una vez definidos teóricamente estos casos se han simulado en el programa y analizado los resultados. En este análisis se ha tomado el horizonte actual como la referencia para su comparación en los diferentes casos de estudio planteados, que incluyen la integración de la generación fotovoltaica, del vehículo eléctrico y de sistemas de almacenamiento. Además, se ha analizado la influencia de los posibles agrupamientos de generación conectada a la red de distribución y de los perfiles horarios de carga masiva de vehículos eléctricos. En cada uno de los escenarios se ha analizado la variación en las curvas de demanda de la red, en los perfiles de tensión, en las pérdidas del sistema y en las posibles sobrecargas en la red.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

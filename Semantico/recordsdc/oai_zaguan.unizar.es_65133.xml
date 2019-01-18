@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Fabián Abad, Andrea</dc:creator>
+  <dc:creator>Olave Rubio, Pilar</dc:creator>
+  <dc:title>Optimización de contenidos web: un factor clave del éxito empresarial</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/65133</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:description>El uso de técnicas computacionales en el campo del análisis web es obligatorio, con el incipiente desarrollo de negocios web y de ámbitos empresariales en línea, la búsqueda de la obtención de valor  radica de un análisis minucioso del usuario y de sus necesidades.  El objetivo de este estudio es la investigación de técnicas predictivas en el ámbito del marketing digital y su uso en la optimización de contenidos. Buscando patrones que ayuden al redactor a conseguir mejores resultados de impacto entre sus lectores, entre casi 40.000 artículos de la web mashable.com. Los días de la semana  más óptimos en referencia a acciones, son los fines de semana y los lunes. Gracias a esta información se establece un criterio de publicación sabiendo que pasadas unas 24 horas el artículo tomará un impacto fuerte. Aunque como vemos este no es el único factor que influye en la predicción, por lo que se han propuesto varios métodos de modelización.  El modelo que mejor resultado ofrece para predecir la popularidad es el diagrama de árbol, a partir de dos características: Promedio de palabras clave, número de archivos web. Estas técnicas consiguen optimizar la redacción de contenidos y facilitan  mejores resultados empresariales en lo que al Marketing digital se refiere.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

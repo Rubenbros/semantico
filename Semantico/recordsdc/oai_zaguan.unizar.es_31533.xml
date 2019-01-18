@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Alastruey López, Diego</dc:creator>
+  <dc:creator>Sáez Viñas, Pablo</dc:creator>
+  <dc:creator>Martínez Barca, Miguel Ángel</dc:creator>
+  <dc:title>Estudio del proceso de remodelación de arterias debido a angioplastia</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/31533</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2014</dc:date>
+  <dc:description>La angioplastia con balloon es uno de los procedimientos más habituales para solucionar los problemas de oclusión arterial. Durante este proceso se utiliza un globo (balloon) que es inflado en el interior de la arteria para restaurar la mayor sección de flujo sanguíneo posible. Durante este procedimiento se producen ciertas lesiones en el endotelio que favorecen la deposición y síntesis de colágeno, que puede provocar una nueva obstrucción en el torrente sanguíneo (remodelación constrictiva).  Este hecho se ve favorecido principalmente por la actividad de 3 grupos de sustancias: TGF-β, MMP y TIMP. La difusión de estas sustancias a través de las células arteriales es un factor determinante en la concentración final de colágeno en la zona afectada. En este trabajo se va a realizar una simulación de la difusión de estas sustancias, de forma que pueda determinarse la forma en que aumenta o decrece su concentración en la zona afectada tras la intervención.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

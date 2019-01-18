@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Jiménez Castañeda, Azucena</dc:creator>
+  <dc:creator>Castañeda del Álamo, Carmen</dc:creator>
+  <dc:creator>Montorio Llovería, Raquel</dc:creator>
+  <dc:title>Un sistema automático de tratamiento de imágenes Landsat en entorno SIG para gestión de espacios protegidos: aplicación al ámbito de la Laguna de Gallocanta</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/30774</dc:identifier>
+  <dc:subject>agricultura</dc:subject>
+  <dc:subject>humedal</dc:subject>
+  <dc:subject>landsat</dc:subject>
+  <dc:subject>multitemporal</dc:subject>
+  <dc:subject>programa</dc:subject>
+  <dc:subject>secano</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2014</dc:date>
+  <dc:description>Los estudios multitemporales permiten el seguimiento de fenómenos dinámicos, cuyo conocimiento es necesario para mejorar la gestión de los espacios protegidos de ecosistemas tan vulnerables como el entorno de la Laguna de Gallocanta. El desarrollo de programas semiautomáticos de pretratamiento, homogeneización de la información y obtención de índices ambientales como el NDVI y TTC de humedad permite agilizar estos procesos. Centrando los esfuerzos en comprender los resultados y relacionarlos con información auxiliar y datos in situ disponibles, puede ser de gran ayuda en futuros estudios.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Turmo Gutiérrez, Juan José</dc:creator>
+  <dc:creator>Balke, Wolf-Tilo</dc:creator>
+  <dc:creator>Homoceanu, Silviu</dc:creator>
+  <dc:title>Mining semantic relations from product features</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/7188</dc:identifier>
+  <dc:subject>relación semántica</dc:subject>
+  <dc:subject>semántica</dc:subject>
+  <dc:subject>análisis semántico</dc:subject>
+  <dc:subject>lsi</dc:subject>
+  <dc:subject>lsa</dc:subject>
+  <dc:subject>plsi</dc:subject>
+  <dc:subject>plsa</dc:subject>
+  <dc:subject>lda</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2012</dc:date>
+  <dc:description>El proyecto ha sido desarrollado en el Departamento de Sistemas de Información (IfIS) de la Unversidad Técnica de Braunschweig (TU  Braunschweig) y tiene como objetivo principal la extracción de relaciones semánticas entre, los términos extraídos inicialmente de las características de productos que forman grupos semánticos, y los términos que aparecen en los comentarios que los usuarios hacen sobre los mismos productos, con el objetivo de formar un grupo semántico mayor. Para conseguir este objetivo se ha trabajado con comentarios reales con técnicas de procesamiento de lenguaje natural y posteriormente se han aplicado técnicas clásicas de recuperación de información, como son LSI/LSA, PLSI/PLSA y LDA. El grueso del proyecto se basa en el análisis de cómo estas técnicas, que no están diseñadas para esto, alcanzan los objetivos descritos. Los resultados demuestran que LDA es el método que más se ajusta a estos objetivos, corroborando las premisas iniciales.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

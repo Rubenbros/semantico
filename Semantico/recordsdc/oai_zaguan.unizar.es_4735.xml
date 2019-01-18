@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Lavilla Marruedo,María</dc:creator>
+  <dc:creator>Gutiérrez Soler, Fernando</dc:creator>
+  <dc:title>Caracterización del canal móvil en las bandas de trabajo de Wimax a partir de simulaciones con modelos urbanos en 3D</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/4735</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2010</dc:date>
+  <dc:description>El presente proyecto se encuentra enmarcado en el contexto de prestación de servicios de banda ancha por parte de las redes celulares a través de tecnología inalámbrica. Dentro de este ámbito, el estándar con mayor potencial y que actualmente se encuentra en plena expansión es el IEEE 802.16 o más conocido como WIMAX. Una de las características principales de dicha tecnología son las bandas frecuenciales de trabajo, siendo la más destacada la centrada en 3.5 GHz. Los estudios y caracterizaciones del canal a esta frecuencia son todavía escasos, y su importancia es considerable a la hora de realizar un despliegue de red. Si añadimos que el medio de transmisión es a través de ondas electromagnéticas, el trabajo se hace completamente necesario. Además, los inconvenientes propios del canal radio requieren de una caracterización particular y exhaustiva del entorno en que se desarrolla el sistema con el fin de obtener unos resultados realistas. Con estos antecedentes, el presente estudio trata de caracterizar el canal móvil en dicha banda frecuencial de forma particular para Zaragoza, tanto en entornos urbanos como suburbanos de la ciudad. El trabajo se realiza por medio de simulaciones con la herramienta de planificación de redes ICS Telecom. Con los valores obtenidos en ellas, y una vez procesados, se determinan los parámetros fundamentales de la caracterización de primer orden, así como los más interesantes de segundo orden. A partir de estos resultados se realiza una comparación con modelos de propagación estandarizados y con medidas reales realizadas en diferentes entornos, presentes en la bibliografía, con el fin de afianzarlos.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

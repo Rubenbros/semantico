@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Ramón Gracia, Raúl</dc:creator>
+  <dc:creator>Oyarbide Usabiaga, Estanislao </dc:creator>
+  <dc:creator>Bernal Ruiz, Carlos</dc:creator>
+  <dc:title>Diseño de ondulador de 1kW para alimentación de maniobra de ascensor desde baterías de 48V</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/48542</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2015</dc:date>
+  <dc:description>De la necesidad por parte de la empresa Epic Power por reducir costes, éste trabajo de fin de grado ha cobrado forma. Se busca a partir de este trabajo la consecución de un ondulador de bajo coste y alta eficiencia cumplir todos los requerimientos que demanda el mercado.  Por ello se ha hecho un estudio de los diseños de onduladores actuales para su compresión y posterior desarrollo y cálculo. Además dimensionamiento de los componentes, simulación de las topologías y cálculo de eficiencias y costes se han llevado a cabo.  Todo ello llevará a la selección de una de las topologías como más adecuada para la aplicación.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>eng</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

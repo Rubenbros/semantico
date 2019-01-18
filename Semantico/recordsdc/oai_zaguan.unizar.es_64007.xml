@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Osta Lasheras, Iván</dc:creator>
+  <dc:creator>Ramón Piedrafita Moreno</dc:creator>
+  <dc:title>Control de Sistemas de Eventos Discretos con Matlab/Simulink</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/64007</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:description>El objetivo principal de este proyecto es analizar las posibilidades que ofrece Simulink y su librería Stateflow para el control de sistemas de eventos discretos y la generación de código para autómatas programables, para ello se utilizará como plataforma de pruebas la célula de Fabricación que se encuentra en unos de los laboratorios del departamento de Informática e Ingeniería de Sistemas de la Universidad de Zaragoza.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

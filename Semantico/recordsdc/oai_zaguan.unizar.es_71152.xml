@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Miranda Vallejo, Javier</dc:creator>
+  <dc:creator>Estrada Peña</dc:creator>
+  <dc:creator>Estrada Peña, Agustín</dc:creator>
+  <dc:title>Estacionalidad y variables ambientales: predicción de la actividad de la garrapata Ixodes ricinus.</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/71152</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2018</dc:date>
+  <dc:description>Se han colectado mensualmente todos los estadios activos de la garrapata Ixodes ricinus en dos lugares en el norte de España entre los años 2000 y 2007. Se ha usado la acumulación percentil mensual de cada estadio activo para desarrollar correlaciones simples y coherentes entre la acumulación de larvas y ninfas en la vegetación con los datos mensuales del clima y la vegetación registrada por la serie de satélites MODIS. Estos datos incluyen la temperatura mensual y acumulada y el índice normalizado de vegetación (NDVI). Este marco estadístico no pretende predecir la abundancia real de garrapatas en el campo (medida de la exposición para humanos) sino proporcionar una estructura para abordar la fenología de la garrapata. Este estudio demuestra que la acumulación de larvas es una función sigmoidea de la temperatura acumulada desde el comienzo del año. También se demuestra que la temperatura acumulada necesaria para reclutar ninfas desde la etapa larval es una función de la actividad de las larvas, de la temperatura acumulada y el NDVI. Los bajos valores de “p” obtenidos en las regresiones confirman que dicho reclutamiento puede calcularse utilizando intervalos de tiempo para estimar, por ejemplo, el comienzo del período de búsqueda o la época del año en que se puede esperar el máximo de población ninfal. El modelo es coherente porque la comparación entre las temperaturas acumuladas pronosticadas y reales para el reclutamiento de larvas y ninfas tuvo un error promedio de 20 días en un año completo. El uso de la temperatura acumulada y el NDVI, propuestos en este estudio, abren la posibilidad de predecir la fenología de I. ricinus como medida básica de auto-protección en humana. El marco que se propone en este estudio podría evaluar las mismas correlaciones a lo largo del rango geográfico de la garrapata.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Cuiral Zueco, Ignacio</dc:creator>
+  <dc:creator>Martínez Montiel, José María</dc:creator>
+  <dc:title>SLAM visual estéreo aplicado a endoscopias médicas</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/63972</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:description>ORBSLAM es un software que, a partir de una secuencia en vídeo grabada por una cámara que se mueve por una escena genera un mapa de puntos tridimensional (no denso) y permite la localización de la cámara con respecto de la escena a tiempo real. ORBSLAM presenta la posibilidad de una entrada de par estéreo, es decir, dos cámaras. En el presente trabajo se realiza una evaluación de la viabilidad del módulo Stereo de ORB-SLAM2 aplicado a escenas de endoscopias y laparoscopias médicas. Además, aprovechando uno de los puntos fuertes del estéreo, como más adelante se detallará, se ha ampliado el módulo Stereo del programa ORBSLAM añadiendo la posibilidad de generar un mapa denso tridimensional de la escena en observación. Se ha hecho una valoración experimental de ORBSLAM sobre pares estéreo en endoscopias porcinas y una densificación de la anatomía porcina observable en las secuencias, alcanzando prestaciones a tiempo real.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Serrano Sevilla, Inés</dc:creator>
+  <dc:creator>Marzo Rubio, María Isabel</dc:creator>
+  <dc:creator>Carrodeguas Villar, José Alberto</dc:creator>
+  <dc:title>Estudio de las interacciones entre proteínas anti- y proapoptóticas de la familia Bcl-2 en células vivas mediante BiFC</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/15308</dc:identifier>
+  <dc:subject>bcl-2</dc:subject>
+  <dc:subject>bifc</dc:subject>
+  <dc:subject>puma</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2014</dc:date>
+  <dc:description>La proteína PUMA ha sido propuesta como un importante regulador en la vía mitocondrial de la apoptosis. Sin embargo, el mecanismo molecular por el cual PUMA y otras proteínas sólo-BH3 regulan la apoptosis, especialmente cómo activan a las proteínas Bax y Bak, es todavía controvertido. Estudios previos han analizado las interacciones entre proteínas de la familia Bcl-2 in vitro. En este estudio, mediante la técnica BiFC, fuimos capaces de crear dos líneas celulares estables de HeLa con PUMA y Bcl-xL y con PUMA y Mcl-1 con el fin de investigar las interacciones entre estas proteínas apoptóticas y antiapoptóticas directamente en células humanas vivas. Nuestros resultados indican que estas interacciones también se producen en células vivas, siendo más fuerte la interacción entre PUMA y Bcl-xL que entre PUMA y Mcl-1.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

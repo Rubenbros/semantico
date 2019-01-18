@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Larrodera Arcega, Sergio</dc:creator>
+  <dc:creator>Serón Arbeloa, Francisco José</dc:creator>
+  <dc:creator>Mena Nieto, Eduardo</dc:creator>
+  <dc:title>Desarrollo de un videojuego en red con control compartido en tiempo real</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/47583</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2015</dc:date>
+  <dc:description>Este trabajo explora la idea de un videojuego en el que varios jugadores controlan de forma simultánea al mismo personaje mediante un sistema que ejecute en tiempo real la voluntad de la mayoría. Con este sistema de "control compartido", se persigue que los jugadores tengan que adaptarse al curso de acción decidido por la mayoría en cada momento y tengan que reevaluar constantemente su estrategia en función de lo que está sucediendo y no de los planes que tuvieran previamente.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

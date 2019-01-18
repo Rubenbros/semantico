@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Ochoa Villar, Jorge</dc:creator>
+  <dc:creator>González Bedia, Manuel</dc:creator>
+  <dc:creator>Serón Arbeloa, Francisco José</dc:creator>
+  <dc:title>Modelo de caracterización del espacio (simetrías y dimensionalidad) en agentes artificiales a partir de sensores y efectores desconocidos</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/14498</dc:identifier>
+  <dc:subject>sistemas cognitivos</dc:subject>
+  <dc:subject>percepción</dc:subject>
+  <dc:subject>topología diferencial</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2014</dc:date>
+  <dc:description>En este proyecto nos hemos basado en ideas desarrolladas en modelos mínimos de percepcion espacial generada a partir de la extracción de información en interacción sensomotora. Se revisa en el trabajo un modelo matemático que permite formalizar el modo en que un agente podría deducir las propiedades espaciales del mundo que habita de una manera sensomotora, y, además,la posibilidad de un algoritmo que permita diseñar organismos articiales sin imponerles el mismo hábitat espacial que el de su diseñador. Basándonos en estas ideas, se ha desarrollado un entorno experimental con el fin de testear las ideas que sustentan el modelo y su implementación matemática. El marco experimental ha consistido en el diseño de un entorno virtual con un agente sensomotor que se relaciona con el entorno a través de unas leyes psicofísicas que se han implementado basándose en descripciones básicas provenientes de organismos biológicos. Ademas, se ha diseñado un entorno experimental físico con un agente (robot Lego Mindstorms NXT) que se relaciona con su entorno del que recibe estímulos visuales, probando la robustez del modelo en entornos reales.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

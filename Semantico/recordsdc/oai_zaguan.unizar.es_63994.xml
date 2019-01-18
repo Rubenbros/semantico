@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Lavilla Valiente, Irene</dc:creator>
+  <dc:creator>López Mesa, Belinda</dc:creator>
+  <dc:creator>Espinosa Fernández, Almudena</dc:creator>
+  <dc:title>El BIM y la simulación energética para el diseño de estrategias de rehabilitación energética de la envolvente transparente</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/63994</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:description>En la arquitectura, el mundo del software de diseño y el de la energía todavía se encuentran bastante separados. Este trabajo surge de la necesidad de investigar la compatibilidad entre el BIM y la simulación energética, a través de los programas más extendidos en cada campo, Revit y DesignBuilder.  Para el desarrollo de la investigación se recurrirá a un proceso de ensayo y error con un caso de estudio, hasta obtener unas pautas de trabajo que garanticen la compatibilidad entre Revit y Design Builder, tanto del modelo como de sus  propiedades térmicas. La investigación se realiza sobre el Gran Hotel de Jaca para dar continuidad al proyecto energético de I+D Abracadabra dentro del programa  europeo Horizonte 2020, llevado a cabo por la empresa Zeroaplus, sobre dicho edificio.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

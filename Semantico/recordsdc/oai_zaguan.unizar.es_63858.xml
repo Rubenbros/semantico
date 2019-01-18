@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Toha Ridruejo, María</dc:creator>
+  <dc:creator>Montuenga Gómez, Victor Manuel</dc:creator>
+  <dc:title>The Gender Wage Gap in 2014: Analysis through Quantiles Regression Methods and Blinder-Oaxaca Decomposition</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/63858</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:description>A pesar de la progresiva incorporación de las mujeres al mercado laboral, existen diferencias salariales entre hombres y mujeres. El objetivo principal de este trabajo es analizar la brecha salarial a lo largo de la distribución a través del método de regresiones cuantílicas, en 4 grupos principales que se han clasificado según su naturaleza y ocupación Además, realizaremos la descomposición de la brecha salarial a través del método Blinder-Oaxaca, con el objetivo de ver la proporción de la brecha que queda explicada por las características observables incluidas en el modelo, y la proporción inexplicada, que puede deberse tanto a factores de discriminación como a la no inclusión de variables no incluidas en la especificación. Nuestro objetivo principal con la descomposición, no solo es observar aumentos/disminuciones en la parte explicada e inexplicada con la introducción de nuevas variables, sino también analizar qué variables son las que presentan un mayor poder explicativo al describir la brecha explicada.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>eng</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Frisón Alegre, Luis Ignacio</dc:creator>
+  <dc:creator>Rodríguez Fernández, Ricardo Julio</dc:creator>
+  <dc:creator>Campos Laclaustra, Francisco Javier</dc:creator>
+  <dc:title>Optimización mediante Búsqueda Tabú para problemas no lineales en Redes de Petri</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/64278</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:description>La metaheurística de la Búsqueda Tabú, que consiste en una mejora del método de Búsqueda Local mediante el uso de estructuras de memoria, trata de resolver el problema del estancamiento en un máximo local marcando la solución alcanzada como Tabú y evitándola un número de iteraciones dada (lo que se conoce como Tenencia Tabú), explorando así otras soluciones y permitiendo al algoritmo alcanzar soluciones mejores. Las redes de Petri son una herramienta formal útil para el diseño, análisis e implementación de sistemas concurrentes y distribuidos. Existe una amplia gama de técnicas de análisis funcional y no funcional de este tipo de modelos; algunas de esas técnicas se basan en lo que se conoce como teoría estructural, es decir, en la estructura del modelo (matriz de incidencia, marcado inicial, temporización si la hay) y usan técnicas de programación matemática (como la programación lineal o no lineal) para obtener resultados sobre el comportamiento del modelo. En el ámbito del análisis no funcional, algunas de las propiedades o índices analizables tienen que ver con el rendimiento o prestaciones del sistema (throughput). El problema min-max de Bernardi y Campos consiste en hallar una cota inferior del tiempo de ciclo de la transición que queramos para una red de Petri dada mediante un algoritmo de programación matemática no lineal. Este algoritmo se basa principalmente en elementos estructurales de la Red de Petri bajo estudio. PeabraiN es una herramienta desarrollada en Java que ofrece al usuario una interfaz gráfica amigable para trabajar con Redes de Petri. En este trabajo, se desea implementar la Búsqueda Tabú y adaptarla a la resolución del problema min-max de Bernardi y Campos, para después integrar dicha funcionalidad en PeabraiN y permitir al usuario aplicarla y obtener resultados. Después de la integración, se va a estudiar la aplicación de la búsqueda Tabú a diversos ejemplos con el fin de evaluar su funcionalidad.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

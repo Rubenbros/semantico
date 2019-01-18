@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Pascual López, Guillermo Fabricio</dc:creator>
+  <dc:creator>Carro Ceballos, Pedro Luis</dc:creator>
+  <dc:title>Diseño de antenas y caracterización de su impedancia en entornos móviles</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/5348</dc:identifier>
+  <dc:subject>Diseño de antenas</dc:subject>
+  <dc:subject>Caracterización de impedancia en entornos móviles</dc:subject>
+  <dc:subject>Fractalización de antenas</dc:subject>
+  <dc:subject>Modelos de Hilbert y Minkowski</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2010</dc:date>
+  <dc:description>Los elementos que rodean a un sistema de comunicaciones pueden repercutir de forma negativa en el comportamiento del mismo, degradando las prestaciones de la antena. El entorno, ya sea Outdoor o Indoor, consta de una amplia variedad de objetos cuyo impacto en la antena no puede ser despreciable. Con el objetivo de estudiar la influencia de estos elementos, se procede al diseño de antenas de sistemas de comunicaciones móviles, haciendo especial énfasis en los modelos fractales, como Hilbert o Minkowski, que permiten reducir de forma considerable el tamaño de la antena garantizando las mismas prestaciones, y se estudia la variabilidad de su impedancia de entrada. Tras la realización de estos diseños se obtiene un prototipo de antena fractal Hilbert que garantiza resonancias en las bandas TETRA y WLAN.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

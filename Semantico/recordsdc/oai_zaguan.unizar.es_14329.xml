@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Roy Martín, Carlos</dc:creator>
+  <dc:creator>Bayod Rújula, Ángel Antonio</dc:creator>
+  <dc:title>Estudio de la distribución de tensión frente a impulso tipo rayo en un transformador seco de potencia</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/14329</dc:identifier>
+  <dc:subject>transformador</dc:subject>
+  <dc:subject>distribución de tensión</dc:subject>
+  <dc:subject>reparto de tensión</dc:subject>
+  <dc:subject>impulso tipo rayo</dc:subject>
+  <dc:subject>transitorio de alta frecuencia</dc:subject>
+  <dc:subject>sobretensión transitoria</dc:subject>
+  <dc:subject>arrollamiento de discos</dc:subject>
+  <dc:subject>arrollamiento de banda</dc:subject>
+  <dc:subject>simulación</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2014</dc:date>
+  <dc:description>El tema del proyecto es la distribución de tensión en un transformador cuando se ve afectado por una sobretensión transitoria de alta frecuencia. En concreto se estudian los arrollamientos con configuración de discos y de banda y las sobretensiones que se pueden caracterizar como un impulso tipo rayo 1.2/50 us. El objetivo del proyecto es obtener la distribución de tensión mediante una simulación del circuito equivalente del arrollamiento. Posteriormente se mide la distribución real con objeto de comprobar el error cometido en la simulación.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

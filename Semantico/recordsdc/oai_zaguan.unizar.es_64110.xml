@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Pueyo Ballarín, Clara</dc:creator>
+  <dc:creator>Rández García, Luis</dc:creator>
+  <dc:creator>Herrero Albillos, Julia</dc:creator>
+  <dc:title>Estudio e implementación de distintos métodos de integración numérica para la resolución de la ecuación de transporte de flujo magnético en la superficie solar.</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/64110</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:description>En este Trabajo de Fin de Grado se pretende analizar la resolución  numérica de la ecuación de transporte de flujo magnético en la superficie solar. Se trata de una ecuación en derivadas parciales que, tras ser semidiscretizada espacialmente, da lugar a un sistema de ecuaciones diferenciales ordinarias con deltas de Dirac. Se analizarán e implementarán en un código programado en Python diferentes métodos de integración numérica para su resolución.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

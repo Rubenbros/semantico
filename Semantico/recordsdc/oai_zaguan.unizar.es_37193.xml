@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Perales Tejero, Néstor</dc:creator>
+  <dc:creator>Serón Arbeloa, Francisco José</dc:creator>
+  <dc:title>Proyecto de videojuego Minion's Revenge. Generación procedural de escenarios, ajuste adaptativo de dificultad del juego.</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/37193</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2015</dc:date>
+  <dc:description>Este PFC se enmarca dentro del mundo de desarrollo de los videojuegos. El autor de este documento (Néstor Perales Tejero) ha realizado, como director de un equipo de desarrolladores, el videojuego denominado "Minions' Revenge", cuya tipología es "Rogue-like RPG" en 2D para dispositivos táctiles (móviles y tabletas). 	Las tareas acometidas para la correcta evolución del producto y la dirección del equipo han sido variadas y complejas, entre las que se encuentran:  •Dirección, gestión y administración.  •Análisis de mercado y de tecnologías de desarrollo. •Copias de seguridad y  control de versiones. •Diseño conceptual del juego y documentación. •Diseño gráfico y animación.  •Análisis y diseño software.  •Diseño de la GUI (Graphical User Interface - Interfaz Gráfica de Usuario). •Sistema de archivos y estructuras de datos.  •Sistema de cambio de idiomas.  •Generación procedural aleatoria de salas y mapas. •Ajuste adaptativo a la habilidad del usuario de la dificultad del juego. •Control del personaje.  •Interacción entre elementos del juego (físicas). •Música. •Pruebas internas y externas (sin y con usuarios).</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

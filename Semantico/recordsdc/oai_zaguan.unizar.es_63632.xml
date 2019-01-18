@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Barrios Valero, Samuel</dc:creator>
+  <dc:creator>Villarroel Salcedo, José Luis</dc:creator>
+  <dc:title>Diseño e implementación de una red inalámbrica de sensores para monitorización y comunicaciones en túneles</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/63632</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:description>Este trabajo aborda el desarrollo de una red inalámbrica de sensores autónomos capaz de monitorizar un túnel. El punto de partida es la investigación realizada por el grupo de Robótica, Percepción y Tiempo Real (RoPeRT) de la Universidad de Zaragoza en propagación de la señal de radiofrecuencia en entornos tipo túnel. En base a estudios previos se realiza un análisis experimental en el Túnel ferroviario de Somport, con el objetivo de planificar un despliegue de los nodos de la red aprovechando la propagación particular en este tipo de entornos, dando lugar a una topología de red tipo cadena. A continuación, se implementa un protocolo de comunicaciones multi salto sobre IEEE 802.15.4, permitiendo una gestión energética eficiente de los nodos de la red. De esta forma, los dispositivos se mantienen en un modo de bajo consumo, interrumpiéndolo periódicamente para tomar medidas del entorno y comunicarlas a un nodo base situado en la boca del túnel. Este procedimiento requiere de una sincronización precisa, necesaria para que todos los nodos coincidan durante ventanas temporales periódicas, obtenida mediante la aplicación de Duty-Cycle Synchronization. Finalmente, se demuestra la capacidad de la red como infraestructura de comunicaciones pese al bajo ancho de banda de IEEE 802.15.4. Así, se implementa la teleoperación de un robot móvil, el cual envía mediante la red las lecturas de un LIDAR, recibiendo comandos de movimiento procedentes de un joystick. De esta forma se emula una situación de emergencia, determinada por la lectura de un valor anómalo por parte de un nodo, en la que se introduce el robot en el túnel para inspeccionar la zona.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>eng</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

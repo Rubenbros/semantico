@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Larrea Samper, Jesús Gabriel</dc:creator>
+  <dc:creator>Ares García, Jorge</dc:creator>
+  <dc:title>Diseño de un simulador visual basado en óptica adaptativa</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/13290</dc:identifier>
+  <dc:subject>óptica</dc:subject>
+  <dc:subject>fotónica</dc:subject>
+  <dc:subject>óptica adaptativa</dc:subject>
+  <dc:subject>diseño de instrumento</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2013</dc:date>
+  <dc:description>En el siguiente trabajo fin de grado se aborda el diseño de un simulador visual basado en óptica adaptativa. Este diseño se encamina a la utilización de los recursos de la Universidad de Zaragoza. En él se analizan los sistemas de óptica adaptativa anteriores, y se realizan los análisis de conjugaciones potencias y aperturas del sistema óptico. Se siguen unos criterios de diseño como maximizar la velocidad del sistema, minimizando los riesgos de la luz infrarroja. Maximizar la cantidad de luz que llega al sensor Hartmann Shack. Maximizar el rango de las aberraciones de alto orden corregibles y obtener el control sobre el centrado del sujeto.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

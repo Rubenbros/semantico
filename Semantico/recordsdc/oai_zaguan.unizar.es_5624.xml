@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Gil Vidal, Natanael</dc:creator>
+  <dc:creator>Martínez Gómez, Francisco Javier</dc:creator>
+  <dc:title>Estetoscopio con cancelación de ruido</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/5624</dc:identifier>
+  <dc:subject>estetoscopio</dc:subject>
+  <dc:subject>cancelación de ruido</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2011</dc:date>
+  <dc:description>El objetivo de este proyecto es diseñar un Estetoscopio con Cancelación de Ruido: un estetoscopio que eliminará todos los sonidos que no provienen del interior del cuerpo. El método empleado para alcanzar este objetivo requerirá de un sensor para capturar el sonido del cuerpo y otro para el sonido ambiente, después se realizará un procesado digital de la señal de forma que el sonido del primer sensor quedará limpio y en la salida por los auriculares sólo se podrá escuchar el sonido del corazón, pulmones... sin ninguna interferencia externa.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

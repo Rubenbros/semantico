@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>García Prado, Adián</dc:creator>
+  <dc:creator>Pardo Zubiaur, David</dc:creator>
+  <dc:creator>Celorrio de Pablo, Ricardo</dc:creator>
+  <dc:title>CUDA implementation of integration rules within an hp-finite element code</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/8931</dc:identifier>
+  <dc:subject>integration</dc:subject>
+  <dc:subject>fem</dc:subject>
+  <dc:subject>cuda</dc:subject>
+  <dc:subject>C language</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2012</dc:date>
+  <dc:description>With the introduction in 2006 of CUDA architecture for Nvidia GPUs a new programming model borned. Large number of articles indicates that this new programming model in a new architecture achieves better performance than previous implementations in traditional languages for CPUs. In this work the author tries to show the capabilities of GPU computing. To perform such a task a hp Finite Element integration method is implemented both in CUDA and in C language. After implementation, parallel executions in CPU and GPU will be compared to demonstrate if it is worth to create new algorimths under this architecture.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>eng</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Pardos Montón, Sergio</dc:creator>
+  <dc:creator>Dufo López, Rodolfo</dc:creator>
+  <dc:title>Estudio de la influencia de la modelización de las baterías en el diseño de sistemas basados en fuentes renovables aislados de la red eléctrica</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/61409</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:description>El objetivo de este trabajo consiste en la comparación de distintos modelos para la vida de las baterías de plomo-ácido. Este tipo de baterías son las generalmente utilizadas en instalaciones aisladas fotovoltaicas (PV) e híbridas PV-diésel con almacenamiento energético en baterías. Los modelos a estudio en este trabajo son tres: dos métodos clásicos, Ah ciclos equivalentes y Ah Rainflow y un método más complejo, Schiffer. Antes de realizar las simulaciones con el programa iHOGA 2.2 +PRO se ha estudiado el funcionamiento de dichos métodos por separado.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Langa Sánchez, Adrián</dc:creator>
+  <dc:creator>Riva Fernández, Juan de la</dc:creator>
+  <dc:creator>Hernández Lázaro, Francisco Javier</dc:creator>
+  <dc:title>Aplicación de técnicas de teledetección y SIG a la caracterización espectral e identificación de cultivos de regadío en el Valle del Ebro</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/30682</dc:identifier>
+  <dc:subject>regadío</dc:subject>
+  <dc:subject>Landsat</dc:subject>
+  <dc:subject>Valle del Ebro</dc:subject>
+  <dc:subject>multiestacional</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2014</dc:date>
+  <dc:description>En el presente trabajo se ha desarrollado una metodología de trabajo que ha permitido obtener una caracterización espectral de los cultivos de regadío de la Comunidad General de Regantes del Canal de Barden
+as y de la Comunidad General de Riegos del Alto Aragón a lo largo de su ciclo fenológico. Una vez establecidos y determinados aquellos periodos óptimos para la discriminación de los diferentes cultivos, se ha desarrollado un proc
+eso de clasificación espectral supervisada del que se han extraído diferentes resultados, en función del análisis conjunto de diferentes imágenes Landsat, de momentos diversos del ciclo de los cultivos, lo que ha generado resulta
+dos más satisfactorios. La información utilizada, junto a las imágenes Landsat seleccionadas de los años 20011 a 2014, incluye la cartografía parcelaria de las zonas de estudio procedente del SIGPAC y su correspondiente declaraci
+ón de cultivo para los años señalados.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Madoz Balaguer, Leticia</dc:creator>
+  <dc:creator>Larrodé Pellicer, Emilio</dc:creator>
+  <dc:title>Optimización de operaciones de transporte a través del uso del transporte intermodal</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/5374</dc:identifier>
+  <dc:subject>Intermodalidad</dc:subject>
+  <dc:subject>optimización rutas</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2010</dc:date>
+  <dc:description>El tema del presente Trabajo de Fin de Master es la intermodalidad en el transporte de mercancías, justificado por el auge del transporte sostenible en la sociedad actual. La congestión en las carreteras por el abuso de este modo de transporte, obliga a buscar maneras de desviar parte de esa mercancía a otros modos de transporte, buscando que éstos sean además medioambientalmente más sostenibles, principalmente el barco y el ferrocarril, si bien la intermodalidad incluye también el modo aéreo. Se pretende pues en el Trabajo de fin de Master realizar una metodología para la elección de la mejor ruta en el transporte de mercancías entre dos puntos determinados. Lo novedoso viene dado por el uso en esta ruta de la intermodalidad, teniendo en cuenta los costes que supone la intermodalidad en el transporte de mercancías. Para ello, en primer lugar se expone un análisis y descripción de la intermodalidad, así como de todos los posibles intercambios modales y sus principales características. A continuación se exponen los factores que la condicionan, es decir, los factores relevantes en el transporte intermodal de mercancías, que determinan su efectividad. Y por último se desarrolla una metodología para el proceso de elección de la mejor ruta entre dos puntos, teniendo en cuenta los nodos intermodales intermedios a estos dos puntos. Se plantea el problema, con su función objetivo y sus restricciones, que posteriormente son formuladas, sirviendo como paso previo de una futura tesis doctoral que modelice el cálculo de ese coste intermodal en cada nodo para cada modo de transporte y que resuelva mediante métodos metaheuristicos el problema aquí planteado.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

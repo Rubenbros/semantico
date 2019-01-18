@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Gastón Romeo, Marco</dc:creator>
+  <dc:creator>Riva Fernández, Juan de la</dc:creator>
+  <dc:title>Clasificación digital de imágenes Landsat y caracterización de los pastos de puerto en el Parque Natural de Los Valles Occidentales</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/30772</dc:identifier>
+  <dc:subject>landsat</dc:subject>
+  <dc:subject>clasificación</dc:subject>
+  <dc:subject>pastos</dc:subject>
+  <dc:subject>cervunal</dc:subject>
+  <dc:subject>ocupación del suelo</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2014</dc:date>
+  <dc:description>El objetivo principal del trabajo aquí presentado es la caracterización de los pastos de puerto de las cabeceras de los valles más occidentales del Pirineo aragonés, cabeceras que conforman el Parque Natural de Los Valles Occidentales, el parque junto a su zona periférica es lo que hemos considerado como el área de nuestro estudio. Para esta caracterización utilizaremos técnicas de teledetección, con apoyo en diferentes métodos de clasificación de la ocupación del suelo, sirviéndonos de software específico y trataremos esta información en un entorno SIG. La hipótesis inicial se plantea, obviamente, en términos de la idoneidad del análisis multitemporal en teledetección para la clasificación de los pastos de puerto y la identificación de diferentes tipologías de interés ganadero dentro de esta categoría; pero todo ello fundamentado sobre la base de un buen conocimiento del territorio. Los productos más destacados que queremos obtener son las cartografías de ocupación del suelo, resultado de las diferentes técnicas utilizadas en clasificación. Para conseguir estos objetivos partiremos de la información espectral de las imágenes de satélite del programa Landsat (TM, ETM+ y OLI) la clasificación se completara con información de cartografía existente y el conocimiento personal.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

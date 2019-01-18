@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Gómez Pueyo, Adrián</dc:creator>
+  <dc:creator>Castro Barrigón, Alberto</dc:creator>
+  <dc:title>Un Método para el Cálculo de la Mejor Función de Interacción Electrón-Electrón para un Funcional de Intercambio y Correlación Dado</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/31648</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2015</dc:date>
+  <dc:description>La teoría del funcional de la densidad (DFT) es un método para abordar el problema de varios electrones. Es aproximada, ya que uno de los ingredientes, el llamado ``funcional de intercambio y correlación'', no puede calcularse de manera exacta, y deben usarse diversas formulaciones aproximadas. En este trabajo de fin de máster abordamos el problema de la mejora de estas formulaciones de una manera alternativa: estudiando la relación entre la forma potencial de interacción electrónica y el funcional de intercambio y correlación. En principio, a cada forma de la interacción electrónica (que en la realidad es la forma Coulombiana) corresponde un potencial de intercambio y correlación. De forma que es imaginable que, dado un funcional de intercambio y correlación no exacto para la interacción Coulombiana, exista una interacción electrónica ficticia que le corresponda de forma exacta, o bien que le corresponda de forma aproximada pero óptima. Hemos construido un código que permite investigar numéricamente este problema, y en la presente memoria describimos los resultados obtenidos más relevantes.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

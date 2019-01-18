@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Clemente Salvador, Miguel Ángel</dc:creator>
+  <dc:creator>Fernández-Pacheco Pérez, Amalio</dc:creator>
+  <dc:creator>Gómez Jiménez, Javier</dc:creator>
+  <dc:title>Modelos dinámicos de haces de fibras. Comparación entre dos métodos de cálculo</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/64106</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:description>En este trabajo se estudia la dinámica de la rotura de un conjunto de elementos interactuantes bajo un esquema de reparto de carga local en modelos de haces de fibras. El interés de estos modelos reside en la modelización de las características macroscópicas de materiales reales sometidos a esfuerzos, partiendo de una descripción microscópica. En concreto, se realizan simulaciones de Monte Carlo para estudiar, desde un enfoque estadístico, los tiempos de rotura del sistema, así como otros aspectos como la presencia o ausencia de punto crítico en una y en dos dimensiones. Este estudio se realiza utilizando dos algoritmos diferentes: el método estándar de Monte Carlo y el nuevo método "radiactivo". Otro de los objetivos principales es la comparación de resultados con estos dos algoritmos. Los resultados obtenidos muestran que el método "radiactivo" ofrece ventajas significativas respecto al otro (aunque la dinámica de ambos es similar). También se demuestra que en una dimensión no hay punto crítico pero en dos dimensiones sí, por lo que la dimensión crítica de los modelos dinámicos con transferencia local de cargas es de 2.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

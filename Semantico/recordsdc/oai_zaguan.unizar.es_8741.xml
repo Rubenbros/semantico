@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Equisoain Ladrón de Guevara, Cristina</dc:creator>
+  <dc:creator>Francés Pérez, Eva María</dc:creator>
+  <dc:title>Manual de utilización del software "CADIX" para simulación de unidades de intercambio iónico</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/8741</dc:identifier>
+  <dc:subject>manual cadix de intercambio iónico</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2012</dc:date>
+  <dc:description>El presente proyecto tiene por objeto la elaboración de un manual de uso del software CADIX (Computer Assisted Design for Ion eXchange systems), creado por la compañía Dow Chemical para la simulación de unidades de intercambio iónico.   El proyecto presenta una descripción del proceso de intercambio iónico, en el que se describe su fundamento, los diferentes tipos que hay y algunas de sus aplicaciones más importantes. Se incluye una breve introducción de la empresa “Dow Chemical”, creadora del software y una de las mayores compañías químicas del mundo. A continuación se muestra el manual de utilización del software CADIX, en el cual se describe su descarga e instalación, así como las distintas partes de las que consta el programa. Finalmente incluye un caso práctico para mostrar la aplicación y utilización del programa CADIX para la resolución de un problema concreto de desmineralización de agua.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

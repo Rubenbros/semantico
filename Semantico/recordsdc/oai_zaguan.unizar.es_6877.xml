@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Casas Martínez, José Daniel</dc:creator>
+  <dc:creator>Larrodé Pellicer, Emilio</dc:creator>
+  <dc:title>Modelo de análisis de planes de mantenimiento de material rodante ferroviario</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/6877</dc:identifier>
+  <dc:subject>ingeniería de la fiabilidad</dc:subject>
+  <dc:subject>optimización de costes</dc:subject>
+  <dc:subject>rams</dc:subject>
+  <dc:subject>mantenimiento ferroviario</dc:subject>
+  <dc:subject>análisis de preventivo y correctivo</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2012</dc:date>
+  <dc:description>La teoría de cálculo de costes LCC (“Life Cycle Cost” o, en castellano “Coste de Ciclo de Vida ”) tiene como objeto el definir el coste global de una instalación o equipo durante su ciclo de vida completo, incluyendo costes de adquisición y de explotación (y eliminación en su caso). El desarrollo de una metodología de análisis de costes de mantenimiento en función de la fiabilidad y la necesaria preparación de una herramienta informática de cálculo resultaría de gran interés para administraciones, operadores/mantenedores, fabricantes, la comunidad investigadora y en general el conjunto del sector puesto que, entre otros puntos: 1) Serviría para analizar los costes de los planes de mantenimiento de flotas u otrosactivos ferroviarios, pudiendo así estudiar las variables que en cada operación llevan al punto óptimo de servicio. 2) Ayudaría al proyectista a precisar, durante la fase de diseño, el impacto de utilizar con componentes distinta fiabilidad, puesto que podría calcular el coste de mantenimiento en función de dicha fiabilidad. 3)Serviría para llevar a cabo comparativas (benchmarking) de costes de bajo distintos escenarios (composiciones de flotas, etc…), para establecer y estudiar las relaciones entre diferentes subsistemas del conjunto y en general, para avanzar en futuras investigaciones en el campo del cálculo de costes de mantenimiento electromecánico ferroviario. Por ello, lo que se pretende con el desarrollo de este PFC es adaptar una herramienta informática y establecer un modelo de cálculo de costes de mantenimiento en función de la variable clave, la fiabilidad.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

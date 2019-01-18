@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Fernández Gómez, Rafael</dc:creator>
+  <dc:creator>Casas Nebra, José Roberto</dc:creator>
+  <dc:creator>Asensio Gimeno, Ángel</dc:creator>
+  <dc:title>Sensor EMG para biofeedback en fisioterapia</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/69892</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:description>En este trabajo se presenta el diseño y construcción de un prototipo para la adquisición de señales electromiográficas provenientes de los potenciales eléctricos generados por los músculos. Este prototipo será utilizado por profesionales sanitarios como son los fisioterapeutas para ayudarles a tener un mayor biofeedback del paciente, consiguiendo así poder tratarlo de forma más eficiente y poder detectar posibles lesiones que éste padezca. Con la ayuda de este dispositivo se pretende mejorar las sesiones de rehabilitación que el fisioterapeuta realice.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

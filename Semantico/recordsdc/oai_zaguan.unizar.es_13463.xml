@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Garrido Méndez, Cristian</dc:creator>
+  <dc:creator>Martín Aranda, Diego</dc:creator>
+  <dc:title>Optimización en los procesos de reporte de información de actividad</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/13463</dc:identifier>
+  <dc:subject>sharepoint</dc:subject>
+  <dc:subject>hiberus</dc:subject>
+  <dc:subject>asp.net</dc:subject>
+  <dc:subject>gestión de proyectos</dc:subject>
+  <dc:subject>automatización de procesos</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2014</dc:date>
+  <dc:description>Este PFC consiste en el diseño e implementación de una aplicación contenida en una Intranet empresarial. Ésta planifica, ordena y centraliza toda la información de los distintos proyectos en curso gestionados en una consultora informática (Hiberus). Para el desarrollo de la aplicación, se ha utilizado Sharepoint 2010 así como otras herramientas como Sharepoint Designer 2010 o Viual Studio 2010, las cuales han permitido realizar las modificaciones más avanzadas.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

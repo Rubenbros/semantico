@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Royo Amondarain, Eduardo</dc:creator>
+  <dc:creator>Azcoiti Pérez, Vicente</dc:creator>
+  <dc:creator>Follana Adín, Eduardo</dc:creator>
+  <dc:title>Desarrollo de un algoritmo de simulación geométrico para modelos de gauge acoplados a un campo de Higgs</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/15314</dc:identifier>
+  <dc:subject>ising</dc:subject>
+  <dc:subject>gauge</dc:subject>
+  <dc:subject>higgs</dc:subject>
+  <dc:subject>algoritmos</dc:subject>
+  <dc:subject>critical slowing down</dc:subject>
+  <dc:subject>altas energías</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2014</dc:date>
+  <dc:description>En este trabajo se plantea como objetivo la implementación de un algoritmo de simulación geométrico para el modelo Z(2) gauge-Higgs. Tras una exposición de los resultados relevantes en el campo, se introduce el modelo de estudio y se prueba su dualidad con el modelo de Ising con campo magnético en dimensión dos. Posteriormente se describe en detalle el funcionamiento de los algoritmos implementados y se presentan los resultados obtenidos por estos, incluyendo una comparativa de la eficiencia computacional de cada uno. Adicionalmente, se estudia el modelo de Ising en su sector antiferromagnético, corroborando la existencia de una línea de transición que persiste para valores del campo no nulos, a diferencia del caso ferromagnético.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

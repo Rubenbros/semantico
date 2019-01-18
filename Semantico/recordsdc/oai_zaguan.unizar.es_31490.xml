@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Arregui Untoria, Carlos</dc:creator>
+  <dc:creator>Navarro Elola, Luis</dc:creator>
+  <dc:title>Children and computer vision</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/31490</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2014</dc:date>
+  <dc:description>La tecnología está cada día más presente en nuestras vidas, y por eso es importante que se reciba una educación, desde edades tempranas, que ayude a comprender todo lo que nos rodea, toda la información que tenemos alrededor. Este proyecto se centra en una investigación sobre la visión artificial, explicación de algunos algoritmos y cómo podría ser enseñado a niños de edades cercanas a los 10 años. A edades tan tempranas los niños captan mejor los conceptos a través de lo que les interesa, de ahí que una historia ha sido creada, mediante varios algoritmos de visión artificial, para que ellos entiendan este mundo, todas las posibilidades que hay, sacando sus propias conclusiones.  Después de esta historia, se explican de manera sencilla algunos algoritmos como la sustracción de fondo, SIFT y alineamiento de imágenes (panorámicas), o reconocimiento de objetos, mediante una segmentación previa.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>eng</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

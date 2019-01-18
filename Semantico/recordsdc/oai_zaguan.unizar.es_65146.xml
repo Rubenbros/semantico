@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Gaspar Iranzo, Irene</dc:creator>
+  <dc:creator>Vicente Gimeno, Luis Alfonso</dc:creator>
+  <dc:title>Diversificación del riesgo de una cartera a través de estrategias ingenuas</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/65146</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:description>El objetivo de este trabajo de fin de grado gira entorno al principio de diversificación del riesgo en carteras financieras. Más concretamente, se lleva a cabo un estudio evaluando la efectividad de diferentes estrategias de diversificación a partir de criterios ingenuos, basados en combinaciones de títulos aleatorias, o en criterios no vinculados con conocimientos financieros. Tras comprobar el funcionamiento de estas estrategias, se tratará de identificar el número de títulos mínimo que debe formar una cartera para garantizar que está diversificada. Para lo cual se parte de los resultados obtenidos tras la aplicación de los diferentes criterios "naive", y se establecen las condiciones adecuadas para los niveles de riesgo dados. El contenido de este trabajo se divide en tres bloques principales, en primer lugar se presenta un apartado de contextualización que recoge los fundamentos teóricos en los que se basará el estudio a realizar. A continuación, se presenta el análisis empírico realizado datos históricos de los precios de cierre del Ibex35, para un periodo de 5 años. Por último, se presentan las principales conclusiones obtenidas tras la finalización del estudio.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

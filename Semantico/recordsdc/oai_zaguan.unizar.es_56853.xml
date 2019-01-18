@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Anabitarte Riol, Asier</dc:creator>
+  <dc:creator>Sebastián López, María</dc:creator>
+  <dc:title>Geovisualización y predicción de los valores de NO2 como contaminantes ambientales con posibles efectos en el crecimiento y desarrollo infantil: el caso de estudio en Gipuzkoa en el marco del proyecto INMA (Infancia y Medioambiente)</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/56853</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2016</dc:date>
+  <dc:description>El siguiente trabajo, forma parte del proyecto INMA, cuyo objetivo es el de estudiar el papel de los contaminantes ambientales más importantes en el aire, agua y en la dieta durante el embarazo e inicio de la vida y sus efectos en el crecimiento y desarrollo infantil. En concreto, este Trabajo Fin de Máster surge de la necesidad de crear un modelo de Land Use Regression (LUR) para la creación de un patrón territorial de predicción de NO2 del área de estudio de INMA Gipuzkoa. La geoespacialización de algunas de las variables ya contempladas en el proyecto, junto a la modelización mediante SIG de otras variables territoriales: (usos del suelo, incidencia de tráfico, cercanía a centros escolares…), permiten ampliar la información sobre la realidad territorial analizada. En análisis espacial realizado complementa y mejora el análisis estadístico sanitario. Además, la visualización de la información permite identificar diferentes patrones y posibilita el establecer “áreas críticas” de emisión de NO2, estableciendo de este modo, lugar de priorización para la intervención en cuestiones de Ordenación Territorial (mejora las condiciones ambientales y planificación de la actuación sanitaria).</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

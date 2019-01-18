@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Hernando Carnicer, Álvaro</dc:creator>
+  <dc:creator>Beltrán Blázquez, José Ramón</dc:creator>
+  <dc:title>Sintetizador musical digital con controles inalámbricos mediante Arduino y Raspberry Pi</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/61401</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:description>El trabajo está destinado a la creación de un sistema práctico y barato que permita la síntesis de audio digital en tiempo real. Para ello, nos servimos de las plataformas de Arduino y Raspberry Pi para realizar la monitorización de datos y la exposición de la información para el usuario gracias a un programa generado en Pure Data. Dado que el objetivo principal es que sea un sistema modular, se prioriza la necesidad de que tenga elementos de comunicación inalámbrica a través de módulos de radio frecuencia.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

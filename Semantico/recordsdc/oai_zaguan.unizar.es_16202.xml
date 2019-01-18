@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Begué Pedrosa, Nuria</dc:creator>
+  <dc:creator>Barrio Gil, Roberto</dc:creator>
+  <dc:title>Modelos matemáticos de neuronas</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/16202</dc:identifier>
+  <dc:subject>potencial de acción</dc:subject>
+  <dc:subject>acción potencial</dc:subject>
+  <dc:subject>bifurcación</dc:subject>
+  <dc:subject>dinámica neuronal</dc:subject>
+  <dc:subject>fold</dc:subject>
+  <dc:subject>hopf</dc:subject>
+  <dc:subject>homoclínica</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2014</dc:date>
+  <dc:description>En el presente trabajo se prentende la inmersión en el mundo de los modelos matemáticos de neuronas. En primer lugar, se expone uno de los más modelos más significativos llevado a cabo por Hodgkin y Huxley, con el cual se llevaron el premio Nobel. Este modelo es capaz de describir la generación y propagación del potencial de acción. Por otro lado, la complejidad del modelo anterior en cuanto a estructura lleva a que se presenta el modelo de Hindmarsh y Rose, el cual presentaron posteriormente. Se pretende realizar un estudio cualitativo del mismo con el fin de entender la dinámica neuronal que se sucede durante una acción potencial.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

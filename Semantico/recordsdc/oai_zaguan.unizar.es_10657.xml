@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Lázaro Carrascal, Carmen</dc:creator>
+  <dc:creator>Martínez Gracia, Amaya</dc:creator>
+  <dc:creator>Peña Pellicer, María Begoña</dc:creator>
+  <dc:title>Desarrollo de un modelo básico para la simulación dinámica de la cuenca hidrográfica del Ebro</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/10657</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2013</dc:date>
+  <dc:description>La motivación de estudio de las cuencas hidrográficas es conocer la problemática del agua, es decir la necesidad de lograr equilibrio hidrológico que asegure el abastecimiento suficiente de agua mediante un uso eficiente. Mediante la simulación de cuencas se pretende poder realizar previsiones de cómo pueden afectar cambios medioambientales o humanos en el funcionamiento de la cuenca. Mediante este proyecto se pretende realizar una primera aproximación a la simulación dinámica de la Cuenca Hidrográfica del Ebro a través de ecuaciones diferenciales básicas que modifican los almacenajes principales de la cuenca. Cada una de estas ecuaciones está formada por flujos entrantes y salientes los cuales han sido calibrados para un caso estacionario y con las características específicas correspondientes a la cuenca de estudio. Estas ecuaciones han sido implementadas en Simulink (herramienta de Matlab). Se ha simulado un año natural con datos diarios de precipitación, radiación, caudal y consumos para comprobar las variaciones de los almacenajes a lo largo de un año. Estos resultados han sido verificados mediante la comparación con los datos reales para comprobar el correcto funcionamiento del simulador. Por último se han supuesto diversos escenarios desfavorables para así realizar previsiones de futuro y comprobar como cambios en las entradas de la cuenca afectan el los almacenajes de estudio. Estos cambios podrán llegar a suponer un descenso del 90% en el volumen del río, que es el resultado que más cambia, los otros almacenajes pueden llegar a cambiar también hasta un 20%.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

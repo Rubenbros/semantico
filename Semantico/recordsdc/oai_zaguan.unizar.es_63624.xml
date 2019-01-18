@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>El Shalakany, Hassan</dc:creator>
+  <dc:creator>Domínguez Navarro, José Antonio</dc:creator>
+  <dc:creator>Artal Sévil, Jesús Sergio</dc:creator>
+  <dc:title>Modelado y Simulación de Sistemas de Conversión de Energías Marinas</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/63624</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:description>In this thesis we will discuss and explain the different types of wave energy technologies, we will see the different existing projects of wave energy and the technology used in each case. Then, we will start in our investigation in three specific technologies which are; the Point Absorber which is the Buoy WEC (Wave Energy Converter), second the Attenuators which is The Pelamis WEC, finally we will discuss the Oyster WEC which is a hydro-electric wave energy device. We will have a full mechanical, hydraulic and electrical simulation for each case with the results of each simulation and we will have a comparison between the different technologies discussed.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>eng</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

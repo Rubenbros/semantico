@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Casao Martinez, Sara</dc:creator>
+  <dc:creator>Maza Frechín, Mario</dc:creator>
+  <dc:title>Generación de maniobras pre-crash de vehículos en simulador estático y comando de plataforma generadora de movimiento</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/61157</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2016</dc:date>
+  <dc:description>El trabajo realizado tiene como objetivo la simulación de distintas maniobras producidas por un vehículo antes del impacto, mediante una plataforma estática Stewart generadora de movimiento de seis grados de libertad. Para ello se siguen distintos pasos. En primer lugar, mediante el programa Carsim-ed, se ha realizado una simulación por ordenador de las maniobras escogidas, obteniendo las características físicas del movimiento necesarias para su posterior transformación en secuencias de la plataforma. El siguiente paso, ha sido la transformación de las maniobras realizadas por el vehículo real en movimientos generados por la plataforma, utilizando un programa, ya desarrollado, mediante Matlab y Matlab Simulink, el cual se basa en la aplicación de los estudios sobre la percepción humana del movimiento. Por último, se ha llevado a cabo la reproducción de las distintas maniobras mediante una plataforma estática Stewart de seis grados de libertad y se ha analizado su eficacia en la simulación, comparando los movimientos teóricos obtenidos de Matlab, con las secuencias realizadas por la plataforma, capturadas mediante un sensor XSens. Además, se han visto los efectos de las distintas maniobras sobre dos dummies pediátricos (de tamaño niño) colocados sobre dos asientos de autobús, situados a su vez encima de la plataforma.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

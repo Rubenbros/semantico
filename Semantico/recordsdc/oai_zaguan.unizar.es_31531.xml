@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Oca Gadea, Sethi Altair</dc:creator>
+  <dc:creator>Oliveros Colay, María José</dc:creator>
+  <dc:title>Estudio de las estrategias de reposición entre eslabones de la cadena de suministro en función del grado de colaboración</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/31531</dc:identifier>
+  <dc:subject>cadena de suministro</dc:subject>
+  <dc:subject>grado de colaboración entre eslabones</dc:subject>
+  <dc:subject>witness</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2014</dc:date>
+  <dc:description>En el presente proyecto se estudiará cómo afecta al funcionamiento de la Cadena de Suministro diferentes formas de relación que se establecen entre los eslabones que forman parte de dicha cadena. Así, la primera parte del trabajo consiste en una exhaustiva búsqueda en la literatura actual de modelos de Cadena de Suministro y los distintos grados de colaboración que se pueden dar entre los stakeholders considerados. A continuación, se establecen diferentes modelos de Cadena de Suministro considerando distintos grados de colaboración entre eslabones. Una vez quedan definidos dichos modelos se plantean varios escenarios para estudiar cómo cambian variables tales como costes totales y porcentajes de pedidos entregados satisfactoriamente. La segunda parte del proyecto consiste en diseñar e implementar un modelo de simulación del sistema en Witness (software de simulación), para estudiar el comportamiento de los diferentes escenarios objeto de estudio. Tras la programación del funcionamiento de todos los eslabones de la cadena de suministro de acuerdo a las diferentes estrategias consideradas se procede a realizar las simulaciones pertinentes. Finalmente se analizan todos los resultados obtenidos de Witness para poder concluir qué estrategia de Cadena de Suministro es más favorable en un entorno dado.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

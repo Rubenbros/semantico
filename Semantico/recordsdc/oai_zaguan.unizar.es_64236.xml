@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Vallés Morales, María</dc:creator>
+  <dc:creator>Jiménez Seral, Paz</dc:creator>
+  <dc:title>Teorema de Enumeración de Redfield-Pólya</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/64236</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:description>La fórmula del Teorema de Redfield-Pólya relaciona la acción de un grupo G sobre un conjunto $D$ con la acción de un grupo G sobre un conjunto, al que llamemos conjunto de coloraciones, Ω= {f: D --&gt; R}, con R un conjunto cualquiera. Partiendo del lema de Burnside, que sirve para contar órbitas. Pólya da la fórmula que mide el número de órbitas de la acción de G sobre el conjunto de coloraciones a partir de un polinomio que se contruye conociendo la acción de G sobre D. Esta teoría sirve para responder preguntas como:  ¿De cuántas maneras diferentes puedo pintar una pirámide utilizando dos colores? ¿De cuántas maneras diferentes puedo pintar un cubo utilizando los colores rojo, verde y azul? ¿De cuántas maneras puedo numerar un cubo con números del 1 al 10 de manera que la suma de sus lados sea 20? Si quiero pintar un dodecaedro con rojo, verde y naranja, ¿cuántos dodecaedros de los que pinte tendrán al menos una cara roja?</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

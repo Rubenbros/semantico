@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Escriche Perales, Jaime</dc:creator>
+  <dc:creator>Casas Cañada, Jorge</dc:creator>
+  <dc:creator>Martinez Ruiz, José Ignacio</dc:creator>
+  <dc:title>Análisis, desarrollo e implementación de nuevas funcionalidades para la optimización del módulo de estaciones meteorológicas remotas de la plataforma "Sistema Web de Gestión de Carreteras" (SWGC) de ITERNOVA</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/48538</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2015</dc:date>
+  <dc:description>En este trabajo fin de grado se realizan mejoras en el módulo de estaciones meteorológicas remotas de ITERNOVA para la optimización de la captura de datos haciendo uso de APIs</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

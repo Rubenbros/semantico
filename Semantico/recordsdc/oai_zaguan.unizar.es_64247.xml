@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Contel Maza, Elena</dc:creator>
+  <dc:creator>de la Osada García, Jesús</dc:creator>
+  <dc:creator>Herrera Marcos, Luis Vicente</dc:creator>
+  <dc:title>Efecto de la administración del colesterol mediante distintos vehículos en la expresión génica en HepG2</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/64247</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:description>Hoy en día los métodos principales de purificación de LDL plasmáticas son la ultracentrifugación en gradiente de densidad y la separación cromatográfica. En el presente trabajo se analizan las ventajas e inconvenientes de ambos, concluyendo que la separación cromatográfica presenta una serie de ventajas que la hacen más adecuada para los experimentos que se quieren realizar posteriormente con las preparaciones obtenidas. Una vez obtenidas las preparaciones de LDL purificadas del plasma, es necesario conservarlas. Para ello también existen varios sistemas, siendo los más importantes la criopreservación con sacarosa y la liofilización. Ambos se valoran en este trabajo, no encontrando diferencias significativas en la calidad de la conservación. Se decide utilizar la liofilización para evitar el uso de sacarosa, la cual podría desencadenar respuestas inespecíficas en las células a tratar con las preparaciones de LDL. Con las LDL aisladas por FPLC y posteriormente liofilizadas se hacen pruebas de deslipidización para eliminar los lípidos neutros, entre ellos el colesterol, de manera que puedan funcionar como vehículo de una cantidad conocida de colesterol a añadir. El protocolo utilizado no funciona y no se aprecian diferencias en la concentración de colesterol de las preparaciones tratadas y no tratadas. Finalmente se estudia si la administración de colesterol vehiculizado en LDL o en etanol tiene algún efecto diferencial a las 4 y las 8 horas sobre la expresión de los genes CIDEC (relacionado con la formación de gotas lipídicas), ACOX1 (codifica para la primera enzima de la β-oxidación peroxisomal de los ácidos grasos) y PGC1α (coactivador de factores de transcipción implicados en la regulación del metabolismo de energía) en las células HepG2. Se aprecia sobreexpresión significativa de PGC1α a las 4 horas en células tratadas con LDL con colesterol, mientras que pasadas 8 horas disminuye significativamente su expresión con respecto al control al tratar con colesterol vehiculizado por ambas vías. Por otro lado, se observa correlación en la expresión de CIDEC y ACOX1.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

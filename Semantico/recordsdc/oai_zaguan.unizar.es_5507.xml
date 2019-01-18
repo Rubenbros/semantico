@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Puértolas Bueno, Jorge</dc:creator>
+  <dc:creator>Romea Torralba, Andrés</dc:creator>
+  <dc:creator>Baselga Ariño, Santiago</dc:creator>
+  <dc:creator>Abad Blasco, Javier Óscar</dc:creator>
+  <dc:title>Acondicionamiento de plataforma Stewart para simulador de motocicleta</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/5507</dc:identifier>
+  <dc:subject>Simulador</dc:subject>
+  <dc:subject>Plataforma Stewart</dc:subject>
+  <dc:subject>Sensor</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2010</dc:date>
+  <dc:description>- Diseño de varios sistemas mecánicos, para lograr la estabilidad de la motocicleta dentro de la cabina durante el trazado de curvas. - Elección del diseño más adecuado, estudio completo, realización de cálculos, dibujado de planos y finalmente, montaje sobre la cabina. - Mejorar el programa de simulación realizado en el proyecto anterior mediante la herramienta de programación DarkBASIC Professional. - Adaptar los valores de aceleraciones, cabeceos, balanceos y velocidades angulares de guiñado, a rangos que se producen en situaciones de conducción real. - Modificar los datos egresados por el simulador para el correcto funcionamiento de la plataforma Stewart. - El proyecto termina con la instalación mecánica de los sensores encargados de captar los movimientos producidos por el piloto en la moto, necesarios para la conducción y simulación</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

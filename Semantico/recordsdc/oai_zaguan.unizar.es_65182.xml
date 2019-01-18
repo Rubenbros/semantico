@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Gamazo Tejero, Ángel Javier</dc:creator>
+  <dc:creator>Floría Peralta, Luis Mario</dc:creator>
+  <dc:creator>Gómez Gardeñes, Jesús</dc:creator>
+  <dc:title>Análisis de un modelo estocástico de corrupción</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/65182</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:description>Se presenta en este trabajo un modelo basado en agentes para el complejo fenómeno de la corrupción. El modelo estudiado ha sido inspirado por otros modelos económicos y se considera una red de contactos entre agentes que pueden tomar tres estados. Se consideran probabilidades de transición de carácter endógeno e interacciones entre agentes. Se implementa en primer lugar el método de Monte Carlo con el fin de compararlo con los resultados del proceso de Markov no estacionario que se ha diseñado.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

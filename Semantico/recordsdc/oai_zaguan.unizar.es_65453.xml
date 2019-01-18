@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Hernández Oliván, Carlos</dc:creator>
+  <dc:creator>Beltrán Blázquez, José Ramón</dc:creator>
+  <dc:title>Composición musical mediante una red neuronal</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/65453</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:description>En este trabajo se ha realizado el análisis y la comprobación de una red neuronal existente previamente, que compone música mediante técnicas de Aprendizaje Profundo (Deep Learning). El objetivo del trabajo ha sido realizar un proceso de composición musical automática de una Sonata.  Para ello, tras la comprensión de la red, la iniciación en el lenguaje de programación Python 2 y la generación de una base de datos en formato MIDI mediante los programas Finale y Logic Pro X, se ha diseñado una red optima para la composición, entrenándola y evaluando sus resultados. Además, se exponen tres anexos con el fin de presentar las distintas formas de generar música algorítmica, de definir los conceptos Deep Learning y Big Data, así como de situar en un contexto histórico la Forma Sonata y repasar conceptos fundamentales del lenguaje musical necesarios para comprender tanto la entrada, como la salida de la red. Se muestra la partitura de la obra resultante del entrenamiento de la red en el cuarto y último anexo.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

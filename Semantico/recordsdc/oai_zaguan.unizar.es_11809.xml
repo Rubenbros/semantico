@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Martín  Blázquez, Inmaculada</dc:creator>
+  <dc:creator>Romeo Tello, Antonio</dc:creator>
+  <dc:title>Caracterización empírica y diseño del sistema de control de trayectoria de un quadrotor mediante simulación</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/11809</dc:identifier>
+  <dc:subject>robótica</dc:subject>
+  <dc:subject>simulación</dc:subject>
+  <dc:subject>software de control</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2013</dc:date>
+  <dc:description>A partir de una simulación para MATLAB incluida en la versión 9.7 de la Robotic Toolbox de Peter Corke, se ha procedido a realizar una caracterización empírica del modelo del sistema así como de realizar un control de trayectoria para éste. Además, se ha procedido a programar un generador de trayectorias y una interfaz gráfica para un uso mas amigable de la simulación para un posible usuario.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Soriano Paños, David</dc:creator>
+  <dc:creator>Gómez Gardeñes, Jesús</dc:creator>
+  <dc:title>Dinámicas de contagio en metapoblaciones multicapa</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/63728</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:description>En este trabajo, se ha pretendido abordar la modelización de epidemias en sistemas en los que coexisten diferentes patrones de movilidad de sus individuos. Para ello se ha construido una serie de ecuaciones que permiten caracterizar la evolución espacio-temporal de una enfermedad así como las condiciones bajo las cuales su impacto global en el sistema es relevante. Por último, a partir del formalismo desarrollado, se ha propuesto un indicador para reflejar la distancia social entre cada uno de los estratos en los que se divide la ciudad de Medellín (Colombia)</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

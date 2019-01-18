@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Prieto Rodríguez, Sara</dc:creator>
+  <dc:creator>Sancho Sanz, Javier</dc:creator>
+  <dc:creator>Velázquez Campoy, Adrián</dc:creator>
+  <dc:title>Identificación de compuestos inhibidores dirigidos contra la flavodoxina de Streptococcus pneumoniae</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/63602</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:description>Streptococcus pneumoniae, causante de neumonía, otitis media, meningitis y bacteremia provoca más de un millón de muertes anuales y en un 25% de los casos, secuelas a nivel neurológico. Actualmente, la terapia contra este patógeno se basa en la administración de antibióticos y vacunas polivalentes dirigidas contra los serotipos más comunes, conocidos como “serotipos pediátricos”. La elevada diversidad genotípica y fenotípica de Streptococcus pneumoniae impide su erradicación, por ello es necesaria la búsqueda de una nueva diana terapeútica para combatir las infecciones causadas por este patógeno. En este proyecto de investigación, se realiza un cribado de 1120 compuestos dirigidos contra una proteína implicada en el metabolismo de metionina de Streptococcus, flavodoxina. La expresión del gen de flavodoxina se ha reportado como esencial en la supervivencia e invasividad de la bacteria a través de estudios de expresión génica durante la fase infectiva de Streptococcus.  Su función esencial en el metabolismo bacteriano, la inexistencia de un homólogo proteico en humanos y la ausencia de variabilidad genotípica conducen a la elección de flavodoxina como posible diana terapeútica. A través del estudio de interacción proteína-ligando efectuado mediante el análisis de sus curvas de desnaturalización térmica (thermal-shift assay) se consigue identificar un compuesto que aumenta la estabilidad proteica de flavodoxina (Tm), L-Tiroxina. Los estudios de ITC (isothermal titration calorimetry) realizados para confirmar la interacción entre L-Tiroxina – SpFld fueron favorables, obteniendo valores de KD razonablemente buenos.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

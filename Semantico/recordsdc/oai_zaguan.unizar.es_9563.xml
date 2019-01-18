@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Puertollano Ventura, Luis Alfonso</dc:creator>
+  <dc:creator>Dietz, Armin</dc:creator>
+  <dc:creator>Graß, Norbert</dc:creator>
+  <dc:title>PI-Regler mit Anti-Windup für eine feldorientierte Motorregelung für ein Elektrofahrzeug</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/9563</dc:identifier>
+  <dc:subject>pi regler</dc:subject>
+  <dc:subject>regulador</dc:subject>
+  <dc:subject>regulación</dc:subject>
+  <dc:subject>coche eléctrico</dc:subject>
+  <dc:subject>pwm</dc:subject>
+  <dc:subject>anti-windup</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2012</dc:date>
+  <dc:description>Die Arbeit wurde in Rahmen des europeischen StudentenAustauschprogramms ERASMUS am Institut ELSYS durchgeführt. Es geht um die Programmierung und Steuerung des Motors eines bereits vorhandenen Elektrofahrzeugs (E-Buggy). Für das Fahrzeug braucht man verschiedene Komponenten, wie einen Umrichter der von einem Mikrocontroller gesteuert und geregelt wird, andere Leistungselektronik Elemente, sowie ein kleines Batteriemanagement.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>ger</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

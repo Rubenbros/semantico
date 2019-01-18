@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Usón Andrés, Alberto</dc:creator>
+  <dc:creator>Falceto Blecua, Fernando</dc:creator>
+  <dc:title>Espectro y estados localizados en sistemas fermiónicos compuestos</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/64227</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:description>El tema principal del trabajo consiste en el estudio de cadenas de fermiones con diferentes acoplos entre ellos, que sirven de modelos para diversos materiales (desde el punto de vista de la materia condensada: conductores o aislantes). Haremos simulaciones para analizar algunos aspectos de las uniones de dos estructuras. Nos interesarán tres casos concretos: - Unión Metal-Metal - Unión Metal-Aislante - Unión Aislante-Aislante Para cada uno de ellas, analizaremos de manera detallada diferentes aspectos: espectro de energías, funciones de onda... centrando principalmente nuestro estudio en la aparición de estados altamente localizados.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

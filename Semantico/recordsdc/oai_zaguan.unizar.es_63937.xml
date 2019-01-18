@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Cortés Esteban, Sergio</dc:creator>
+  <dc:creator>López Viñegla, Alfonso</dc:creator>
+  <dc:title>Diseño e implementación del Cuadro de Mando Integral en Fundación Adecco</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/63937</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:description>Proyecto de implementación del Cuadro de Mando Integral para la Fundación Adecco, una organización sin ánimo de lucro que lucha para la reinserción laboral de personas en riesgo de exclusión social y de pobreza.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Alegre Ojer, Fernando</dc:creator>
+  <dc:creator>Alesanco Iglesias, Álvaro</dc:creator>
+  <dc:title>Desarrollo de un bot en la plataforma de mensajería Telegram para el seguimiento de actividad mediante pulseras fitness</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/63729</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:description>El objetivo de este proyecto es combinar los datos de actividad obtenidos con las novedosas pulseras fitness con un bot de Telegram de modo que ofrezca a los usuarios un seguimiento de su actividad diaria, semanal… Para ello se ha diseñado una arquitectura de almacenamiento y procesado basada en computación en la nube (Amazon Web Service) que permita al usuario tanto almacenar sus datos como poder obtener gráficas de sus registros de actividad (pasos, calorías consumidas, actividad diaria). Para el diseño de esta arquitectura se han integrado módulos existentes (el servidor de autenticación OAuth 2.0 y la Fitness Store de Google, el stack ELK) con implementaciones propias (Bot, servidor HTTP) creando una estructura de microservicios. Para utilizar los servicios provistos por la arquitectura se han definido las interacciones que deben seguirse y se han implementado los módulos antes mencionados, utilizando diferentes tecnologías como Python, JavaScript y JQuery.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

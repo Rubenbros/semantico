@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Sabater Royo, Luis</dc:creator>
+  <dc:creator>Aliod Sebastián, Ricardo</dc:creator>
+  <dc:creator>García Asín, Susana</dc:creator>
+  <dc:title>Desarrollo de metodologías de uso y validación de las herramientas implementadas en gestar  2014 para el diseño hidráulico de redes de riego a presión en parcela con cobertura por goteo.</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/31873</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2015</dc:date>
+  <dc:description>La aplicación informática GESTAR que nos permite el diseño y gestión de redes de riego a presión, se ha desarrollado por el equipo de GESTAR I+D+i de la Universidad de Zaragoza. La aplicación está siempre en un continuo avance y perfeccionamiento para adaptarse a las mejoras progresivas que se van realizando en los riegos, y poder así, hacer de GESTAR un programa más robusto y eficaz a la hora de realizar todos los cálculos hidráulicos. Este proyecto fin de carrera tiene como objetivo, ayudar a este desarrollo del programa, que ha incorporado como última mejora, el diseño y dimensionado de las redes de riego por goteo. Para ello se han comparado diferentes dimensionados de parcelas de riego por goteo, además se han aportado ideas, nuevas funcionalidades y herramientas específicas que incorporar al programa, para hacer de este una herramienta más ágil, manejable y útil para el usuario final.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

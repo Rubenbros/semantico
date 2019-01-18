@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Ascaso Javierre, Diego</dc:creator>
+  <dc:creator>Pellicer Corellano, Francisco</dc:creator>
+  <dc:title>Aportaciones SIG a la Infraestructura Verde de Zaragoza. Desarrollo de una base de datos para las zonas verdes.</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/64800</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:description>Actualmente uno de los problemas que más preocupa al Ayuntamiento de una gran ciudad es la cantidad de zonas verdes que hay en su término municipal y su conectividad. Estas áreas de esparcimiento son esenciales para evitar una ciudad monótona y gris donde impera el hormigón. A través de diferentes ejemplos en diversas ciudades y con las políticas que han llevado a cabo para crear una Infraestructura Verde, se podrá hacer una idea de cómo gestionan sus áreas verdes. Los Sistemas de Información Geográfica (SIG) son una herramienta más que útil para conocer, analizar y facilitar los trabajos de mantenimiento de tales espacios. Gracias a los ejemplos explicados y con ayuda de los SIG, se propone crear una base de datos de las zonas verdes para el Ayuntamiento de Zaragoza, que se incluye en una de las acciones necesarias en el Plan Director para la Infraestructura Verde de Zaragoza dentro del Proyecto Life.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

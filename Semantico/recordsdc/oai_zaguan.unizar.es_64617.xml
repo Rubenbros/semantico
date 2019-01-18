@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Estacio Gandia, Beatriz</dc:creator>
+  <dc:creator>Pérez Cabello, Fernando  </dc:creator>
+  <dc:creator>Borini Alves, Daniel</dc:creator>
+  <dc:title>Clasificación digital basada en objetos a partir de ortoimágenes de alta resolución e imágenes Pleiades de zonas urbanas</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/64617</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:description>Este trabajo ha consistido en el análisis del método de clasificación de imágenes basado en objetos (OBIA) para la identificación de elementos (teja, chapa, asfalto, piscinas) en diferentes áreas urbanas. Se emplean imágenes de muy alta resolución espacial obtenidas de la fotointerpretación de los núcleos rurales de Godojos, Langa del Castillo y Moneva, así como una imagen Pleiades del distrito Universidad de Zaragoza. Se establece un modelo de segmentación y clasificación mediante el software ERDAS Imagine basado en las características de los objetos de la imagen. La cartografía generada es validada y comparada con una cartografía derivada de las ortoimágenes de muy alta resolución mediante un muestreo aleatorio obteniéndose un grado de confianza aceptable (&gt;70%), siendo un método alternativo a los procesos de interpretación visual y clasificación a nivel de píxel.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

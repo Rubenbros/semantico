@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Ontaneda Cortez, Santiago</dc:creator>
+  <dc:creator>Bayod López, Javier</dc:creator>
+  <dc:title>Estudio del espolón en el calcáneo y de la extracción de los huesos sesamoideos</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/16003</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2014</dc:date>
+  <dc:description>Partimos  de un modelo de pie creado anteriormente para otros estudios. Tanto en el caso del espolón en el calcáneo como en el de los sesamoideos, el trabajo que hemos llevado a cabo es muy similar.  Hemos creado los grupos pertinentes en I-DEAS para simular los dos casos y para posteriormente poder observar los resultados en ABAQUS. Una vez creados los grupos, los hemos exportado a ABAQUS, para obtener un archivo .INP que lo modificaremos aportando los datos que tenemos de cargas, condiciones de contorno, propiedades de los tejidos, etc.  Con la ayuda de Cluster, realizamos los cálculos y obtenemos un archivo .ODB que es el que nos permitirá abrir ABAQUS para poder observar los resultados. Una vez que visualizamos los resultados, modificamos los límites de las leyendas para poder apreciar de una mejor forma, las variaciones que ha habido en cada caso y poder compararlas con el caso de referencia.  Con estos resultados hemos realizado un análisis y obtenido unas conclusiones.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

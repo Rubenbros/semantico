@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>López Ruiz, Alejandro</dc:creator>
+  <dc:creator>Fraile Lambea, Almudena</dc:creator>
+  <dc:creator>Santolaria Mazo, Jorge</dc:creator>
+  <dc:creator>Samper Carnicer, David</dc:creator>
+  <dc:title>Desarrollo calibración y verificación de sistemas de digitalización basadas en proyección de franjas de luz blanca estructurada</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/15365</dc:identifier>
+  <dc:subject>proyección de franjas</dc:subject>
+  <dc:subject>código gray</dc:subject>
+  <dc:subject>digitalización 3d</dc:subject>
+  <dc:subject>nubes de puntos</dc:subject>
+  <dc:subject>luz blanca estructurada</dc:subject>
+  <dc:subject>ingeniería inversa</dc:subject>
+  <dc:subject>controles de calidad</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2014</dc:date>
+  <dc:description>En una época en la que la ingeniería inversa se desarrolla a gran velocidad y las impresoras 3D son cada vez más comunes en el ámbito doméstico, son necesarios sistemas de reconstrucción de objetos 3D que se adapten a las nuevas necesidades. En este punto se va a realizar el prototipo de un escáner 3D utilizando el método de la proyección de franjas de luz blanca a partir de un esquema basado en cámara y proyector, controlado mediante softwares ingenieriles aprendidos a lo largo del Grado.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

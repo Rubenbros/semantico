@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>San Miguel Tello, Alberto</dc:creator>
+  <dc:creator>Florentín Mahulea, Cristian </dc:creator>
+  <dc:creator>Civera Sancho, Javier</dc:creator>
+  <dc:title>Aprendizaje por Refuerzo y Planificación en un Sistema Multirobot</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/65359</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:description>Este Trabajo Fin de Grado aborda el problema de navegación de unos agentes móviles sobre un entorno con obstáculos desconocidos para ellos, realizando los movimientos necesarios para alcanzar una serie de posiciones finales partiendo de unas iniciales. El método elegido para su resolución ha sido el algoritmo Dyna-Q, que combina técnicas Aprendizaje por Refuerzo y Planificación, implementándose primero en el caso de un agente para después extenderlo al caso multiagente mediante un planteamiento propuesto en este estudio. Se ha realizado una fase de experimentación sobre los parámetros del algoritmo para el caso de un agente con el fin de interpretar su influencia sobre la ejecución del problema, y determinados resultados se han aplicado sobre los casos multiagente y se ha evaluado su viabilidad. Finalmente, se ha planteado la implementación de los métodos y evaluación de los resultados sobre una plataforma real compuesta por varios agentes móviles, abarcando las posibles limitaciones que presente. planteado la implementación de los métodos y evaluación de los resultados sobre una plataforma real compuesta por varios agentes móviles,abarcando las posibles limitaciones que presente.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

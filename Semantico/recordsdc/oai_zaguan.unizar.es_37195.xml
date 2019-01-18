@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Lambán Cosculluela, César</dc:creator>
+  <dc:creator>Porta Royo, Luis</dc:creator>
+  <dc:title>Driver para matriz de leds RGBW</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/37195</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2015</dc:date>
+  <dc:description>El presente proyecto consiste en el diseño de un driver de potencia, para el control de una matriz de leds RGBW. Esta matriz a su vez, está controlada por una placa Arduino, con una aplicación de Windows para su control y visualización en PC. Este driver además de controlar la cantidad de iluminación de cada uno de los canales de la matriz (rojo, verde, azul o blanco), controla la temperatura de la misma, para evitar posibles daños por un sobrecalentamiento excesivo. Una de las principales aplicaciones de estas matrices de leds, es la utilización como luces espectaculares y ambientales, donde soportan varias horas de servicio ininterrumpido, dando lugar a la posible situación de sobrecalentamiento. El proyecto ha sido íntegramente elaborado en la Escuela de Ingeniería y Arquitectura de la Universidad de Zaragoza.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

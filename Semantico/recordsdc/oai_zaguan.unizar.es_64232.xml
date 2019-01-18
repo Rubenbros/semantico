@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Sández García, Carlos</dc:creator>
+  <dc:creator>Artal Bartolo, Enrique Manuel</dc:creator>
+  <dc:creator>Cogolludo Agustín, José Ignacio</dc:creator>
+  <dc:title>Polinomio de Alexander, número de enlace y enlaces algebraicos</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/64232</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:description>Se dará una introducción teórica a los enlaces algebraicos y se clasificarán a través del polinomio de Alexander de las componentes y los números de enlace dos a dos. Se desarrollará una implementación en Sagemath que permita el enlace algebraico al que pertenece una determinada trenza, si es algebraica.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>eng</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

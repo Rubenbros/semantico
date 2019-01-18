@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Falo Morales, Andrés</dc:creator>
+  <dc:creator>Martín Nuez, Luis Antonio</dc:creator>
+  <dc:creator>Solobera Abad, Javier</dc:creator>
+  <dc:title>Dispositivo sensorial biométrico autónomo con monitorización remota en tiempo real</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/37186</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2015</dc:date>
+  <dc:description>Dispositivo que es capaz de medir diferentes parámetros biométricos con varios sensores de la platadorma e-Health durante el ejercicio físico o para usarlo con una persona accidentada en un lugar de difícil acceso y que a su vez manda la información de los sensores de forma inalámbrica a un punto central por dos sistemas inalámbricos distintos.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

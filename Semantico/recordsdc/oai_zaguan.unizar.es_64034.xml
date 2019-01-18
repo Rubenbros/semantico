@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Hernández Mozota, Daniel</dc:creator>
+  <dc:creator>Canalís Martínez, Paula María</dc:creator>
+  <dc:title>Cálculo de un puente grúa de 25 Tm. y 15 metros de luz</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/64034</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:description>El trabajo se ha centrado en el cálculo de los diversos accionamientos presentes en un puente grúa: el mecanismo de elevación de la carga útil, el mecanismo de movimiento traslación y el  mecanismo de movimiento longitudinal.  Para ello se definieron los parámetros de carga útil y longitud de la nave. con estos se calcularon las velocidades necesarias. Con las velocidades calculadas se diseñaron los tres mecanismos, que constaban básicamente de tres reductores. También se diseño partes de la estructura de la grúa. Y por último se realizo el análisis en solidworks de diversas partes de la estructura.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

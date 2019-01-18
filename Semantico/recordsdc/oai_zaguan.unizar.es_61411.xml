@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Val Cremades, Juan Carlos de</dc:creator>
+  <dc:creator>Lacasta Soto, Asier</dc:creator>
+  <dc:creator>García Navarro, María Pilar</dc:creator>
+  <dc:title>Desarrollo de un servicio web de simulación con aplicación en el diseño de sistemas de distribución de agua</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/61411</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:description>Desarrollo de una herramienta web al servicio de un simulador de redes de canales hidráulicos de lámina libre. Todo ello realizado en la nube, esto es, sin necesidad de descargar ni instalar software en el dispositivo conectado desde el que se esté utilizando. Es este punto, junto a la usabilidad, el que marca la diferencia entre este programa y algunos otros existentes que deben ser ejecutados en local desde su propio equipo.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

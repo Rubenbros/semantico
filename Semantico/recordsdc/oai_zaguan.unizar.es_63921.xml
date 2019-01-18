@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Gasión Boj, Ana</dc:creator>
+  <dc:creator>Tapia Barcones, Javier</dc:creator>
+  <dc:creator>Calvo Calzada, Elena</dc:creator>
+  <dc:title>Panorama del turismo español en el periodo 2004-2016. Análisis de la estacionalidad del gasto del turismo extranjero.</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/63921</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:description>El objetivo del presente trabajo es conocer el impacto que el turismo tiene en España analizando algunas de las macromagnitudes en las que parece tener un mayor efecto y estudiando a continuación si, como ocurre en otras variables turísticas, el gasto turístico extranjero presenta un efecto estacional en la serie histórica 2004-2016, para finalmente obtener un modelo econométrico fiable que prediga de forma correcta el futuro de la serie. La estacionalidad se estudiará mediante los contrastes de Kendall y Kruscal-Wallis, precedidos ambos por el Test de Daniel realizado con el propósito de conocer si la serie presenta una tendencia marcada en su evolución. Los modelos propuestos son un modelo autorregresivo de la familia ARIMA y un Modelo General Lineal con estimadores MCO, para comprender las diferencias entre ellos y observar las predicciones de cada uno. Los resultados obtenidos ponen de manifiesto que la serie gasto turístico extranjero presenta, como se quería comprobar, una destacada estacionalidad y para que la serie pueda ser estudiada y los resultados de las predicciones resulten fiables en el modelo ARIMA es necesario que la serie sea estacionaria, es decir, contante en media y varianza y presente los mínimos signos de estacionalidad. Las predicciones obtenidas con el modelo ARIMA se ajustan mucho a la realidad, pero en las predicciones del modelo MCO se observa en algún mes ruptura estructural, aunque por supuesto ambas no se pueden comparar, ya que son modelos que estudian aspectos diferentes.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

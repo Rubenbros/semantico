@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>García El Hachimi, Alejandro</dc:creator>
+  <dc:creator>Pardina Carrera, Antonio</dc:creator>
+  <dc:title>Equipo de medida para monitorización y auditoría de consumo eléctrico en instalaciones de baja tensión</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/10494</dc:identifier>
+  <dc:subject>pfc equipo de medida para monitorización en tiempo real</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2013</dc:date>
+  <dc:description>Proyecto desarrollado para un equipo de medida destinado a medir el consumo eléctrico real de una instalación de baja tensión. El equipo esta diseñado con un circuito integrado de medida y una tarjeta de adquisición de datos Velleman K8055. La información se procesa en un software que trabaja con este tipo de tarjetas y se realiza una auditoría energética permitiendo comparar con las diferentes tarifas eléctricas del mercado y también conocer los parámetros de la instalación (Potencia activa, pico y media así como consumo real).</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

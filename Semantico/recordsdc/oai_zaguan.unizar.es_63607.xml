@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Latorre Alberich, Alejandro</dc:creator>
+  <dc:creator>Ortín Gracia, Jorge</dc:creator>
+  <dc:title>Propuesta y evaluación de un sistema centralizado de seleccion de canal y asociación de usuarios en una red IEEE 802.11</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/63607</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:description>Típicamente, la selección de canal de los puntos de acceso en una red WLAN IEEE 802.11 se realiza de manera individual (manual o mediante algoritmos sencillos) por cada punto de acceso al conectarse a la red. Además, por defecto, los usuarios se asocian con el punto de acceso más cercano sin tener en cuenta el estado de la red. Ambas decisiones son inefientes y contribuyen a generar un alto nivel de interferencia en la red que degrada las prestaciones. Este TFM se contextualiza dentro del entorno de desarrollo de una arquitectura de red WLAN virtualizada (basada en SDN), dentro del proyecto europeo Wi-5. En dicho proyecto se plantea la existencia de un controlador central capaz de gestionar los distintos puntos de acceso. Así, el objetivo de este TFM es proponer un algoritmo centralizado, que, en función de la topología de la red, sea capaz de encontrar tanto la distribución de canales entre los diferentes puntos de acceso como la asociación de usuarios a los puntos de acceso más adecuados para maximizar las prestaciones de la red.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Morlana Ledesma, Javier</dc:creator>
+  <dc:creator>Martínez Montiel, José María</dc:creator>
+  <dc:title>Demostrador VSLAM con partes rígidas y deformables</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/64165</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:description>Se ha implementado un sistema de VSLAM (Simultaneous Location and Mapping with Visual sensor) que procesa secuencias de vídeo que incluyen una escena  con elementos tanto rígidos como deformables.  El objetivo es un programa para procesar la secuencia de vídeo obteniendo un modelo 3D de la escena y la posición de la cámara respecto del modelo construido, todo ello en tiempo real a frecuencia de vídeo. Para ello se ha construido una escena física para el demostrador que contiene un material textil de gran riqueza visual y deformable bajo la acción de una fuerza. El marco del demostrador es rígido y se encuentra estático en la escena.   Para construir el software se ha partido del sistema ORBSLAM, que es un sistema de VSLAM para escenas rígidas, extendiéndolo para que pueda procesar las escenas que contienen el demostrador. La parte no rígida se inicializa mediante  una segmentación entre los puntos rígidos y deformables del mapa 3D del demostrador en reposo. Con los puntos identificados como deformables se construye el modelo de deformación, que consiste en una malla regular triangular. Cada frame se procesa secuencialmente, buscando y emparejando los puntos no rígidos del mapa en cada nueva imagen. Si el demostrador sufre deformaciones, aparecerá un error de reproyección en estos emparejamientos. Una optimización no lineal reduce este error modificando la posición de los nodos de la malla, estimando así la deformación ocurrida. El sistema ha sido validado experimentalmente y es capaz de estimar pequeñas deformaciones a frecuencia de vídeo.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

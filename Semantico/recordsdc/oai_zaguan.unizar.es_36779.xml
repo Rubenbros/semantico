@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Muzás Crespo, Beatriz A.</dc:creator>
+  <dc:creator>Mateo Collazos, Pedro</dc:creator>
+  <dc:creator>Salvador Figueras, Manuel</dc:creator>
+  <dc:title>Diseño de una herramienta para la valoración del precio de viviendas</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/36779</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2015</dc:date>
+  <dc:description>Se ha desarrollado una herramienta para la valoración de precios de viviendas mediante la utilización de algoritmos genéticos y el uso de modelos de regresión lineal desde un enfoque bayesiano. Esta herramienta, de fácil implementación, podrá ser utilizada en diversos organismos, tanto públicos como privados, como pueden ser la Administración del Estado, Jurados Provinciales de Expropiación, Compañias Aseguradoras o Entidades Bancarias.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Lucea Sanz, Beatriz</dc:creator>
+  <dc:creator>Malvè, Mauro</dc:creator>
+  <dc:title>Análisis de la fluidodinámica de la vena cava en maniobra de neutra y valsalva: Estudio de la influencia de filtros antitrombóticos</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/9139</dc:identifier>
+  <dc:subject>filtro antitrombo</dc:subject>
+  <dc:subject>cfd</dc:subject>
+  <dc:subject>vena cava</dc:subject>
+  <dc:subject>trombosis</dc:subject>
+  <dc:subject>maniobra de valsalva</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2012</dc:date>
+  <dc:description>Los filtros antitrombos de vena cava son usados para prevenir el tromboembolismo pulmonar, especialmente en aquellos pacientes que no pueden ser tratados con anticoagulantes. En el presente trabajo se va a realizar un análisis fluidodinámico de vena cava paciente específico tanto en estado de respiración normal como en maniobra de valsalva. Además se estudiará la funcionalidad y la influencia de diferentes prototipos comerciales de filtros anitrombos en los dos estados anteriormente citados. Para ello se analizarán sus efectos sobre el flujo sanguíneo y sobre la tensión tangencial en la pared del vaso usando la técnica CFD. Concretamente se realizará el modelado de dos tipologías diferentes del filtro comercial Günther-Tulip.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

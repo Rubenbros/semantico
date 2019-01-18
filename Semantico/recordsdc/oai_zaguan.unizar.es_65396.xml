@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Fumanal Idocin, Javier</dc:creator>
+  <dc:creator>Aguilera Lizarraga, Miguel</dc:creator>
+  <dc:creator>González Bedia, Manuel</dc:creator>
+  <dc:title>Estudio y análisis de la red neuronal del gusano Caenorhabditis elegans</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/65396</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:description>En este trabajo se ha analizado la actividad neuronal de una parte del cerebro de un gusano C.elegans en movimiento utilizando modelos de máxima entropía para simular el comportamiento del mismo. A partir del modelo, se estudian el régimen de actividad del sistema en busca de signos de criticalidad: distribución de Zipf, capacidad calorífica, evolución de la entropía con la temperatura e índice de magnetismo. Además, se ha estudiado la relación entre la topología del modelo y su relación con la actividad del mismo, y se reconstruido utilizando distintas técnicas el cableado original de la red. También se ha realizado un clasificador para poder discernir el comportamiento del gusano en un momento determinado, a partir de su actividad neuronal dicho momento.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

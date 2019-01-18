@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Artal Paracuellos, Natalia</dc:creator>
+  <dc:creator>Larrodé Pellicer, Emilio</dc:creator>
+  <dc:title>Implementación de un sistema de Pila de Combustible en el sistema de control  de un vehículo eléctrico</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/31946</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2015</dc:date>
+  <dc:description>−	Objetivo: Incorporación a la algoritmia original del vehículo eléctrico base, las estrategias de control y seguridad de una segunda fuente basada en una tecnología de la pila de combustible. Con la implementación de la segunda fuente de energía, se conseguirá aumentar la autonomía del vehículo de forma eficiente, manteniendo las medidas de seguridad estándar e incorporando las concernientes a la pila de combustible. Su estrategia de energía (“Energy Management”) será desarrollada e integrada en la existente. −	Finalidad: Incremento de la autonomía de un vehículo eléctrico y apoyo al sistema de tracción liderado por la batería, aumentando su ciclo de vida útil. Desarrollo de tecnología novedosa y limpia.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

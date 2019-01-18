@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Espejo García, Borja A.</dc:creator>
+  <dc:creator>Sidda, Naveen</dc:creator>
+  <dc:title>Energy4People: Sistema de soporte para la toma de decisiones en el dominio de las energías renovables orientado al usuario no experto</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/12086</dc:identifier>
+  <dc:subject>decision support system</dc:subject>
+  <dc:subject>business intelligence</dc:subject>
+  <dc:subject>olap</dc:subject>
+  <dc:subject>mdx</dc:subject>
+  <dc:subject>gis</dc:subject>
+  <dc:subject>java</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2013</dc:date>
+  <dc:description>Este proyecto propone un sistema de soporte a la toma de decisiones, en el dominio de las energías renovables y orientado a usuarios no expertos. El sistema utiliza de manera transparente para el usuario técnicas de BI como la integración de datos, que ha sido aplicada a datos procedentes de satélites de la NASA, estructuras multidimensionales como cubos OLAP y modelos de datos orientados al análisis como el esquema de estrella de un data warehouse. Con este sistema, por ejemplo, un usuario no experto puede visualizar y entender dónde es mejor realizar una inversión en paneles solares.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

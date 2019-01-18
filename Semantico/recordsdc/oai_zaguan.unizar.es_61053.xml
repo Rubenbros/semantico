@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Millan Luna, Javier</dc:creator>
+  <dc:creator>Franco Gimeno, José Manuel</dc:creator>
+  <dc:title>Estudio de proceso de fabricación por deformación plástica mediante Elementos Finitos</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/61053</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2016</dc:date>
+  <dc:description>El presente trabajo realiza un estudio mediante simulación computacional por Elementos Finitos del proceso de forja en caliente, mediante el empleo del paquete Abaqus CAE, un software genérico en el cálculo de elementos finitos, y la implementación de un diseño 2D mediante Abaqus CAE.  Se considera el comportamiento del material en el llenado de la matriz, así como la fuerza a realizar por la prensa dependiendo de los diferentes canales de rebaba. Para el estudio se simulará el proceso de forja de una biela, partiendo tanto de un elemento en bruto como de un elemento preformado. Con el objetivo de aportar conocimiento del comportamiento de la forja dependiendo de su diseño.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

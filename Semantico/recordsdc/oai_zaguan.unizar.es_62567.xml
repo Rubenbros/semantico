@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Gascón Vicente, Natalia</dc:creator>
+  <dc:creator>Villanúa Martín, Inmaculada</dc:creator>
+  <dc:title>Estudio del comportamiento de dos contrastes de normalidad a través de experimentos de Monte Carlo.</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/62567</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:description>El Trabajo de Fin de Grado lleva a cabo un estudio sobre el comportamiento de dos contrastes de Normalidad de Jarque-Bera y Lilliefors, a través de experimentos de Monte Carlo. Tras definir el contexto de nuestro trabajo, esto es, un modelo econométrico lineal (Modelo Lineal General), y establecer las hipótesis básicas  cuyo cumplimiento suele suponerse, en este documento se presentan los problemas derivados de la falta de normalidad del término de perturbación en un modelo econométrico, así como la forma de detectarla. Nuestro objetivo es estudiar los dos contrastes propuestos de normalidad de forma comparada, y analizar su capacidad para detectar este problema. En las simulaciones realizadas consideramos modelos en los que la perturbación aleatoria (ui) sigue una distribución diferente a la normal, para así poder observar si los resultados que muestran un comportamiento adecuado de los contrastes, esto es,  si detectan esta ausencia de normalidad. La potencia y el tamaño de los contrastes son utilizados para analizar la adecuación  de los contrastes,  e intentar establecer una comparación entre ellos.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Barbería Sánchez, Ana Isabel</dc:creator>
+  <dc:creator>Cebrián Guajardo, Ana Carmen</dc:creator>
+  <dc:title>Procesos de Poisson para la modelización de sucesos extremos</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/59083</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2016</dc:date>
+  <dc:description>Los procesos puntuales,  y en particular los procesos de Poisson son herramientas muy utilizadas en modelización estadística en múltiples disciplinas como ingeniería,  epidemiología,  hidrológica,  climatología,  etc.,  ya que permiten representar la ocurrencia de sucesos raros o extremos.  La justificación de esta utilización no es solo empírica sino que se basa en resultados de la teoría de valores extremos.  Utilizando estos resultados se desarrollo una aproximación para el análisis de valores extremos,  denominada POT (peak over threshold)  o pico sobre umbral,  que permite modelizar las ocurrencias de los valores que están por encima de un umbral extremo en una serie temporal de variables.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

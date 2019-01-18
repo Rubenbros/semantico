@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Pons Rivas, Ignacio</dc:creator>
+  <dc:creator>Cajal Hernando, Carlos</dc:creator>
+  <dc:title>Tareas complementarias al desarrollo de tecnologías de fabricación por adición de capas</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/8848</dc:identifier>
+  <dc:subject>fabricación aditiva</dc:subject>
+  <dc:subject>prototipado rápido</dc:subject>
+  <dc:subject>errores</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2012</dc:date>
+  <dc:description>Recopilación de información acerca de los actuales sistemas de fabricación por adición de capas, e investigación de los principales errores inherentes a estas tecnologías para su depurado y correcta implementación.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

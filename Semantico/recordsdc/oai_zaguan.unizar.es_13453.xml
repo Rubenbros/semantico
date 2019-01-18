@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Borniquel Moreno,Daniel</dc:creator>
+  <dc:creator>Vakkilainen, Esa</dc:creator>
+  <dc:title>Desarrollo de modelos matemáticos para gasificación de biomasa</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/13453</dc:identifier>
+  <dc:subject>gasificación</dc:subject>
+  <dc:subject>biomasa</dc:subject>
+  <dc:subject>modelo matemático</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2014</dc:date>
+  <dc:description>El presente proyecto comprende el desarrollo de diversos modelos para gasificación de biomasa. La primera parte consta de la generación de un modelo termodinámico basado en el equilibrio, un modelo que incorpora además elementos experimentales y la simulación de dos plantas de gasificación de biomasa (una con vapor de agua y la otra con aire) con el software comercial Aspen Hysys. Se han analizado y comparado los modelos entre sí y con resultados experimentales. La segunda parte corresponde con el desarrollo de dos modelo puramente experimentales, uno para gasificación con vapor de agua en lecho fluidizado y otro en lecho fijo. Se ha hecho una comparativa global de todos los modelos con resultados experimentales para observar cuál es el que mejor resultados aporta.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Jiménez Olalla, Fabio</dc:creator>
+  <dc:creator>Brosed Dueso, Francisco Javier</dc:creator>
+  <dc:title>Estrategias de análisis de imagen para la detección de defectos en la superficie de rodadura de rodamientos utilizando visión industrial</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/65221</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:description>En el presente trabajo se pretende estudiar diferentes estrategias de análisis de imagen, con el objetivo de detectar dos tipos de defectos superficiales en rodamientos. Para ello se empleará una muestra facilitada por Fersa Bearings, en la que se diferencian tres grupos, y se dispone de la magnitud de los errores para cada pieza. El proceso que hemos seguido ha sido capturar imágenes de las piezas mediante visión industrial, segmentar estas imágenes, para así aislar la zona donde aparecen estos defectos. Inicialmente se trabaja con las piezas catalogadas como correctas, para así extraer los valores “normales” que debe presentar una pieza para ser considerada como pieza sin defecto superficial, y una vez se dispone de ellos, se extrapola el procedimiento a toda la muestra, recalculando y/o ajustando dicho procedimiento si fuera necesario. Para el tratamiento de las imágenes y el procesamiento de los datos se ha empleado el software Matlab®, el cual dispone de un gran potencial para el análisis de imagen y procesado de datos extraídos de la misma (histograma, filtrado…) Por último se comparan los datos obtenidos con los facilitados por Fersa Bearings para analizar el posible potencial industrial de este proceso de análisis de piezas.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

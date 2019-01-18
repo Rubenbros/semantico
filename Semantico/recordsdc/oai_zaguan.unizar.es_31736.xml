@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Bragg Gonzalo, Lorena</dc:creator>
+  <dc:creator>Miana Mena, Francisco Javier</dc:creator>
+  <dc:creator>González Ibáñez, David</dc:creator>
+  <dc:creator>Grasa Orús, Jorge</dc:creator>
+  <dc:title>Caracterización experimental y simulación computacional de un modelo de oxidación in vitro</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/31736</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2015</dc:date>
+  <dc:description>El trabajo propuesto se engloba dentro de una línea interdisciplinar del Grupo de Investigación AMB (Applied Mechanics and Bioengineering), orientada principalmente a la caracterización fisiológica, bioquímica y mecánica de diferentes tejidos biológicos. A través de los datos experimentales obtenidos, se elaboran modelos computacionales que sirven para simular y predecir el comportamiento de estos tejidos ante diferentes situaciones fisiológicas o patológicas. Una de estas situaciones a las que los tejidos se ven expuestos habitualmente es el estrés oxidativo, que se da en los tejidos cuando aparece un desequilibrio entre la generación de radicales libres y las defensas antioxidantes del mismo. Puede darse en situaciones tan distintas como procesos inflamatorios o infecciosos, fatiga muscular, diversas patologías neurodegenerativas, el envejecimiento, en situaciones de isquemia-reperfusión durante algunas intervenciones quirúrgicas, etc… Como vemos, el origen es muy diverso y puede afectar a todos los tejidos. En cualquier caso, los radicales libres generados son capaces de dañar estructuras celulares mediante la oxidación de los lípidos y proteínas que las componen, afectando así su funcionalidad. A través de este trabajo se pretende simular y predecir cuál será el comportamiento de un determinado tejido al ser expuesto a una situación de estrés oxidativo in vitro.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

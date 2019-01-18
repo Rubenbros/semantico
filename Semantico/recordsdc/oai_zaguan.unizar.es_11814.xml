@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Velázquez Millán, Roberto</dc:creator>
+  <dc:creator>Barragán Pérez, Luis Ángel</dc:creator>
+  <dc:creator>Sagüés Blázquiz, Carlos</dc:creator>
+  <dc:title>Control digital de un convertidor Buck mediante realimentación lineal del estado</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/11814</dc:identifier>
+  <dc:subject>modelo</dc:subject>
+  <dc:subject>estado</dc:subject>
+  <dc:subject>estados</dc:subject>
+  <dc:subject>realimentación</dc:subject>
+  <dc:subject>lineal</dc:subject>
+  <dc:subject>buck</dc:subject>
+  <dc:subject>convertidor</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2013</dc:date>
+  <dc:description>En este Trabajo Fin de Máster se presenta el control digital por realimentación del estado de un convertidor Buck. La implementación se realiza en coma fija sobre una FPGA. Los fundamentos básicos se obtienen de las asignaturas “Control de etapas electrónicas de potencia” y “Modelado de convertidores electrónicos de potencia” del Máster de Ingeniería Electrónica y de la asignatura “Ingeniería de control” optativa de 5º curso Ingeniería Industrial. Se usan referencias específicas que se detallan en la memoria para conseguir de forma ordenada el objetivo planteado.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

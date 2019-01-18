@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Alquézar Ibáñez, Alejandro</dc:creator>
+  <dc:creator>García Moros, José</dc:creator>
+  <dc:title>Generación e intercambio de imágenes médicas con perfil DICOM entre una aplicación diseñada en Android y una red social privada alojada en una instancia EC2.</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/64180</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:description>El objetivo principal es la creación de una plataforma privada en la que compartir imágenes de carácter médico. Para una mayor portabilidad, este proyecto consta de una aplicación móvil creada para la toma de fotografías y la posterior generación de archivos con extensión '.dcm' donde se pueden encontrar tanto la imagen realizada previamente, cómo información acerca del paciente.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

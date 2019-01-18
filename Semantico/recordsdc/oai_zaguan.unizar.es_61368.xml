@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Rouffineau, Frédéric</dc:creator>
+  <dc:creator>Beltrán Blázquez, José Ramón</dc:creator>
+  <dc:title>Desarrollo de una red social y herramientas para cantantes mediante una aplicación Android</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/61368</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:description>El trabajo realizado consiste en la realización de una aplicación Android para cantantes llamada Singvibes que les permite analizar su afinación en tiempo real. También permite encontrar a otros miembros e intercambiar con ellos para ofrecer a los usuarios herramientas a la vez técnicas como un detector de tono y de la afinación, y la oportunidad de mejorar al contacto de otros cantantes. La realización consistió en dos proyectos. Por una parte, se realizó la implementación de un servidor desplegado en una instancia EC2 en el cloud de Amazon, desde la configuración hasta el desarrollo y la implementación propia del paradigma MVC mediante un framework personal llamado LeafStormMVC. Por otra parte, se desarrolló la aplicación Android con la implementación de un detector de tono utilizando el Fast-Lifting-Wavelet Transform algorithm (documentado en la memoria). A la hora de entrega, el proyecto está en fase Beta (funcionalidades básicas de análisis y de red social implementadas). El documento ajuntado presenta todas las etapas importantes del proyecto, desde el establecimiento de los objetivos y requisitos hasta la implementación y la planificación futura con la integración de la aplicación en el Google Play, que seguirá una mejora continua de tipo ágil.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

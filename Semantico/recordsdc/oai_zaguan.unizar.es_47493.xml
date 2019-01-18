@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>García Fortún, Javier</dc:creator>
+  <dc:creator>Hernández Solana, María Ángela</dc:creator>
+  <dc:title>Balance de tráfico y provisión de QoS en redes IEEE 802.11</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/47493</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2015</dc:date>
+  <dc:description>El trabajo fin de grado ha consistido en la implementación en el software de código libre Network Simulator 3 y su posterior evaluación de diferentes soluciones y estrategias de balanceo de tráfico entre distintos puntos de acceso en despliegues multicelulares de redes de área local IEEE 802.11g. Para evaluar y comparar las distintas estrategias de una forma realista se han considerado distribuciones de usuarios y de tráficos variables a la vez que se han empleado los parámetros establecidos en las normas IEEE 802.11 y se ha modelado las condiciones del canal radio de una forma lo más realista posible. Como conclusión se han elaborado unos algoritmos que, a partir de los múltiples resultados que se han obtenido de las diferentes simulaciones realizadas, intentan maximizar la calidad de servicio que una red de área local puede ofrecer al usuario, marcando como objetivo maximizar el throughput y reducir el retardo que deben soportar en sus transmisiones.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>González Sáez, Carolina</dc:creator>
+  <dc:creator>Aguilar Marín, Juan José</dc:creator>
+  <dc:title>Verificación geométrica de Máquina Herramienta con Ballbar telescópico</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/47506</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2015</dc:date>
+  <dc:description>Medición con Ballbar telescópico de errores geométricos en tres Máquinas Herramienta CNC, dos fresadoras y un torno, y detección de imprecisiones introducidas por el control y los sistemas de servo-dirección. El Ballbar permite ejecutar ensayos de circularidad. Si la Máquina Herramienta no tiene errores, el resultado del ensayo sería un círculo perfecto. Por el contrario, si tiene errores presenta un círculo distorsionado. La medida de esas distorsiones determinará el tipo de error y su amplitud.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

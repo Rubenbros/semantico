@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>España Morales, Maria</dc:creator>
+  <dc:creator>Gargallo Valero, Pilar</dc:creator>
+  <dc:creator>Beamonte San Agustín, María Asunción</dc:creator>
+  <dc:title>Diseño de una app web para la búsqueda de vivienda: una visión holística.</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/69508</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2018</dc:date>
+  <dc:description>Este trabajo tiene como fin la creación de una herramienta automatizada que, teniendo en cuenta el contexto socioeconómico y las necesidades familiares, ofrezca al usuario alternativas habitacionales tales como compra, alquiler u otros contratos de tenencia intermedia. Previo al diseño de la herramienta, este estudio presenta un análisis del panorama macroeconómico del mercado inmobiliario, así como un análisis microeconómico de los factores que influyen en la fijación del precio de una vivienda desde el punto de vista de los agentes que intervienen en el proceso de compra-venta. Además, esta investigación incorpora el trabajo de campo necesario para poder confeccionar una base de datos a partir de los anuncios de viviendas en venta de tres distritos de la capital Zaragozana. La base de datos se obtiene con herramientas de data harvest. El trabajo finaliza con una propuesta de vivienda para dos perfiles distintos de personas que quieren establecer su hogar en Zaragoza.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Muley Vilamu, Lucas</dc:creator>
+  <dc:creator>Blasco Marín, Rubén</dc:creator>
+  <dc:title>Sistema de monitorización para el apoyo al tratamiento del trastorno por déficit de atención con hiperactividad</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/5619</dc:identifier>
+  <dc:subject>sensores</dc:subject>
+  <dc:subject>aceleración</dc:subject>
+  <dc:subject>bio-feedback</dc:subject>
+  <dc:subject>hiperactividad</dc:subject>
+  <dc:subject>tdah</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2011</dc:date>
+  <dc:description>Desarrollar un sistema de bio-feedback, basado en sensores inerciales, con el fin de ayudar a niños con trastorno por déficit de atención con hiperactividad en la mejora de su autocontrol. Este sistema detectará los estados de actividad del niño con el objeto de que él sea capaz de controlarlo. El sistema de bio-feedback consistirá en uno o más sensores inerciales que deberá portar el usuario del sistema. Estos sensores se comunicarán inalámbricamente con un PC, donde se realizará un análisis en tiempo real de las señales recibidas y se generará un estímulo visual y/o auditivo. Para su desarrollo se utilizará el “Eco Kit”.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

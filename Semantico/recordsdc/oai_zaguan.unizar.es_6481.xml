@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Pollán Bella, Rubén</dc:creator>
+  <dc:creator>Radeva, Anastasiya</dc:creator>
+  <dc:title>Desarrollo de una capa de abstracción de hardware y clases FESA para la renovación del sistema de control de los aceleradores del CERN</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/6481</dc:identifier>
+  <dc:subject>cern</dc:subject>
+  <dc:subject>acelerador</dc:subject>
+  <dc:subject>control</dc:subject>
+  <dc:subject>fesa</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2011</dc:date>
+  <dc:description>Proyecto que desarrolla una capa de abstracción de hardware y una serie de herramientas sobre ella para la actualización de hardware y software de aceleradores en el CERN. En el se han diseñado interfaces coherentes para una gran diversidad de hardware, con características diversas, unificando la forma de acceso al mismo y abstrayendo su complejidad. Se han puesto en marcha varias instalaciones reemplazando equipos muy antiguos aportando un nuevo diseño mas sencillo, mejor documentado y mas robusto.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

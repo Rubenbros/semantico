@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Chueca Lázaro, Manuel</dc:creator>
+  <dc:creator>Izquierdo Núñez, David</dc:creator>
+  <dc:creator>Altabás Navarro, José Antonio</dc:creator>
+  <dc:title>Desarrollo de un sistema basado en algoritmos genéticos para la determinación de la señal de modulación en un láser VCSEL</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/63730</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:description>Se plantea el desarrollo de un sistema de aprendizaje automático basado en algoritmos genéticos para la obtención de pulsos de modulación óptimos para la modulación en fase en un VCSEL. Para ello se realiza una caracterización completa del VCSEL utilizado, obteniendo los parámetros que definen su respuesta en fase a partir de la señal de modulación. Posteriormente se genera un entorno de simulación mediante el cual se diseña el algoritmo genético que será finalmente utilizado, definiendo una función de coste teórica que evalúa la proximidad de cada pulso de modulación al resultado óptimo. Finalmente, el algoritmo genético diseñado mediante simulación se implementa en un entorno experimental, analizando la convergencia del sistema y presentando el pulso optimizado para una transmisión de 1 Gbps. El pulso resultante se utiliza para modular el VCSEL, realizando una comparativa entre dicho resultado y los obtenidos con anteriores pulsos de modulación utilizados en otros estudios del mismo campo.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

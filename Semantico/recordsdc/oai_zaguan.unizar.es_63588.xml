@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Díez Señorans, Guillermo</dc:creator>
+  <dc:creator>Falo, Fernando</dc:creator>
+  <dc:creator>Fiasconaro, Alessandro</dc:creator>
+  <dc:title>Traslocación de biopolímeros a través de nanoporos</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/63588</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:description>En este trabajo se ha diseñado una configuración adecuada para la simulación de la traslocación de polímeros en condiciones inéditas, como es un sistema poro-membrana flexible e interactuante, que ha sido posteriormente implementado en Gromacs vía un campo de fuerzas mesoscópico (MARTINI). Se han obtenido las propiedades características de la traslocación en función de los parámetros mecánicos del poro.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

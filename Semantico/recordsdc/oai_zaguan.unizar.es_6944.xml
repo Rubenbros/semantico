@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Juez Jiménez, Alejandro</dc:creator>
+  <dc:creator>Monge Prieto, Rosa María</dc:creator>
+  <dc:title>Desarrollo de electrónica de control para setups microfluídicos dedicados al cultivo celular</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/6944</dc:identifier>
+  <dc:subject>electrónica de control</dc:subject>
+  <dc:subject>microfluídica</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2012</dc:date>
+  <dc:description>Resumen Este proyecto fin de carrera se enmarca  dentro de un proyecto de investigación más amplio cuyo objetivo es el desarrollo de nuevas herramientas de cultivo celular basadas en microtecnologías para la consecución de nuevas vías de ensayo y experimentación. La aplicación de estas nuevas tecnologías permitirá controlar el escenario mecánico, químico y eléctrico de las muestras biológicas. Con la introducción de estas nuevas tecnologías se podrá pasar de la experimentación in-vivo a la experimentación in-vitro, es decir, se reducen el número de experimentos que hay que realizar con animales. Para realizar ensayos in-vitro capaces de dar resultados equivalentes a las pruebas realizadas in-vivo se precisa de la recreación de un ambiente biomimético para las muestras biológicas. Esto se consigue con la fabricación de chips de microfluídica que presentan microcámaras y microcanales. En estas cámaras se depositan las células que van a ser objeto de estudio, mientras que los canales  son utilizados para aportar los distintos elementos necesarios para recrear un entorno lo más parecido posible a un tejido vivo.  Para conseguir el ambiente biomimético que estamos buscando, además de los chips de microfluídica se necesita  todo un setup microfluídico que consiste, de manera esquemática, en encapsulado para el chip, reservorio, válvulas y microbomba.  En la primera parte de este proyecto se presenta el control electrónico de una microbomba de membrana mediante un microcontrolador. La microbomba se usa en los experimentos de cultivo celular como herramienta para impulsar el fluido, imprescindible para el desarrollo de éstos. Para permitir al usuario un manejo más sencillo del sistema, se ha realizado un sencillo programa de Labview que permite la comunicación entre el microcontrolador y un ordenador. Además, se introduce el desarrollo del control de un sistema de válvulas también por medio del microcontrolador antes mencionado. Por último, se muestran  las gráficas correspondientes a la caracterización de la bomba, así como las PCBs desarrolladas.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Pont Esteban, David</dc:creator>
+  <dc:creator>Montano Gella, Luis Enrique</dc:creator>
+  <dc:creator>Villarroel Salcedo, José Luis</dc:creator>
+  <dc:title>Navegación autónoma de un multi-rotor: control automático de la altura mediante sensor láser</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/64166</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:description>Se ha desarrollado el control de altura de un quadcopter mediante el uso del escáner láser Hokuyo URG-04LX, para medir la altura del drone respecto al suelo. El usuario será capaz de fijar la consigna de altura del drone desde un ordenador, de manera que el drone se adapte a dicha altura y consiga estabilizarse una vez alcanzada. Los demás grados de libertad del drone pueden manipularse mediante el mando de control.  Para implementar dicho control ha sido fundamental todo el trabajo de puesta a punto del drone, dejándolo en las condiciones más óptimas posibles para facilitar la labor del controlador en un sistema con gran tendencia a desestabilizarse. La implementación de la aplicación se ha realizado en el microcontrolador TMS320F28377S de Texas Instruments y se ha construido sobre el sistema de tiempo real SYSBIOS facilitado por el entorno de programación Code Composer Studio. Se ha trabajado con las últimas versiones de todos estos paquetes. Finalmente se ha procedido a la implementación del control en el drone real, realizando varios ensayos para ajustar correctamente los parámetros del controlador y se han obtenido resultados satisfactorios.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

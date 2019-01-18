@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Alonso Lozano, Álvaro</dc:creator>
+  <dc:creator>Sivalingam, Senthoorselvan</dc:creator>
+  <dc:title>Gasificación en gasificadores de flujo arrastrado: Simulación en ASPEN plus y comparación</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/9706</dc:identifier>
+  <dc:subject>aspen plus</dc:subject>
+  <dc:subject>gasificación</dc:subject>
+  <dc:subject>carbón</dc:subject>
+  <dc:subject>biomasa</dc:subject>
+  <dc:subject>simulación</dc:subject>
+  <dc:subject>igcc</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2012</dc:date>
+  <dc:description>El documento consta de diferentes simulaciones en ASPEN Plus de una planta IGCC con diferentes modelos de gasificador y diferentes métodos de enfriamiento del gas. Se realizan cuatro simulaciones principales, dos con carbón como combustible, una con biomasa y una última donde se estudia la co-gasificación de carbón y biomasa. Los resultados obtenidos para las diferentes plantas son estudiados y una breve valoración es expresada.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

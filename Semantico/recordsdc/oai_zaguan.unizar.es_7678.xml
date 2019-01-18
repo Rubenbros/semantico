@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Cabrera Arenas, Mirko Antonio</dc:creator>
+  <dc:creator>Monge Prieto, Rosa María</dc:creator>
+  <dc:title>Desarrollo de encapsulados para chips de microfluídica dedicados al cultivo celular</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/7678</dc:identifier>
+  <dc:subject>encapsulados</dc:subject>
+  <dc:subject>microfluídica</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2012</dc:date>
+  <dc:description>El marco general de este proyecto se sitúa sobre uno mayor cuyo objetivo es el desarrollo de nuevas herramientas de cultivo celular basadas en microtecnologías para la consecución de nuevas vías de ensayo y experimentación que permitan reducir la experimentación con animales y optimizar el desarrollo de nuevos fármacos a través de pruebas de test masivo. De este modo se buscan generar nuevas técnicas para la experimentación “in-vitro” en condiciones lo más parecidas a las “in-vivo”. Estas condiciones “in-vivo” se simulan mediante el desarrollo de chips microfluídicos basados en tecnologías de litografía de SU-8. Estos chips, donde se depositan las células vivas, tienen un tamaño de 1 cm de largo por 1 cm de ancho y con una disposición interna (cámaras, canales, etc.) aún menor (del orden de los 100 micrómetros o inferior). He aquí donde se ha de enmarcar el objetivo del presente trabajo: el desarrollo de una interfaz mecánica que conecte los elementos externos necesarios para la supervivencia de las células (fluidos, nutrientes, oxígeno, etc.) con los microcanales y cámaras que contienen a los organismos vivos. Esto es, diseñar y fabricar unos encapsulados que conecten el entorno macro manipulado por el investigador con las condiciones micro en las que viven las células.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights/>
+</oai_dc:dc>

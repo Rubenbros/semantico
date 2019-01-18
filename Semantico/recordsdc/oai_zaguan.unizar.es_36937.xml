@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Ascaso Nerín, Miguel</dc:creator>
+  <dc:creator>Vázquez Lapuente, Manuel</dc:creator>
+  <dc:title>Test de primalidad para sistemas criptográficos</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/36937</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2015</dc:date>
+  <dc:description>Estudio histórico de los diversos sistemas criptográficos y la necesidad de suministrarles números primos de gran tamaño. Se muestra el funcionamiento de algunos de los principales test de primalidad utilizados para encontrar dichos primos culminando con la presentación, demostración y ejemplificación del reciente algoritmo AKS.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Casans Gabasa, Andrea</dc:creator>
+  <dc:creator>San Ambrosio Beirán, Ismael</dc:creator>
+  <dc:creator>Martínez Jimenez, Juan Pablo</dc:creator>
+  <dc:title>Estudio de estructuras de flujo a partir de datos de viento radial obtenidos con radar meteorológico</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/64212</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:description>El trabajo ha consistido en la adquisición de unos conocimientos en el área de meteorología para posteriormente, ser capaces de analizar diferentes tipos de estructuras mesoescalares. Para ello se ha elaborado un algoritmo sencillo que caracterice su comportamiento y las clasifique como convergencias, divergencias, mesociclones o mesoanticiclones.  Uno de los objetivos futuros de AEMET sería la incorporación de un algoritmo de este tipo en sus aplicaciones YRADAR.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

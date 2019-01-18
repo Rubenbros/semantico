@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Ramírez Aretio, Santiago</dc:creator>
+  <dc:creator>Lleida Solano, Eduardo</dc:creator>
+  <dc:title>Sistemas de alteración de la voz para falsear la identidad en sistemas de verificación de locutor</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/15370</dc:identifier>
+  <dc:subject>verificación</dc:subject>
+  <dc:subject>identidad</dc:subject>
+  <dc:subject>locutor</dc:subject>
+  <dc:subject>voz</dc:subject>
+  <dc:subject>spoofing</dc:subject>
+  <dc:subject>tampering</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2014</dc:date>
+  <dc:description>En este trabajo se exploran diferentes técnicas para modificar la información sobre la identidad del locutor de señales grabadas de voz. Aplicando el modelo excitación-filtro para el proceso de producción del habla, el objetivo es modificar la información de la señal de excitación y del tracto vocal por separado. Para valorar las trasformaciones realizadas se ha usado un sistema de verificación de locutor del estado del arte. Usando las trasformaciones  propuestas se simulará un ataque al verificador donde se tratará de modificar u ocultar la identidad de un locutor.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

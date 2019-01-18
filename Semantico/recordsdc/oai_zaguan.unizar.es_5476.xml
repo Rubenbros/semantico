@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Hurtado Navallas, Santiago</dc:creator>
+  <dc:creator>Martín San José, Jesús</dc:creator>
+  <dc:creator>Malón Litago, Hugo</dc:creator>
+  <dc:title>Análisis del comportamiento frente a fatiga de uniones soldadas de acero de alto límite elástico</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/5476</dc:identifier>
+  <dc:subject>acero</dc:subject>
+  <dc:subject>vida a fatiga</dc:subject>
+  <dc:subject>simulación</dc:subject>
+  <dc:subject>método de elementos finitos</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2010</dc:date>
+  <dc:description>El objetivo principal de este estudio se centra en prever la vida a fatiga del material una vez soldado. Para ello realizaremos diferentes simulaciones por ordenador basadas en la aplicación del MEF y la comparación con los ensayos de laboratorio. Para realizar las simulaciones por ordenador es necesario obtener mediante ensayos y cálculos las propiedades del material. Diseñado el modelo en el ordenador se le introducirán dichas propiedades obtenidas, para posteriormente realizar la simulación aplicando varios casos de carga y diferentes criterios de vida a fatiga. Los resultados obtenidos serán comparados con los de los ensayos de laboratorio, para los cuales se han fabricado probetas de dimensiones normalizadas</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

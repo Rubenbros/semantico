@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Diego Sáenz-López, Borja</dc:creator>
+  <dc:creator>Grasa Orús, Jorge</dc:creator>
+  <dc:title>Simulación computacional del tejido muscular esquelético. Sensibilidad del modelo y comportamiento activo</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/6250</dc:identifier>
+  <dc:subject>simulación computacional tejido muscular esquelético</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2011</dc:date>
+  <dc:description>El presente Proyecto Fin de Carrera ha sido desarrollado en el Área de Mecánica de Medios Continuos y Teoría de Estructuras, en el departamento de Ingeniería Mecánica de la Universidad de Zaragoza.  Parte de la idea de llevar a cabo dos objetivos principales. El primero de ellos, es el estudio del comportamiento de un modelo de elementos finitos del músculo tibial anterior de rata frente a la variación de los parámetros del material. En este caso se ha simulado el comportamiento pasivo del material, utilizando tanto geometrías idealizadas del músculo y del tendón, como una malla de elementos finitos que reproduce la unidad músculo-tendón. Para ello se han utilizado tanto los valores de la media y la desviación obtenidos mediante ensayos experimentales en laboratorios, como valores aleatorios generados a partir de los mismos. En el segundo objetivo, se ha llevado a cabo la simulación del comportamiento activo frente a contracciones isotónicas concéntricas. En este modelo se distinguen dos orientaciones diferentes de las fibras musculares. En la primera de ellas, todas las fibras están orientadas a lo largo de la dirección longitudinal, y la otra simulación sigue la geometría fusiforme del músculo.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

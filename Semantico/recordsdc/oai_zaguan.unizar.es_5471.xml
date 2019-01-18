@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Gómez Armas, David</dc:creator>
+  <dc:creator>Ibarz García, Alejandro</dc:creator>
+  <dc:creator>Bono Nuez, Antonio</dc:creator>
+  <dc:title>Cargador de baterías inductivo para dispositivos alimentados por USB</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/5471</dc:identifier>
+  <dc:subject>Cargador</dc:subject>
+  <dc:subject>Baterías</dc:subject>
+  <dc:subject>Inductivo</dc:subject>
+  <dc:subject>USB</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2010</dc:date>
+  <dc:description>El objeto del proyecto enunciado consiste en la redacción y diseño de un prototipo de cargador de baterías inductivo para dispositivos que utilicen el sistema de alimentación USB. Este desarrollo servirá como base a futuras investigaciones o mejoras que permitan incorporar con comodidad y total seguridad esta tecnología de recarga inalámbrica al dispositivo que se desee</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

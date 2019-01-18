@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Terreros Martínez, Pablo</dc:creator>
+  <dc:creator>Gabarre Raso, Sergio</dc:creator>
+  <dc:title>Estudio numérico del modelo de bielas y tirantes para vigas de gran canto de la Instrucción EHE08</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/48535</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2015</dc:date>
+  <dc:description>Análisis cualitativo del comportamiento de una viga de gran canto, simulada mediante elementos finitos, modificando sus parámetros y comparando sus resultados con los obtenidos de las fórmulas simplificadas de la EHE08.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

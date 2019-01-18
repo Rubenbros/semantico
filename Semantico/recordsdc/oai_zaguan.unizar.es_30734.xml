@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Ochoa Ordóñez, Oswaldo</dc:creator>
+  <dc:creator>Montañés Bernal, Antonio</dc:creator>
+  <dc:title>Modelando la volatilidad del crecimiento del PIB real: caso Ecuador</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/30734</dc:identifier>
+  <dc:subject>ecuador</dc:subject>
+  <dc:subject>variación del pib real</dc:subject>
+  <dc:subject>volatilidad</dc:subject>
+  <dc:subject>cambio estructural</dc:subject>
+  <dc:subject>outliers</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2014</dc:date>
+  <dc:description>Este trabajo investiga la volatilidad que experimenta el PIB real del Ecuador para la muestra comprendida entre 1901 y 2009. Se trata de evidenciar hasta qué punto esta variable presenta volatilidad y su grado de persistencia, frente a la posible existencia de outliers y cambios estructurales que pueden inducir un grado espúreo de heterocedasticidad condicionada. Además se busca determinar si dicha volatilidad tiene algún tipo de efecto sobre el crecimiento de la economía ecuatoriana. Los resultados no son favorables a esta hipótesis, al contrario de lo que ocurre en otras economías, como la de USA o Japón.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

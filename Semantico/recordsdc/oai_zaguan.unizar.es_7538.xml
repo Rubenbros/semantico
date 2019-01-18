@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Chiné Hidalgo, Abel</dc:creator>
+  <dc:creator>Gonzalo Callejo, Alberto</dc:creator>
+  <dc:title>Simulación y control de una planta para la producción de dimetil éter</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/7538</dc:identifier>
+  <dc:subject>planta de dimetil éter</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2012</dc:date>
+  <dc:description>En este proyecto se realiza la simulación y el control de dos plantas químicas en el programa matemático Matlab. La primera es una planta de compuestos genéricos, en la que se seleccionan los emparejamientos para el control adecuados y se simulan tres lazos de control de manera individual. La segunda es una planta para la producción de Dimetil Éter, en la cual se seleccionan los emparejamientos para el control adecuados y se realiza la simulación completa de la planta.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

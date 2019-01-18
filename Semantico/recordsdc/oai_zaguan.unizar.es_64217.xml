@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Díez Ibáñez, David</dc:creator>
+  <dc:creator>Artal Bartolo, Enrique </dc:creator>
+  <dc:creator>Marco Buzunáriz, Miguel Ángel</dc:creator>
+  <dc:title>Determinación algorítmica del grupo fundamental de un plano con agujeros y aplicaciones a la monodromía de trenzas</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/64217</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:description>Se presentan conceptos de geometría algebraica como el grupo fundamental o las homotopías, de cara a su uso como base teórica para presentar las monodromías de trenzas obtenidas a partir de cubiertas. En particular este trabajo define el invariante algebraico de una curva conocido como monodromía de trenzas de la curva y se propone un método algorítmico para la obtención de bases geométricas del grupo fundamental del plano con agujeros, punto vital para la obtención de este invariante. Por supuesto, conceptos algebraicos necesarios como los grupos libres o los grupos de trenzas también se tratan aquí.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

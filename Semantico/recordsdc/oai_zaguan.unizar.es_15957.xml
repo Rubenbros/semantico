@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>García García, Gabriel</dc:creator>
+  <dc:creator>Miguel Artiaga, Antonio</dc:creator>
+  <dc:title>Desarrollo de un sistema de seguimiento de pitch y detección de caras en secuencias de vídeo de bajo coste computacional para su aplicación en herramientas de asistencia a la logopedia</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/15957</dc:identifier>
+  <dc:subject>pitch</dc:subject>
+  <dc:subject>seguimiento</dc:subject>
+  <dc:subject>viterbi</dc:subject>
+  <dc:subject>robusto</dc:subject>
+  <dc:subject>detección de caras</dc:subject>
+  <dc:subject>clustering</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2014</dc:date>
+  <dc:description>Desarrollo de un sistema de seguimiento de pitch y detección de caras en secuencias de vídeo de bajo coste computacional para su aplicación en herramientas de asistencia a la logopedia</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Fontán Villacampa, Alejandro</dc:creator>
+  <dc:creator>Civera Sancho, Javier</dc:creator>
+  <dc:title>Visión 3D para Realidad Aumentada</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/63609</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:description>La Realidad Aumentada es el conjunto de tecnologías que superponen una imagen generada por ordenador, sobre la visión física del mundo de una persona, combinando así elementos del mundo digital con los del mundo real. La principal contribución de este trabajo es un algoritmo de reconstrucción semidensa del entorno 3D para una cámara monocular, basado en el cálculo probabilístico de la profundidad inversa de los puntos. Contiene un conjunto de experimentos destinados a valorar la influencia de los distintos parámetros en la precisión y la eficiencia. Se investiga su acoplamiento en un sistema de localización basado en el seguimiento de una imagen y en dos sistemas de SLAM Visual-Inercial (OKVIS y VINS).</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

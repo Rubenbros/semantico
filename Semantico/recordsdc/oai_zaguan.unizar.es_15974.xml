@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Puyal Raso, Fco. Javier</dc:creator>
+  <dc:creator>Guallar Paracuellos, Jesús</dc:creator>
+  <dc:title>Modelización de un sistema de climatización para automóvil con CO2</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/15974</dc:identifier>
+  <dc:subject>simulación</dc:subject>
+  <dc:subject>refrigeración</dc:subject>
+  <dc:subject>dióxido de carbono</dc:subject>
+  <dc:subject>ciclo transcrítico</dc:subject>
+  <dc:subject>automóvil</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2014</dc:date>
+  <dc:description>Este proyecto valora el uso del dióxido de carbono en el campo de la refrigeración, presentando el desarrollo de un modelo numérico capaz de determinar el estado de esta sustancia a lo largo de un sistema de refrigeración orientado a acondicionar el interior de un vehículo. El documento comienza con una revisión de los fundamentos del ciclo transcrítico de dióxido de carbono para acto seguido centrarse en la elaboración del modelo. Éste se desarrolla a través del software Engineering Equation Solver, ya que combina sus librerías de propiedades termofísicas con el uso de correlaciones específicas capaces de describir los procesos de transferencia de calor que experimenta el dióxido de carbono a lo largo del ciclo. Tras su constitución se somete a un proceso de contraste con la aplicación informática CoolPack para comprobar si los resultados ofrecidos pueden darse por válidos. Tras ello el proyecto se centra en utilizar el modelo desarrollado para analizar las prestaciones del ciclo transcrítico en el ámbito de la refrigeración para automoción. Por último se proponen dos soluciones constrictivas capaces de mejorar el rango de operación del ciclo básico: adición de una válvula bypass y adición de otra etapa de compresión con un enfriamiento intermedio.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

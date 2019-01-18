@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Ruiz Martín, Ignacio</dc:creator>
+  <dc:creator>Serón Arbeloa, Francisco José</dc:creator>
+  <dc:title>Modelado de la física de objetos blandos en tiempo real basado en el uso del SDK Bullet</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/31477</dc:identifier>
+  <dc:subject>videojuego</dc:subject>
+  <dc:subject>física en videojuegos</dc:subject>
+  <dc:subject>motor gráfico</dc:subject>
+  <dc:subject>motor de físicas</dc:subject>
+  <dc:subject>ogre3d</dc:subject>
+  <dc:subject>bullet physics</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2014</dc:date>
+  <dc:description>El trabajo realizado ha consistido en el estudio de una librería de renderizado gráfico llamada Ogre3D y una librería de simulación física llamada BulletPhysics para su posterior aplicación al mundo de los videojuegos. El resultado final muestra una escena que podría ser de cualquier videojuego, renderizada en Tiempo Real. En ella se muestran varios objetos entre los que se encuentran el suelo, el cielo, el personaje principal y varios objetos con comportamientos físicos diferentes. Todos ellos interactúan físicamente de manera real. El estudio y posterior desarrollo e implementación del trabajo ha estado centrado en crear y gestionar objetos con comportamiento físico de objetos blandos.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

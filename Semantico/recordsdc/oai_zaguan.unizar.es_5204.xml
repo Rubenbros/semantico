@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Laseca Jiménez, Pablo</dc:creator>
+  <dc:creator>López Pérez, José María</dc:creator>
+  <dc:creator>Perles Ivars, Ángel</dc:creator>
+  <dc:title>Aplicación de Qt y Scalable Vector Graphics al diseño de controles visuales para sistemas industriales</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/5204</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2010</dc:date>
+  <dc:description>El objetivo perseguido en la realización de este proyecto, es el de conseguir iconos industriales de código abierto y con opción de multiplataforma. Para la realización del proyecto utilizamos el lenguaje de programación C/C++, dado que es un lenguaje conocido y utilizado en múltiples plataformas, siendo un lenguaje muy potente. En el aspecto de obtener opción multiplataforma, nos referimos a la posibilidad de poder utilizar los iconos industriales en distintos dispositivos con diferentes sistemas operativos. Estos sistemas pueden ser: - Linux - Windows - Symbian De este modo podemos obtener aplicaciones para controlar sistemas industriales a través de diversos dispositivos, sin tener que limitarnos a una opción únicamente.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

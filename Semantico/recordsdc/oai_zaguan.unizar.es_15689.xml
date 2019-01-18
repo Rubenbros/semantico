@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Tafalla Sánchez, Alberto</dc:creator>
+  <dc:creator>Aparicio Aspas, María Teresa</dc:creator>
+  <dc:creator>Ayuda Bosque, María Isabel</dc:creator>
+  <dc:title>Estudio de tamaño y potencia de algunos contrastes de heterocedasticidad</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/15689</dc:identifier>
+  <dc:subject>heterocedasticidad </dc:subject>
+  <dc:subject>econometría</dc:subject>
+  <dc:subject>monte carlo</dc:subject>
+  <dc:subject>gretl</dc:subject>
+  <dc:subject>simulación</dc:subject>
+  <dc:subject>white</dc:subject>
+  <dc:subject>breusch-pagan</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2014</dc:date>
+  <dc:description>Este trabajo lleva a cabo un análisis de tamaño y potencia de algunos contrastes de heterocedasticidad en el contexto del modelo de regresión lineal. Resulta muy importante que la detección del problema de la heterocedasticidad se realice de manera adecuada, ya que su presencia implica que los estimadores obtenidos dejan de tener propiedades deseables y, adicionalmente, invalida la inferencia habitual sobre los parámetros de los modelos. Por ello se analiza la adecuación de dos contrastes de heterocedasticidad: el contraste específico de Breusch-Pagan y el contraste general de White. El estudio del comportamiento de ambos contrastes se lleva a cabo en términos de tamaño y potencia de los mismos. Para llevar a cabo el análisis, se han diseñado dos experimentos de Monte Carlo en los que se asumen varios supuestos sobre la estructura de la varianza del error, distintos grados de heterocedasticidad y varios tamaños muestrales. A partir de estos experimentos se analiza el tamaño de error tipo I y la potencia calculadas. Se concluye que el contraste de Breusch-Pagan es el más eficaz para detectar la presencia de heterocedasticidad.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

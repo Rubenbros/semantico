@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Sancho Larraz, Jorge</dc:creator>
+  <dc:creator>Alesanco Iglesias, Álvaro</dc:creator>
+  <dc:title>Implementación del grupo Filter de una sonda RMON con Python y LibPCAP</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/31543</dc:identifier>
+  <dc:subject>snmp</dc:subject>
+  <dc:subject>rmon</dc:subject>
+  <dc:subject>mib</dc:subject>
+  <dc:subject>libpcap</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2014</dc:date>
+  <dc:description>En este trabajo se ha implementado el grupo Filter de una sonda RMON, el cual permite realizar tareas de monitorización utilizando el protocolo SNMP (Simple Network Management Protocol). Además, se ha definido una MIB (Management Information Base) que permita integrar la gestión de las comunidades de acceso al sistema dentro de la arquitectura SNMP. Por último, se ha desarrollado una interfaz gráfica de usuario que facilite el manejo del grupo Filter de RMON.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

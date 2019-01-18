@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Bericat Mercadie, Yannick</dc:creator>
+  <dc:creator>Alba López, Juan José</dc:creator>
+  <dc:title>Análisis de sensibilidad angular en colisiones de 90º</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/5129</dc:identifier>
+  <dc:subject>Automóvil</dc:subject>
+  <dc:subject>Colisión</dc:subject>
+  <dc:subject>Simulación de accidentes</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2010</dc:date>
+  <dc:description>En este proyecto se ha estudiado mediante una herramienta informática de simulación de accidentes una colisión en particular, una colisión a 90 grados en la cual uno de los vehículos no posee velocidad mientras que el otro circula a 50 Km/h. El programa nos permite variar parámetros relacionados con la colisión como la velocidad, el ángulo de ataque, el coeficiente de restitución, el coeficiente de fricción, el plano de contacto y el punto de impacto. Muchos de estos parámetros son difíciles de conocer en un caso real y una pequeña variación en uno de ellos puede darnos resultados totalmente distintos. Principalmente en este estudio se realizan simulaciones partiendo del caso base y variando cada uno de los parámetros por separado para observar el resultado, observaremos la posición final, el ángulo de rotación y el ángulo de salida de cada uno de los vehículos implicados en el accidente. Finalmente con los resultados obtenidos se realizarán simulaciones con los casos extremos, es decir mayor ángulo de rotación y mayor ángulo de salida tanto para el vehículo 1 como para el vehículo 2. Con todo esto podremos saber cómo se comporta cada uno de los vehículos al variar los valores que el programa nos permite modificar en este tipo de colisión. Sin embargo esto no quiere decir que los resultados se puedan aplicar a todo tipo de colisiones.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

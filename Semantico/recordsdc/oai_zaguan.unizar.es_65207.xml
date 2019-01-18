@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Faci Lázaro, Sergio</dc:creator>
+  <dc:creator>Gómez Gardeñes, Jesús</dc:creator>
+  <dc:title>Estructura versus función en redes complejas cerebrales</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/65207</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:description>Este trabajo trata de relacionar el comportamiento global de un sistema con el individual de cada uno de sus elementos. Con este fin, estudiamos las redes cerebrales; en concreto, nos centramos en el estudio de redes neuronales formadas en cultivos y en el fenómeno de emergencia de sincronización. Para ello hemos empleado redes complejas y desarrollado un modelo de formación de enlaces entre neuronas que imita el observado experimentalmente. Asimismo, hemos caracterizado mediante el modelo de Izhikevich las dinámicas individuales de cada neurona y cómo éstas interactúan para dar lugar el fenómeno de sincronización, el cual detectamos mediante la utilización de medidas expresamente diseñadas para este objetivo.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Benages Pardo, Luis</dc:creator>
+  <dc:creator>Montano Gella, Luis Enrique</dc:creator>
+  <dc:title>Control de trayectorias de un robot móvil todo terreno con ruedas</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/69918</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:description>Generación de trayectorias para robots "tipo coche", utilizando diferentes técnicas: cálculo y seguimiento de la trayectoria óptima (más corta) a una localización deseada, y cambio de sentido del robot dentro de un túnel mediante la realización de maniobras. Implementación en nodo ROS.  Análisis de la precisión del seguimiento de las trayectorias generadas, utilizando como referencia la información de odometría del robot. Influencia de la dinámica en la precisión de trayectorias seguidas, y análisis de los parámetros que influyen.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

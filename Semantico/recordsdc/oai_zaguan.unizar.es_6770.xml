@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Serrano Sanchez, Sergio</dc:creator>
+  <dc:creator>Mínguez Zafra, Javier</dc:creator>
+  <dc:title>Desarrollo de funcionalidades, plugins y herramientas para un software de neuroterapia</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/6770</dc:identifier>
+  <dc:subject>neuroterapia</dc:subject>
+  <dc:subject>neurofeedback</dc:subject>
+  <dc:subject>bci</dc:subject>
+  <dc:subject>electroencefalograma</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2011</dc:date>
+  <dc:description>PFC correspondiente al desarrollo dentro de un software de neuroterapia de una herramienta de comprobación de defectos de montaje, una unidad de detección de defectos de montaje al servicio de ésta, un visualizador espacial de actividad cerebral, un informe de resultados de la terapia, la internacionalización del software y un instalador para el mismo. PFC corresponding to the developement within neurotherapy software of a detection tool for assembly defects, a defect detection unit assembly in the service of this, a spatial display of brain activity, a report generator for the therapy results ,the internationalization software and an installer for it.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

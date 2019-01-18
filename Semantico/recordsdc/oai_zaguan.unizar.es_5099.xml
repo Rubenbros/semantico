@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Tornos Tejedor, Santiago</dc:creator>
+  <dc:creator>Cuartero Salafranca, Jesús</dc:creator>
+  <dc:title>Absorbedor de impactos : estudio comparativo</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/5099</dc:identifier>
+  <dc:subject>absorbedor</dc:subject>
+  <dc:subject>impacto</dc:subject>
+  <dc:subject>absorbedor de iImpactos</dc:subject>
+  <dc:subject>seguridad pasiva</dc:subject>
+  <dc:subject>helicoidal</dc:subject>
+  <dc:subject>hélice</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2010</dc:date>
+  <dc:description>Estudio teórico comparativo de un absorbedor de impactos en acero y duraluminio en diferentes configuraciones (varios cilindros interiores, concéntricos y no concéntricos, y sobre todo configuración en forma de hélice) bajo simulación informática mediante el software de elementos finitos Patran, y Abaqus en su módulo explicit. Todas las configuraciones, independientemente de su geometría y materiales, presentan el mismo peso.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

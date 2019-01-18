@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Asín Ortín, Carlos Juan</dc:creator>
+  <dc:creator>García Gómez, Juan</dc:creator>
+  <dc:title>Diseño y despliegue de plataforma de Business Intelligence mediante herramientas Tableau</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/64281</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:description>Diseño y despliegue de Tableau en un caso real. Se procederá a la instalación de la herramienta en infraestructura en red , mediante el uso de Tableau Desktop y Tableau Server. De esta manera se puede hecer uso de múltiples orígenes de datos disponibles en distintas localizaciones para la creación y publicación de libros de trabajp accesibles a distinto perfil de usuarios, tanto clientes internos (conexiones a LAN de la empresa) como externos (acceso vía Web, teléfono móvil mediante aplicaciones o integración en portales corporativos). Para ello se procederá a la realización del ciclo completo de diseño y despliegue consistente en primer lugar, en análisis de los requerimientos necesarios que comprende la identificación de fuentes de datos, definición de usuarios y permisos y arquitectura del proyecto. Posteriormente se llevarán a cabo las actividades concretas en entorno Desktop (conexión con datos, construcción del modelo con los indicadores clave de negocio, desarrollo de hojas y cuadro de mando) y entorno Server (automatización de procesos, seguridad, herramientas de reporting). Por último se alcanzará la fase de producción, mediante pruebas funcionales que verifiquen el correcto funcionamiento de todo el sistema instalado.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

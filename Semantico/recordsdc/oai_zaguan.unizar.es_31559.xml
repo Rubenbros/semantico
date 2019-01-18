@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Pueyo Izquierdo, Noel</dc:creator>
+  <dc:creator>Piedrafita Moreno, Ramón</dc:creator>
+  <dc:title>Diseño del nuevo SCADA para el laboratorio de Tecnologías Avanzadas Digitales de Producción (ADMT) mediante LabVIEW</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/31559</dc:identifier>
+  <dc:subject>labview</dc:subject>
+  <dc:subject>plc</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2014</dc:date>
+  <dc:description>En el presente proyecto se pretende dar solución a los problemas existentes en el ADMT (Centre for Advanced Digital Manufacturing Technologies) y en el proyecto TiM (Tele-immersive Digital Manufacturing) resultantes del incremento en complejidad de algunas de sus partes aunándolas en una nueva terminal de explotación, para ello se modificará su arquitectura SCADA y se rediseñará el terminal de explotación usando LabVIEW.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

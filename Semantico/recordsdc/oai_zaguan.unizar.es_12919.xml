@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Izquierdo Carretero, Jonathan</dc:creator>
+  <dc:creator>Usón Sardaña, Antonio</dc:creator>
+  <dc:title>Pedal motriz electromagnético: maqueta y análisis mediante el método de elementos finitos</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/12919</dc:identifier>
+  <dc:subject>pedal motriz electromagnético</dc:subject>
+  <dc:subject>método de elementos finitos</dc:subject>
+  <dc:subject>femm</dc:subject>
+  <dc:subject>sistema biela manivela</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2013</dc:date>
+  <dc:description>Creación de un prototipo con un sistema biela manivela, funcionamiento a través de un solenoide asociado a un circuito electrónico. Análisis electromagnético del solenoide por el Método de Elementos Finitos.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

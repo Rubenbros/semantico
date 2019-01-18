@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Peralta Calvo, Elena</dc:creator>
+  <dc:creator>Lázaro Plaza, Jesús</dc:creator>
+  <dc:creator>Gil Herrando, Eduardo</dc:creator>
+  <dc:title>Detección robusta de pulsos en la señal fotopletismográfica de reflexión y transmisión en entornos ruidosos y no estacionarios</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/47524</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2015</dc:date>
+  <dc:description>En este trabajo se ha realizado una detección robusta de pulsos en la señal fotopletismográfica de pulso (PPG), pensando en la viabilidad de utilizar la variabilidad de frecuencia de pulso (PRV) estimada a partir de la PPG como sustituto de la variabilidad de frecuencia cardiaca (HRV) extraída de la serie de tiempos entre latidos consecutivos (intervalo RR) de la señal electrocardiográfica (ECG), en condiciones no estacionarias. El estudio se ha realizado a partir de la PPG registrada en el dedo mediante técnicas de transmisión y en la frente mediante técnicas de reflexión, en dos bases de datos, «tilt test» y prueba de esfuerzo. Realizándose una comparación de los resultados obtenidos en la PRV frente a la HRV mediante los índices clásicos temporales.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Rubio Latasa, Marta</dc:creator>
+  <dc:creator>Mateo Collazos, Pedro</dc:creator>
+  <dc:creator>Surra Muñoz, Joaquín</dc:creator>
+  <dc:title>Optimización bi-objetivo aplicada a la formulación de piensos compuestos</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/65165</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:description>Este trabajo es una continuación y ampliación del Trabajo de Fin de Grado "Desarrollo de un Programa Informático para la Formulación de Piensos Compuestos". Su principal propósito es crear un módulo adicional al sofware creado en el anterior trabajo para poder realizar una formulación bi-objetivo de piensos compuestos. Por ello previamente se explican los conocimientos teóricos mínimos que permiten entender, modelar y resolver problemas multi-objetivo y más concretamente problemas lineales bi-objetivo, para posteriormente aplicarlos al programa informático.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Milagro Serrano, Javier</dc:creator>
+  <dc:creator>Alcaine Otín, Alejandro</dc:creator>
+  <dc:title>Análisis de regularidad morfológica de activaciones en señales EGM intracardiacas de pacientes con fibrilación auricular</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/31513</dc:identifier>
+  <dc:subject>fibrilación auricular</dc:subject>
+  <dc:subject>corazón</dc:subject>
+  <dc:subject>procesado de la señal</dc:subject>
+  <dc:subject>análisis morfológico</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2014</dc:date>
+  <dc:description>La fibrilación auricular es la arritmia más común en nuestra sociedad y se caracteriza por una actividad eléctrica caótica de las aurículas. Puede provocar mortalidad a medio plazo por accidente cerebrovascular, insuficiencia cardiaca o infarto de miocardio. El objetivo del proyecto es estudiar un índice de regularidad basado en la morfología del EGM para la caracterización del tipo de fibrilación. La hipótesis de partida del trabajo es que la fibrilación auricular paroxística tiene una mayor organización que la fibrilación auricular persistente o permanente. Se propone implementar y evaluar un método de medida de la regularidad morfológica de la señal intracardiaca en contraposición a los índices clásicos basados en análisis espectral, que presentan problemas de dependencia con la frecuencia de activación.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

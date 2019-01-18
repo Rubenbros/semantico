@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Puertas Miramón, Pablo</dc:creator>
+  <dc:creator>Andaluz Funcia, Joaquín</dc:creator>
+  <dc:creator>Jarne Jarne, Gloria</dc:creator>
+  <dc:title>Aplicación del lenguaje "R": El modelo de conducta del consumidor</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/62505</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:description>Resumen Este trabajo consiste en una defensa de la eficacia del lenguaje de programación “R” para funciones didácticas en el contexto de la optimización aplicado a la teoría del consumidor.  El procedimiento seguirá la estructura de exposición general de la teoría del consumidor, se ejemplificará dicha teoría con funciones de utilidad generales tipo Cobb-Douglas y, en cada fase del desarrollo, se demostrará que se cumplen las condiciones  y  resultados  teóricos  que  se  irán  explicando.  Para  visualizar gráficamente  los  resultados  se  darán  valores  paramétricos  concretos   a  las funciones  que  intervienen,  representándolas  a  través  de  “R”.  Esta particularización concluirá en la aportación gráfica y matemática de funciones y soluciones finales para el problema planteado. De esta forma, el lector podrá comprobar que “R” es una buena herramienta para explicar y comprender la teoría del consumidor y en general cualquier modelo económico.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Alvarado Cadena, Jorge Roberto</dc:creator>
+  <dc:creator>García-Gracia, Miguel</dc:creator>
+  <dc:title>Estudio de red y desarrollo de un algoritmo de seguimiento del punto de máxima potencia de una planta solar fotovoltaica</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/60507</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2016</dc:date>
+  <dc:description>En el presente trabajo se ha analizado el funcionamiento de distintos algoritmos de control que buscan operar un sistema fotovoltaico en las condiciones en que el mismo entrega la máxima potencia disponible, para esto se han realizado simulaciones del sistema que permite la implementación de tales algoritmos. Además, se han estudiado los distintos efectos que tiene la presencia de sombras parciales sobre el funcionamiento de los módulos fotovoltaicos, así como, los distintos métodos que buscan atenuar tales efectos, analizando su efectividad e incidencia en la producción de energía de los mismos. Para complementar el trabajo realizado, se ha simulado un sistema inversor para la inyección de la energía producida por un sistema fotovoltaico a la red y el análisis de calidad de esta energía de acuerdo a la norma vigente.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

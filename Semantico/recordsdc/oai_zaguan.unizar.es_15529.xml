@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>López Pérez, Diego</dc:creator>
+  <dc:creator>Arronategui Arribalzaga, Unai</dc:creator>
+  <dc:title>Diseño de un sistema de configuración dinámica de OpenStack</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/15529</dc:identifier>
+  <dc:subject>openstack</dc:subject>
+  <dc:subject>cloud computing</dc:subject>
+  <dc:subject>sistemas distribuidos</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2014</dc:date>
+  <dc:description>Diseñar e implementar un sistema que permita cambios rápidos y flexibles de configuraciones del sistema cloud  Openstack y sus diferentes componentes. El problema principal es de complejidad, con la gran cantidad de servicios interdependientes que hay que configurar, poner en marcha, y comprobar su correcto funcionamiento. Pero también cambiar la configuración en marcha desactivando servicios y configurando nuevos. Gestión de aspectos distribuidos como autentifiación, máquinas virtuales, almacenamiento básico, monitorización. Además considerando aspectos de alta disponibilidad.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

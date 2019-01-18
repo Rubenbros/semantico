@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Hernández Laín, Quercus Manuel</dc:creator>
+  <dc:creator>Peña Baquedano, Estefanía</dc:creator>
+  <dc:title>Determinación numérico-experimental de las propiedades mecánicas de vena cava mediante el método de los elementos finitos</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/31535</dc:identifier>
+  <dc:subject>bioingeniería</dc:subject>
+  <dc:subject>ensayo biaxial</dc:subject>
+  <dc:subject>vena cava</dc:subject>
+  <dc:subject>holzapfel</dc:subject>
+  <dc:subject>mecánica de medios continuos</dc:subject>
+  <dc:subject>método de elementos finitos</dc:subject>
+  <dc:subject>elementos cohesivos</dc:subject>
+  <dc:subject>abaqus</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2014</dc:date>
+  <dc:description>El objetivo de este proyecto es la determinación de las propiedades de mecánicas de la vena cava de oveja, tanto elásticas como de rotura, para su aplicación posterior en otros trabajos de investigación enfocados en el diseño de dispositivos médicos. Uno de los mayores problemas de estos dispositivos es que el filtro traspasa la pared, por tanto la determinación de la fuerza y energía necesaria para penetrar la vena cava es fundamental para mejorar el diseño de dichos dispositivos. Para la obtención de dichas propiedades mecánicas se realizarán ensayos en el laboratorio de identación sobre muestras deformadas equibiaxialmente (equipo biaxial) y ensayos uniaxiales. A partir de los ensayos uniaxiales cuya solución elástica analítica es conocida se determinarán las propiedades elásticas mediante el programa Matlab. Utilizando un modelo de elementos finitos con superficies cohesivas y un análisis inverso se determinarán las propiedades de rotura del material en el programa ABAQUS.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

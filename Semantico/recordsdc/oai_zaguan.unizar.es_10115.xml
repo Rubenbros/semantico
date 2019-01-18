@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Lacasa Aguas, Carlos</dc:creator>
+  <dc:creator>Asiaín Ansorena, David</dc:creator>
+  <dc:creator>Lucía Gil, Óscar</dc:creator>
+  <dc:title>Escudo registrador de datos analógicos S-LOGGER para Arduino</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/10115</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2013</dc:date>
+  <dc:description>El objetivo del presente proyecto es el diseño, montaje y puesta a punto de un prototipo de una placa de adquisición de datos compatible con las tarjetas de Arduino. Esta placa de adquisición de datos dispone de un reloj en tiempo real, un conversor analógico/ digital de 18 bits y con una frecuencia de muestreo de hasta 120 muestras por segundo y un módulo con una tarjeta micro SD capaz de guardar los valores tomados por el conversor. En este proyecto se han elaborado programas para la adquisición de datos de forma autónoma con la capacidad de exportar estos datos a una tabla y realizar gráficas. A su vez, es compatible con programas de adquisición de datos como LabView. Este instrumento destaca por tener la capacidad de realizar las mismas funciones que otras placas de adquisición de datos pero a un coste menor.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

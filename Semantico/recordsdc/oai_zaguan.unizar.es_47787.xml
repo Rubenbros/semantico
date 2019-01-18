@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Hernández Boza, Miguel</dc:creator>
+  <dc:creator>Lleida Solano, Eduardo</dc:creator>
+  <dc:title>Desarrollo de una aplicación de subtitulado mediante pictogramas para una smart tv y navegadores web</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/47787</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2015</dc:date>
+  <dc:description>El TFG realizado trata de solventar los impedimentos que tienen las personas con discapacidad en el ámbito de la comunicación, ayudando a que comprendan mejor lo que están viendo mediante el desarrollo de una aplicación que utilice un subtitulado hecho con pictogramas. Se ha creado una aplicación para televisiones Samsung Smart TV así como una aplicación web donde poder ver todo el contenido. Ambas aplicaciones han sido realizadas a partir de código HTML5, CSS3 y JavaScript, aunque también se han necesitado algunas herramientas como XAMPP o SDK Eclipse para poder programar o exportar las aplicaciones.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

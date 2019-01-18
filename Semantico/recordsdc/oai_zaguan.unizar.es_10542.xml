@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Vallejo Royo, Javier</dc:creator>
+  <dc:creator>Casanova Agustín, Jesús</dc:creator>
+  <dc:title>Simulación de fundición por ordenador mediante QuikCAST</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/10542</dc:identifier>
+  <dc:subject>simulación </dc:subject>
+  <dc:subject>fundición</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2013</dc:date>
+  <dc:description>El objetivo del presente proyecto ha sido la creación de un guión para las prácticas de una asignatura de fundición. La idea es mostrar los aspectos a tener en cuenta y problemas que pueden surgir en el proceso de fundición, asi como las ventajas de simular este proceso por ordenador. Para ello se ha trabajado con el programa de simulación de fundiciones QuikCAST y una pieza en 3D creada ex profeso con el programa SolidWorks.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

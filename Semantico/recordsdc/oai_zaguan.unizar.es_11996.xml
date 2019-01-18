@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Pinós Santafé, Javier</dc:creator>
+  <dc:creator>Laguna Bercero, Miguel Ángel</dc:creator>
+  <dc:creator>Monzón Alcázar, Hernán</dc:creator>
+  <dc:title>Optimización de capas funcionales del ánodo para pilas de combustible de óxido sólido microtubulares</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/11996</dc:identifier>
+  <dc:subject>sofc</dc:subject>
+  <dc:subject>microtubular</dc:subject>
+  <dc:subject>ánodo</dc:subject>
+  <dc:subject>ni-ysz</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2013</dc:date>
+  <dc:description>El objetivo del presente trabajo es la optimización y caracterización de una capa de ánodo funcional como mejora para pilas de combustible de óxido sólido microtubulares. Mediante la implementación de esta capa se pretende reducir la resistencia de activación presente en el ánodo de este tipo de dispositivos. Para realizar dicho objetivo se propone optimizar el proceso de deposición de una capa fina de 10 - 20 micras de espesor sobre un soporte anódico, así como la composición y microestructura de dicha capa. Para ello será necesario, en primer lugar, fabricar pastas cerámicas con las que posteriormente se realizará la deposición de dichas pastas mediante dip-coating sobre los soportes anódicos.  Una vez seleccionados los parámetros óptimos de dicha capa funcional, se procederá a la fabricación de la celda completa. Adicionalmente se fabricarán celdas de referencia sin capa funcional que permitirán establecer una comparativa de los efectos de la capa. La comparativa se realizará en base a una serie de experimentos, como son la observación mediante microscopía electrónica y diversas técnicas de caracterización electroquímica, fundamentalmente curvas densidad de corriente/ voltaje y espectroscopia de impedancia. Se observarán los efectos que produce la capa funcional para poder evaluar la utilidad de la misma dentro de las pilas de combustible de óxido sólido.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Peribañez Juan, Guillermo</dc:creator>
+  <dc:creator>Jarne Jarne, Gloria</dc:creator>
+  <dc:creator>Sánchez Chóliz, Julio</dc:creator>
+  <dc:title>Introducción a las ecuaciones en diferencias y sus aplicaciones en la economía</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/15696</dc:identifier>
+  <dc:subject>ecuaciones en diferencias lineales</dc:subject>
+  <dc:subject>equilibrio</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2014</dc:date>
+  <dc:description>El análisis de todo proceso económico es inseparable del proceso dinámico que lo genera, aunque frecuentemente por simplicidad hagamos análisis estáticos y eludamos el uso de modelos dinámicos. La comprensión de estos requiere el dominio de dos de sus instrumentos básicos, las ecuaciones y sistemas en diferencias y las ecuaciones y sistemas diferenciales. El grado de Economía dedica muy poco tiempo a estos instrumentos y ello me ha motivado a ampliar con esta memoria mis  conocimientos en ecuaciones en diferencias, lo que no es sino una primera introducción al amplio instrumental de la Economía dinámica. En el trabajo abordaremos las ecuaciones en diferencias lineales de primer y segundo orden y las de orden superior, cerrando la memoria con algunos resultados sobre los sistemas lineales en diferencias. Nos centraremos principalmente en la expresión de las soluciones generales y en los conceptos de equilibrio dinámico y de estabilidad.  Conscientes de que estos instrumentos son, sobre todo, apoyos para profundizar en el sentido económico de lo que nos rodea, la presentación de los distintos apartados  tienen dos partes o facetas, una teórica y otra aplicada, dividiéndose esta entre el análisis de modelos económicos dinámicos (Harrod, Hicks y Samuelson entre otros), resolubles con el instrumental correspondiente, y simulaciones para valores paramétricos dados hechas con Mathematica.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

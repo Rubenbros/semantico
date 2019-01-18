@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Murillo Olóriz, María</dc:creator>
+  <dc:creator>Giménez Esteban, Gregorio</dc:creator>
+  <dc:title>Análisis de la influencia del factor innovación en el crecimiento económico de los países de la OCDE a partir del modelo de Solow ampliado</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/63895</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:description>Este trabajo se centra en estudiar el papel que juega la innovación en el crecimiento económico de las 34 economías que forman la OCDE (Organización para la Cooperación y el Desarrollo Económico).  Para llevar a cabo el estudio utilizaré el modelo neoclásico de Solow ampliado con innovación tecnológica medida a través de dos indicadores: gasto en I+D y patentes per cápita. Este modelo lo estimaré a través de un panel de datos con información de los 34 países para el periodo comprendido entre 1995 y 2015 dividido en lustros, obteniendo así un panel de 34 datos de corte transversal por 4 de serie temporal. Tanto el gasto en I+D como el hecho de patentar nuevos productos considero que son buenos indicadores para aproximarme a medir la innovación, puesto que economistas como Romer (1990), Grossman y Helpman (1991) y Aghion y Howitt (1992) entre otros, se apoyan en ellos para estudiar el impacto de la tecnología en el crecimiento. El hecho de estudiar la tecnología de los países que forman la OCDE, aproximada por el gasto en I+D y el número de patentes per cápita y estimada a través de la metodología de datos panel, implica una novedad en la realización de trabajos de fin de grado en la universidad de Zaragoza. Así como la aplicación de la heterogeneidad no observada a los datos. El objetivo que persigo en el trabajo es comprobar a través de la evidencia empírica, el rol que juega la tecnología en el crecimiento económico de la OCDE, teniendo en cuenta las distintas características y capacidades existentes entre los países que la forman.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Ubau Rubio, Alexandra</dc:creator>
+  <dc:creator>Patalano, Jean-Claude</dc:creator>
+  <dc:title>Estudio de una aplicación domótica para la gestión de una vivienda vía satélite</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/13414</dc:identifier>
+  <dc:subject>domótica</dc:subject>
+  <dc:subject>satélite</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2014</dc:date>
+  <dc:description>En este trabajo se estudia el control de una vivienda desde cualquier parte del mundo. En este contexto, el organismo gubernamental francés CNES (Centro Nacional de Estudios Espaciales), encargado del desarrollo espacial en Francia, propone el estudio del envío de la información necesaria para la gestión de una vivienda a través del enlace vía satélite.  El objetivo del proyecto es la puesta en marcha de una plataforma de pruebas compuesta por sensores, accionadores y dispositivos de control conectados a una red de manera que puedan ser controlados mediante un protocolo domótico y el posterior estudio de la viabilidad del satélite como medio de transmisión. Durante este proyecto se han utilizado diversas plataformas y herramientas hardware y software como Arduino, para crear los periféricos domóticos necesarios, LabVIEW para simplificar la programación de las placas Arduino, Python, para crear menús interactivos para manejar dichas placas, Wireshark, para el análisis de los paquetes transmitidos a través de las redes y Netdisturb para simular las perturbaciones debidas al tránsito de la información a través del satélite.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

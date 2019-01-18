@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Martínez Jaraba, Jorge</dc:creator>
+  <dc:creator>Bernal Agustín, José Luis</dc:creator>
+  <dc:title>Herramienta web para el estudio económico de instalaciones conectadas a la red eléctrica</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/65363</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:description>Este proyecto consiste en la creación de una aplicación web que sea capaz de estudiar y calcular la rentabilidad de una instalación solar fotovoltaica conectada a red en una ubicación concreta mediante el estudio de las condiciones climáticas solares en la ubicación seleccionada, estos se podrán introducir manualmente o automáticamente el programa los recogerá buscando en la base de datos de la NASA, y una serie de datos que el posible usuario debe introducir como son datos sobre la propia instalación y la información económica necesaria, después la aplicación nos mostrara por pantalla una serie de resultados e información sobre un estudio de viabilidad económica del sistema en cuestión mediante la generación de una tabla donde calcula el VAN.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

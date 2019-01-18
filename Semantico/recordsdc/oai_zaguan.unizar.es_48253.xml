@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Fernández Farnos, Raquel</dc:creator>
+  <dc:creator>Monge Prieto, Rosa María</dc:creator>
+  <dc:creator>Fernandez Ledesma, Luis Jose</dc:creator>
+  <dc:title>Desarrollo de un sistema de microválvulas para el cultivo celular</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/48253</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2015</dc:date>
+  <dc:description>El trabajo de  n de grado que se desarrolla en el presente documento, cuyo título es "Desarrollo de un sistema de microválvulas para el cultivo celular", tiene como antecedente un trabajo  n de máster [1], ambos forman parte de un proyecto donde se implementan nuevas herramientas que permiten el cultivo celular. El objetivo es recrear un entorno biomimético para llevar a cabo ensayos mediante técnicas llamadas “in vitro”, en los que las células provenientes de un órgano o un tejido, normal o tumoral se tratan bajo unas condiciones controladas. Estas condiciones son lo más similares posible a las del ser humano o animal del que provienen.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

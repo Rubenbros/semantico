@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Martín Villanueva, Pablo</dc:creator>
+  <dc:creator>Gracia Ramos, Ángel</dc:creator>
+  <dc:title>Cálculo de la trayectoria de proyectiles de artillería</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/64195</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:description>En el presente trabajo se abordará la realización de un programa de cálculo de trayectorias para el tiro de artillería. Para ello se tendrán en cuenta todos los efectos físicos asociados al vuelo de un proyectil en un medio como el aire, además de listar y detallar todos los sistemas de referencia que utilizaremos en el problema. Se pasará a formular las ecuaciones de movimiento que rigen el vuelo del proyectil para posteriormente buscar y seleccionar un método de integración numérica que sea adecuado para resolver las mismas. Se terminará mostrando una serie de trayectorias calculadas por nuestro programa comparándolas con las obtenidas en las tablas de tiro del Ejército Español. En los anexos se detallan en profundidad algunas correcciones hechas en nuestro problema, además de demostrar las ecuaciones de movimiento del proyectil utilizadas en este trabajo. También se incluye una batería de ensayos adicional a la mostrada en la memoria realizada con nuestro programa.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

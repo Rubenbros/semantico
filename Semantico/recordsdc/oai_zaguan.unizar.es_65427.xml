@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Alcain Ruiz, Raúl</dc:creator>
+  <dc:creator>Carretero Chamarro, Enrique</dc:creator>
+  <dc:title>Modelado y simulación de un sistema de control solar pasivo en dobles acristalamientos</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/65427</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:description>Con el objeto de reducir la radiación solar absorbida por las zonas acristaladas en la edificación, los vidrios en las zonas acristaladas incluyen un recubrimiento interferencial en capa fina bajo emisivo. Este tratamiento también limita la captación solar en invierno, cuando energéticamente nos resulta favorable. Esta propuesta pretende adaptar el porcentaje de la utilización de este recubrimiento a las necesidades estacionales, introduciendo geométricamente como variable la altura solar. Para este fin, y teniendo en cuenta que un doble acristalamiento estándar se compone de dos vidrios con una cámara de aire intermedia. Se aplica el recubrimiento por franjas en cada uno de los dos vidrios, y se adapta el patrón para maximizar la captación en invierno y minimizarla en verano. Con esto, deberíamos pasar de una aplicación de nuestro recubrimiento en un 100% de la superficie acristalada en verano, a un 50% de la superficie acristalada en invierno.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

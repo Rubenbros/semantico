@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>González Izquierdo, Pedro María</dc:creator>
+  <dc:creator>Bernal Agustín, José Luis</dc:creator>
+  <dc:creator>Dufo López, Rodolfo</dc:creator>
+  <dc:title>Diseño y optimización de la red de M.T. de un polígono residencial</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/6143</dc:identifier>
+  <dc:subject>diseño y optimización</dc:subject>
+  <dc:subject>distribución de las redes de baja tensión y media tensión</dc:subject>
+  <dc:subject>fiabilidad</dc:subject>
+  <dc:subject>coste</dc:subject>
+  <dc:subject>cálculos de potencia</dc:subject>
+  <dc:subject>reglamento de baja tensión</dc:subject>
+  <dc:subject>mediciones y presupuesto</dc:subject>
+  <dc:subject>programas iterativos monobjetivos y multiobjetivos</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2011</dc:date>
+  <dc:description>Realizar la electrificación de un polígono residencial donde se calculará la potencia necesaria para suministrarle energía. Ubicar y dimensionar los centros de transformación para realizar la distribución en baja tensión. A través de dos programas iterativos se estudiará el diseño y optimización de la red de media tensión teniendo como objetivos el coste y la fiabilidad. Por último se realizarán las mediciones y presupuesto final de obra.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

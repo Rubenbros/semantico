@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Pérez Cardiel, Estela</dc:creator>
+  <dc:creator>de la Riva Fernández, Juan</dc:creator>
+  <dc:title>Análisis espacio-temporal del manto de nieve en el Pirineo occidental aragonés mediante imágenes Landsat</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/31906</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2015</dc:date>
+  <dc:description>El trabajo tiene por objeto la obtención de cartografía de la superficie de nieve en el sector occidental del Pirineo Aragonés a partir de las imágenes de los satélites Landsat y mediante el cálculo del Índice de Diferencia Normalizada de Nieve. La metodología aplicada contempla la doble dimensión espacio-temporal en el análisis de las imágenes satélite e incorpora información auxiliar en un contexto de análisis SIG. Todo ello permite i) hacer una aproximación a las variaciones espaciales de la distribución intra-anual; ii) caracterizar la influencia de algunos factores estructurales que afectan a su distribución, como son la altitud, las pendientes, la orientación y la ocupación del suelo; iii) establecer una tipología de situaciones en función del momento del año y los factores estructurales; y iv) analizar con mayor detalle el sector del flysch.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Bernal Calmarza, David</dc:creator>
+  <dc:creator>Rituerto Sin, Alejandro</dc:creator>
+  <dc:title>Detección y seguimiento de elementos móviles para videovigilancia</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/47515</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2015</dc:date>
+  <dc:description>En los últimos años se ha producido un gran avance en el mundo de la videovigilancia gracias a la aplicación de técnicas de visión artificial. Estas técnicas permiten que un ordenador analice las imágenes recibidas por las cámaras de seguridad detectando, por ejemplo, objetos perdidos o abandonados, así como personas que entran en zonas restringidas o peligrosas. La mayoría de estas aplicaciones de vigilancia basan su funcionamiento en la detección de elementos móviles y su seguimiento. Este trabajo estudia dichas tareas, analizando los distintos algoritmos disponibles en distintos entornos que presentan dificultades. Como resultado de dicho análisis se ha implementado un sistema de videovigilancia completo, combinado ambas etapas que puede servir de base para sistemas de vigilancia más complejos.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

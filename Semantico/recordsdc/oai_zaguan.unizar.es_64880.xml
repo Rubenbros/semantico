@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Llorente Martín, Tamara</dc:creator>
+  <dc:creator>Salvador Figueras, Manuel</dc:creator>
+  <dc:title>Métodos estadísticos de valoración del riesgo de mercado en series financieras</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/64880</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:description>En este trabajo se revisan diversos métodos estadísticos de evaluación del riesgo de mercado en series financieras de alta frecuencia de observación. Dichos métodos calculan el Valor de Riesgo (Value at Risk, VaR en inglés) y el Déficit Esperado (Expected Shortfall, ES en inglés) utilizando herramientas estadísticas paramétricas y no paramétricas. Además, se realiza un estudio comparativo de los mismos aplicándolos al análisis de las rentabilidades diarias de las acciones de Meliá Hotels, el Nikkei225 y el EUR/USD y llevando a cabo un procedimiento estadístico de validación extramuestral. El método econométrico basado en la utilización de un modelo ARMA-GARCH con efecto asimétrico es el que da valoraciones más adecuadas del nivel de riesgo, mostrando un comportamiento adecuado tanto en términos de porcentajes de acierto como en términos de errores de estimación de la pérdida máxima.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

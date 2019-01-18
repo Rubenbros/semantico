@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Zaborras Sanz, Raúl</dc:creator>
+  <dc:creator>Jiménez Navascués, Óscar</dc:creator>
+  <dc:creator>Lucía Gil, Óscar</dc:creator>
+  <dc:title>Análisis e implementación en FPGA de un sistema de identificación de cargas de inducción en tiempo real basado en el algoritmo de mínimos cuadrados</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/9682</dc:identifier>
+  <dc:subject>fpga</dc:subject>
+  <dc:subject>calentamiento por inducción</dc:subject>
+  <dc:subject>identificación</dc:subject>
+  <dc:subject>mínimos cuadrados</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2012</dc:date>
+  <dc:description>En la actualidad, la tecnología de calentamiento por inducción doméstico está desplazando a otras tecnologías de calentamiento clásicas como la resistiva o el gas debido a sus ventajas en cuanto a rapidez, eficiencia y limpieza. Esto ha sido posible gracias a los avances realizados en el área de la electrónica de potencia, que han permitido el diseño de etapas electrónicas compactas, versátiles y robustas. Con el objetivo de alcanzar un elevado rendimiento, generalmente se utilizan etapas de potencia resonantes. Una característica vital de dichas etapas es que el tanque resonante determina el punto de operación. La impedancia de la carga de inducción, formada por el sistema inductor-recipiente, presenta una gran variabilidad debido a que depende de múltiples factores como la frecuencia de trabajo, la temperatura del recipiente, el alineamiento del recipiente con el inductor o el material del recipiente. Dado que la impedancia puede cambiar durante el funcionamiento del sistema, y que ello repercute tanto en el punto de operación de la etapa inversora como en su área de operación segura, se hace deseable obtener una identificación en tiempo real de dicha impedancia. En el presente proyecto fin de carrera se ha analizado el algoritmo mínimos cuadrados aplicado a la identificación de la carga de inducción. Dicho análisis se ha realizado mediante el uso de la herramienta MATLAB, analizándose diversos modos de implementación del algoritmo con el objetivo de seleccionar tanto la forma adecuada del mismo como los parámetros a utilizar en su implementación. En esta fase se ha discretizado la carga, se han desarrollado las distintas formas del algoritmo y se han realizado las simulaciones pertinentes. La forma elegida se ha implementado en Vivado HLS, para lo cual el algoritmo se ha desarrollado en lenguaje C. Posteriormente la implementación del mismo se ha optimizado mediante dicha herramienta de software y los resultados obtenidos con medidas experimentales se han representado en MATLAB para un último análisis.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

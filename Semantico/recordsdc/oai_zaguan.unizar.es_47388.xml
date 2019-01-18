@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Pueyo Ramón, Pablo</dc:creator>
+  <dc:creator>Vaughan, John</dc:creator>
+  <dc:title>Caching in real-time and embedded systems and Benchmarking the ARM Cortex-M3 and Quark x1000 proccessors</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/47388</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2015</dc:date>
+  <dc:description>The general goal is to compare performance of two processors for the low-end embedded market: Intel Quark x1000 vs. ARM Cortex M3, with special emphasis in the memory hierarchy. To do that, first we will assess the cache potential varying  sizes, associativities and line sizes by means of CACTI, a cache modeling tool. Then we will review relevant research literature to conclude about the importance and possibilities of the memory hierarchy in real-time embedded systems. Finally, we will write an specific benchmark suite, using it to test the two referenced processors.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>eng</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

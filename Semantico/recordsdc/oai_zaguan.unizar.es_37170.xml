@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Barrios Rubia, Alvaro</dc:creator>
+  <dc:creator>Pardina Carrera, Antonio</dc:creator>
+  <dc:title>Entrenador de motores paso a paso</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/37170</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2015</dc:date>
+  <dc:description>Se ha diseñado y construido un entrenador de motores paso a paso con el objetivo de enseñar a futuros alumnos el funcionamiento de este tipo de motores, pudiendo simular distintas situaciones de funcionamiento y visualizar los parámetros mas significativos del ensayo, para así poder comparar los resultados prácticos obtenidos con los teóricos previamente calculados por ellos mismos.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

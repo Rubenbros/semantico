@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Domingo Gracia, María José</dc:creator>
+  <dc:creator>Goya Rossetti, Gerardo F. </dc:creator>
+  <dc:creator>Sanz Sagué, Beatriz</dc:creator>
+  <dc:title>Medición dinámica de liberación de fármacos en ferrogeles mediante hipertermia magnética</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/65160</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:description>Este trabajo se enmarca en el campo de la nano-biomedicina, y tiene como objetivo central el  desarrollo de un sistema de liberación remota de fármacos mediante campos magnéticos, utilizando ferrogeles como material termosensible. Hemos sintetizado diferentes nanopartículas de composición MFe2O4 con M=Co, Zn y Fe y caracterizado su morfología y respuesta magnética. Asimismo hemos sintetizado el soporte polimérico del ferrogel  con una base de PNIPAM y Alginatos, y nanopartículas de Fe3O4 incorporadas como agentes de calentamiento para provocar la transición de fase LCST que libera el fármaco previamente cargado. El dispositivo de liberación dinámica y medición en tiempo real que se ha diseñado, construido y caracterizado utilizando diferentes ferrogeles y fármacos. Hemos caracterizado la respuesta térmica de las nanopartículas y de los ferrogeles, determinando la absorción de potencia en campos de radiofrecuencia. En los experimentos con Rodamina-B e Ibuprofeno como fármacos de prueba, hemos conseguido controlar remotamente la liberación del fármaco mediante la aplicación de pulsos de campo, aumentando la concentración circulante hasta 6-7 veces la concentración basal. Si bien hemos encontrado que la cinética de liberación es demasiado rápida (minutos) para las aplicaciones farmacológicas, estos parámetros podrán optimizarse mediante cambios en la composición polimérica del gel. Por otro lado, se ha verificado que la respuesta térmica de nuestros materiales permanece estable en el tiempo, garantizando reproducibilidad en la liberación durante horas. Estos resultados indican claramente el potencial de las estrategias de liberación remota mediante campos de radiofrecuencia en el campo de la biomedicina.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

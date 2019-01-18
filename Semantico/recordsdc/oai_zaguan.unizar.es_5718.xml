@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>González de la Cruz, Sofía</dc:creator>
+  <dc:creator>Pérez del Palomar Aldea, Amaya</dc:creator>
+  <dc:title>Modelización por elementos finitos del cráneo de un corzo hembra : estudio de la tensión generada durante la masticación</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/5718</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2010</dc:date>
+  <dc:description>El proyecto se centra en la modelización por elementos finitos del cráneo y la mandíbula de un corzo hembra, para observar las tensiones que experimentan ambos durante la masticación. Se simulará la masticación mediante la aplicación de unas cargas a los músculos que unirán el cráneo y la mandíbula y se estudiará el comportamiento óseo.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

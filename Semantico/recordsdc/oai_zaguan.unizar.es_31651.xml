@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Girón Dolader, Andrea</dc:creator>
+  <dc:creator>Gómez Gardeñes, Jesús</dc:creator>
+  <dc:creator>Saiz Bustamente, Hugo</dc:creator>
+  <dc:title>Redes de Interacción Ecológicas: Balance y Frustración en Redes Complejas con Signo.</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/31651</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2015</dc:date>
+  <dc:description>En ecología se han estudiado las interacciones entre los miembros de un ecosistema estableciendo las relaciones entre las especies que lo forman. El conjunto de relaciones se codifica en una red compleja donde los nodos son las especies y los links entre los nodos codifican diferentes tipos de interacción. En este trabajo consideramos especies vegetales cuyas interacciones pueden ser positivas (favorecedoras), negativas (competitivas) o neutras. Nuestro interés radica en estudiar el balance estructural de estas redes comparándolo con el balance estructural de redes equivalentes generadas al azar. El objetivo es entender y cuantificar cómo las redes observadas han evolucionado hacia estructuras con un balance casi óptimo lo cual las convierte en sistemas robustos y adaptables.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

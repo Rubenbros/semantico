@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Bronchal Paricio, Marcos</dc:creator>
+  <dc:creator>López Torres, Ana María</dc:creator>
+  <dc:creator>Blesa Gascón, Alfonso</dc:creator>
+  <dc:title>Diseño e implementación de un prototipo de radar de tramo basado en Raspberry Pi</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/60549</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:description>En este Trabajo Fin de Grado se ha desarrollado el diseño y la implementación de un prototipo de radar de tramo, en el que un computador Raspberry Pi es el encargado de gestionar los datos necesarios para el correcto funcionamiento de la aplicación. Su implementación se ha llevado a cabo en un circuito de Scalextric. El sistema calcula la velocidad media de los coches de Scalextric en un determinado tramo, y en función de si superan un cierto valor de velocidad, decide si se trata de un infractor. En caso afirmativo, el sistema realiza una serie de fotografías mediante una PiCamera para identificar su matrícula, que es comparada con una base de datos para redactar la correspondiente multa.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

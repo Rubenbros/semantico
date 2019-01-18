@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Ariño Gascón, Mario</dc:creator>
+  <dc:creator>Cuartero Salafranca, Jesús</dc:creator>
+  <dc:title>Estudio de uniones atornilladas mediante elementos finitos y comparación con la Norma VDI 2230</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/6641</dc:identifier>
+  <dc:subject>vdi</dc:subject>
+  <dc:subject>unión atornillada</dc:subject>
+  <dc:subject>elementos finitos</dc:subject>
+  <dc:subject>cálculo</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2011</dc:date>
+  <dc:description>La realización del proyecto surge de la iniciativa de comprobar la variación de los resultados al calcular una unión atornillada mediante la norma VDI 2230 frente al cálculo mediante elementos finitos (MEF.) En una primera fase se analiza la guía de cálculo, viendo los métodos en que se basa y los pasos que se siguen hasta la obtención de los resultados. A continuación, se estudian dos casos de cálculo: un primer caso para una unión simple con carga axial concéntrica y solapamiento concéntrico y un segundo caso de unión múltiple con carga transversal. En una segunda parte se simulan los casos mencionados mediante MEF. Se realiza todo el procedimiento para su simulación: comenzando por el modelado de los escenarios de cálculo, continuando por el diseño de las mallas de elementos finitos, aplicación de las condiciones de contornos y las cargas y definición de los estados del modelo a lo largo de la simulación. También se evalúan en esta parte como afectan en el diseño de una simulación diversos factores como el tipo o tamaño de los elementos empleados o el tipo de contacto definido entre las diferentes mallas. Una vez llevada a cabo la simulación se comparan los resultados con los datos obtenidos mediante la guía de cálculo. También se compara el tiempo y el esfuerzo que requiere cada metodología para evaluar que método se puede considerar más rápido y eficaz. Finalmente se plantean líneas de investigación futuras para profundizar en la metodología del cálculo de uniones atornilladas.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Franco Rubio, Adrián</dc:creator>
+  <dc:creator>Clemente Gallardo, Jesús</dc:creator>
+  <dc:title>Formalismo geométrico de la Mecánica Cuántica y sus aplicaciones: Dinámica de tensores en sistemas abiertos markovianos</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/47580</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2015</dc:date>
+  <dc:description>En este trabajo se utiliza el formalismo geométrico de la Mecánica Cuántica para estudiar desde un nuevo punto de vista la dinámica de sistemas abiertos (sometidos a una evolución no unitaria). Se analiza la posibilidad de trasladar la evolución del espacio de matrices densidad al espacio de tensores sobre el dual del álgebra de observables que codifican las estructuras algebraicas sobre la misma, y se estudian las propiedades de convergencia de estos tensores en el límite de tiempos largos.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

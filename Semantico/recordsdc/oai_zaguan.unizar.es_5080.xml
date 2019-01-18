@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Jordán Palomar, Elena Irene</dc:creator>
+  <dc:creator>Gómez Benito, María José</dc:creator>
+  <dc:creator>Javierre Pérez, Etelvina</dc:creator>
+  <dc:title>Factores bioquímicos y mecánicos en la generación de heridas : estudio in vitro e in vivo</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/5080</dc:identifier>
+  <dc:subject>heridas</dc:subject>
+  <dc:subject>actores mecánicos</dc:subject>
+  <dc:subject>simulación computacional</dc:subject>
+  <dc:subject>reconstrucción funcional</dc:subject>
+  <dc:subject>elementos finitos</dc:subject>
+  <dc:subject>plataforma de cargas</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2010</dc:date>
+  <dc:description>A partir de un caso clínico de herida catastrófica en pie, se realiza una simulación de la misma para aplicarla y conseguir la mejor funcionalidad de la misma. Esto se analiza desde un punto de vista médico e ingenieril haciendo especial  hincapié en la influencia de factores mecánicos.  Del mismo modo, se realiza una revisión del  proceso  de cicatrización de heridas estudiando heridas problemáticas como  queloides, traumáticas, diabéticas,... Estas heridas tienen fuerte componente mecánico, aunque sin duda la patología del paciente es determinante.Este  poyecto se enmarca en un proyecto de investigación en el que se plantean modelos matemáticos para la simulación de la formación  y curación de heridas.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

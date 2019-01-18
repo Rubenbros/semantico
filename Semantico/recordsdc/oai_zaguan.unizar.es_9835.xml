@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Navarro Uriel, Marta</dc:creator>
+  <dc:creator>Uche Marcuello, Javier</dc:creator>
+  <dc:title>Análisis de viabilidad de los bombeos reversibles</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/9835</dc:identifier>
+  <dc:subject>bombeo reversible</dc:subject>
+  <dc:subject>análisis viabilidad</dc:subject>
+  <dc:subject>integración eerr</dc:subject>
+  <dc:subject>curvas carga</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2012</dc:date>
+  <dc:description>Este proyecto propone estudiar la rentabilidad actual de los bombeos reversible puros como forma de almacenamiento energético mediante una instalación que funcionará aprovechando la capacidad de los embalses, y generando una energía eléctrica cuya venta supere el costo de compra de energía para el bombeo, de acuerdo con los periodos horarios más favorables y el marco tarifario vigente. Además se realiza una simulación de escenarios "ideales" donde se integrará con un parque eólico, con una central térmica y una nuclear.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

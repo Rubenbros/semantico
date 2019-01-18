@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Parra Castillo, Ibón</dc:creator>
+  <dc:creator>Serón Arbeloa, Francisco José</dc:creator>
+  <dc:title>Modelos de formas y apariencias humanas a partir de imágenes múltiples</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/12978</dc:identifier>
+  <dc:subject>3d </dc:subject>
+  <dc:subject>uncanny valley</dc:subject>
+  <dc:subject>modelado basado en imagen</dc:subject>
+  <dc:subject>agentes conversacionales</dc:subject>
+  <dc:subject>modelos de apariencia humana</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2013</dc:date>
+  <dc:description>En el contexto de la interacción hombre maquina a través de agentes conversacionales existe una problemática conocida como el Uncanny Valley (Valle desconocido) que hace referencia al rechazo que los modelos de texturización sintética producen en el espectador conforme su realismo va aumentando y mientras este no sea de una calidad prácticamente indistinguible de un ser humano. El modelado basado en imagen es la técnica de generación de mallas 3D que permite reconstruir un modelo real en un computador a través de una serie de fotografías del mismo y es la técnica utilizada  para generar mallas 3D que intenten solventar ese problema. La memoria recoge un primer bloque en el que se hace un análisis de los conceptos básicos del modelado basado en imagen. Se estudia la aplicación de esta técnica en el desarrollo de un agente conversacional analizando sus ventajas e inconvenientes así como un análisis de la teoría del Uncanny Valley. En un segundo parte se presenta el caso de dos modelos humanos obtenidos a través de fotografías múltiples con el software 123D Catch. Se analizan los programas necesarios para su edición y procesado, Zbrush , así como procedimiento seguido para la adaptación de estos modelos al desarrollo de un agente conversacional humano. Finalmente se presenta un modelo 3D con los modificadores necesarios para generar las imágenes básicas necesarias para realizar una animación de un agente conversacional humano.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

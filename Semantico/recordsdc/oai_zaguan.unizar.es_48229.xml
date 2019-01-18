@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Ramírez Vega, José Carlos</dc:creator>
+  <dc:creator>Sanz Alcober, Antonio</dc:creator>
+  <dc:creator>Salazar Riaño, José Luis</dc:creator>
+  <dc:title>Mejora de la detección de malware mediante la modificación profunda de sistemas de sandboxing</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/48229</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2015</dc:date>
+  <dc:description>Diseñar un plan de mejora en la detección de malware,  a través de la adaptación de software existente para analizar sistemáticamente el comportamiento de archivos, usando una máquina virtual y/o sandbox que imite un sistema real. El malware actual intenta detectar si está dentro de una máquina virtual y/o sandbox empleando distintas técnicas, para quedar inactivo en lugar de desplegar su actividad maligna, evitando de esta forma su detección en estos sistemas.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

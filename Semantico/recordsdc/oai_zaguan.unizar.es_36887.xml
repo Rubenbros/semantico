@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Pablo Ibáñez Freire</dc:creator>
+  <dc:creator>Gómez Gardeñes, Jesús</dc:creator>
+  <dc:creator>Floría Peralta, Luis Mario</dc:creator>
+  <dc:creator>Floría Peralta, Luis Mario</dc:creator>
+  <dc:title>Control de difusión de rumores en redes complejas</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/36887</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2015</dc:date>
+  <dc:description>En este trabajo se busca desarrollar un modelo matemático que nos permita entender el comportamiento de un rumor, así como elaborar una serie de estrategias que nos posibiliten controlar su difusión. Dos serán los elementos claves de este modelo: un mecanismo de propagación y el empleo de la teoría de redes. El mecanismo de propagación se elabora partiendo de los modelos epidemiológicos clásicos que se expondrán brevemente en el trabajo. En lo referente a el uso de la teoría de redes, se indica cuál es la motivación para su uso, y su vez se da una introducción a dicha teoría. Posteriormente resolvemos el modelo entendiéndolo como un proceso de Markov. En la parte final del trabajo se exponen los datos obtenidos mediante las simulaciones numéricas y se da su interpretación.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Menjíbar Ruiz, Saray</dc:creator>
+  <dc:creator>Letosa Fleta, Jesús</dc:creator>
+  <dc:title>Diseño paramétrico de bobinas de Tesla</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/61378</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:description>La bobina de Tesla es un generador electromagnético de alta frecuencia que crea descargas eléctricas de alta tensión. Se compone de dos circuitos eléctricos acoplados magnéticamente que forman un transformador resonante de núcleo de aire. Tesla desarrolló esta máquina con el fin de trasmitir la energía eléctrica inalámbricamente, es decir, sin la necesidad de utilizar cableado. Actualmente, estas bobinas se emplean para demostraciones científicas. 	Este proyecto presenta herramientas de diseño de bobinas de Tesla, en función de sus parámetros geométricos y eléctricos. Para ello, se presentan distintos métodos de cálculo: -	Cálculo de los parámetros mediante fórmulas analíticas. -	Calculo de los parámetros mediante la simulación del sistema con programas informáticos. Los resultados se comparan con datos obtenidos de forma experimental haciendo uso de las bobinas de Tesla disponibles en el departamento de Ingeniería Eléctrica de la Universidad de Zaragoza. De esta forma, se demuestra que se puede realizar un estudio previo a la construcción de la máquina sin necesidad de recurrir a cálculos complejos.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

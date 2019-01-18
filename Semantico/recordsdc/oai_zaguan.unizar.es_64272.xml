@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>González Val, Jorge</dc:creator>
+  <dc:creator>Letosa Fleta, Jesús</dc:creator>
+  <dc:title>Diseño y configuración optima de rodamientos magnéticos radiales de N polos</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/64272</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:description>En este trabajo se ha estudiado el diseño y configuración optima de rodamientos magnéticos radiales de N polos. Al principio se exponen las ventajas de usar esta tipología de rodaientos, así como una serie de características propias de cada diseño obtenidas durante el desarrollo del proyecto. Las primeras páginas repasan de forma sencilla los principios fundamentales de los rodamientos magnéticos estudiados. En los anexos está incluido el script de QtOctave que permite realizar todos los cálculos. Se han realizado muchas simulaciones, algunas de ellas están recogidas en los siguientes apartados y explican variaciones de diseño según algunos cambios de variables. Se incluye un estudio de las limitaciones que tienen este tipo de simulaciones frente a los resultados que se obtendrían mediante un modelo experimental. Se realizan algunas propuestas que podrían suponer un estudio adicional más minucioso y que aportarían posibles mejoras en el diseño de rodamientos magnéticos. Los anexos incluyen algunos de los resultados obtenidos, así como tablas y diagramas usados, además del script antes mencionado.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

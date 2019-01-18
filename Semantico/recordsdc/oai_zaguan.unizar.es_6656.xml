@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Giménez Gaudes, Emilio José</dc:creator>
+  <dc:creator>Piedrafita Moreno, Ramón</dc:creator>
+  <dc:title>Automatización de la célula de fabricación</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/6656</dc:identifier>
+  <dc:subject>autómata programable</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2011</dc:date>
+  <dc:description>Dicho proyecto ha sido enfocado a la automatización de la célula de fabricación localizada en los laboratorios de la Universidad mediante autómatas programables de Rockwell Automation, la comunicación será realizada mediante el protocolo Ethernet/Ip . La finalidad de este es comprender el funcionamiento del software así como llevar a cabo la programación de diferentes estaciones de trabajo tanto individual como conjuntamente.  Al mismo tiempo se ha elaborado un manual de prácticas el cual será destinado a la asignatura impartida por el profesor "Ramón Piedrafita Moreno".</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

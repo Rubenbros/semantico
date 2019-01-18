@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Rueda Pérez, Juan</dc:creator>
+  <dc:creator>Montijano Muñoz, Eduardo</dc:creator>
+  <dc:title>Implementación de estrategias de atrapamiento utilizando equipos de robots</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/63977</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:description>La investigación en equipos de robots que cooperan para realizar tareas ha adquirido un importante auge en los últimos años. La utilización de sistema multi-robot permite realizar tareas de forma más eficiente, segura y robusta, como en el caso del atrapamiento o la escolta de objetivos. Sin embargo, al aumentar el número de robots que realizan estas tareas, su ejecución es cada vez más compleja debido a las restricciones de movimiento de los robots. El principal objetivo de este trabajo es la implementación de un algoritmo de atrapamiento en un sistema multi-robot real. Dicho algoritmo debe tener en cuenta posibles errores en la información local y global de la posición del target, así como en la movilidad de los robots involucrados.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

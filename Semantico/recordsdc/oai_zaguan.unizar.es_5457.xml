@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Cortés Concha, Gloria</dc:creator>
+  <dc:creator>Zouaoui, Zoubir</dc:creator>
+  <dc:title>Development of an automatic flight control system</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/5457</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2010</dc:date>
+  <dc:description>In the aviation industry, aircraft manufactures are constantly striving to fully understand the essentials required to successfully design an AFCS, based on dynamic response of the aircraft in relation to atmospheric turbulence and structural flexibility. This report is about the analysis of the longitudinal and lateral dynamics stability of an aircraft, based on the data of CHARLIE. Applying Stability Augmentation System (SAS), Attitude and Flight Path Control System. Furthermore, to achieve the control system in a good response it was simulated using Matlab environment.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>eng</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

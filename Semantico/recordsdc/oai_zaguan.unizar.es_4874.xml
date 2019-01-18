@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Martínez Mazo, Andrea</dc:creator>
+  <dc:creator>Saros, Jakob</dc:creator>
+  <dc:creator>Synnes, Kåre</dc:creator>
+  <dc:title>Near Field Communication application provisioning framework</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/4874</dc:identifier>
+  <dc:subject>Near Field Communication</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2012</dc:date>
+  <dc:description>Near Field Communication es una tecnología de comunicación que está ganando adeptos día a día. NFC posee características comunes a la tecnología Bluetooth: ambas son tecnologías de comunicación de corto alcance que funcionan sobre una conexión inalámbrica; aún con todo, NFC posee propiedades con las que aventaja a Bluetooth. Una de las más importantes radica en el tiempo de establecimiento de la conexión, el cual es significativamente menor en la tecnología NFC. Por todo ello, esta Comunicación de Corto Alcance se ha convertido en un medio fácil y seguro de transmisión de información. Su aplicación en el campo de la telefonía móvil abre nuevos caminos a servicios y transacciones de la vida cotidiana, que buscan facilitar y agilizar los procedimientos seguidos en la actualidad. El proyecto con título NFC Application Provisioning Framework busca fomentar el uso de la tecnología descrita. La manera en que se desea conseguir este fin es facilitando un servicio al usuario, el cual le permitirá interaccionar con cualquier etiqueta NFC, incluso cuando éstas, en un principio, no pudieran ser leídas por su teléfono móvil.  De esta forma, una única aplicación será la encargada de proveer todo tipo de servicios o aplicaciones requeridas para que un dispositivo móvil pueda comunicarse con dispositivos NFC y llevar a cabo transferencias de información entre ellos.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights/>
+</oai_dc:dc>

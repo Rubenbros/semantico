@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Sola Almagro, Alejandro</dc:creator>
+  <dc:creator>Blasco Alberto, Javier</dc:creator>
+  <dc:title>Desarrollo de un entorno virtual 3D de entrenamiento de diseñadores de tuberias</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/48534</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2015</dc:date>
+  <dc:description>El presente trabajo de fin de grado trata sobre la creación de un ejercicio de entrenamiento virtual para diseñadores de tuberías junior que están en la fase de formación y adquisición de conocimientos sobre instalaciones de tuberías. Para la creación de este ejercicio de entrenamiento ha sido necesaria la revisión de gran volumen de bibliografía relacionada con el diseño de tuberías y de la extracción de reglas de diseño para la creación de unas listas de verificación que servirán a los diseñadores junior de apoyo para verificar el correcto diseño de instalaciones de tuberías. Mediante el software de diseño de tubería PDMS, e inspirándose en los planos cedidos por una ingeniería multinacional de una planta real ya instalada se ha creado un modelo en 3D de una instalación de tuberías que servirá de soporte para este ejercicio, siendo esta la planta donde deberán ser detectados los errores y exportando esta planta creada en PDMS al software de realidad virtual COMOS Walkinside se consigue la plataforma virtual por la que moverse detectando errores y verificando los puntos de las listas creadas.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

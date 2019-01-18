@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Azcona Pérez, Javier</dc:creator>
+  <dc:creator>Alcrudo Sánchez, Francisco</dc:creator>
+  <dc:title>Simulación del flujo en una etapa de un compresor</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/6758</dc:identifier>
+  <dc:subject>simulación</dc:subject>
+  <dc:subject>compresor centrífugo</dc:subject>
+  <dc:subject>flujo compresible</dc:subject>
+  <dc:subject>mallador</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2011</dc:date>
+  <dc:description>Simulación de un compresor centrífugo con flujo compresible y desarrollo de una herramienta de mallado.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights/>
+</oai_dc:dc>

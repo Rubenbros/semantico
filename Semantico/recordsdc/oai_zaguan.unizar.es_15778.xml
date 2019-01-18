@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Calvo Ibar, Jorge</dc:creator>
+  <dc:creator>Zueco Láinez, David</dc:creator>
+  <dc:creator>Naether, Uta</dc:creator>
+  <dc:title>Un problema de bosones que interaccionan. Cálculos analíticos y numéricos</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/15778</dc:identifier>
+  <dc:subject>bosones que interaccionan</dc:subject>
+  <dc:subject>cálculos analíticos y numéricos</dc:subject>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2014</dc:date>
+  <dc:description>El trabajo consiste en un estudio de un sistema de bosones interactuantes. El objetivo primordial es la obtención de un método numérico que permita resolver un caso no lineal, no resoluble analíticamente, para un arreglo de bosones en forma de diente de sierra. Se empezará por recordar algunos conceptos básicos del oscilador armónico cuántico como los operadores de creación y destrucción. El Hamiltoniano del sistema conmuta con el operador número, lo cual definirá los autoestados que usaremos a lo largo de todo el trabajo. Primero obtendremos en el límite lineal las bandas de energía para un arreglo unidimensional y luego para un caso intermedio entre una y dos dimensiones, el arreglo en forma de diente de sierra. Obtendremos las condiciones necesarias para la existencia de bandas planas, observándose que no siempre estas existen. Tras todo ello empezaremos a desarrollar los métodos numéricos. Analizaremos el sistema en el caso de una excitación, observando dependencia del tamaño finito. A continuación desarrollamos un primer método conceptualmente sencillo, pero muy deficiente. Ello nos llevará a desarrollar un segundo método, el definitivo, el cual nos permitirá ahorrarnos mucho tiempo de cálculo. Para analizar resolveremos por fin el Hamiltoniano no lineal. Observaremos la ruptura de la degeneración de las bandas planas del caso lineal. Así, habremos estudiado el sistema primero en un caso de un arreglo sencillo de una dimensión pasando después a un arreglo a caballo entre una y dos dimensiones. Centrándonos en un inicio en el caso lineal y sus propiedades para terminar resolviendo, ahora numéricamente, el caso no lineal.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>spa</dc:language>
+  <dc:type>info:eu-repo/semantics/bachelorThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>

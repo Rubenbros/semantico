@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Lagunas Arto, Manuel</dc:creator>
+  <dc:creator>Garcés García, Elena</dc:creator>
+  <dc:creator>Gutiérrez Pérez, Diego</dc:creator>
+  <dc:title>Modelo Computacional de Apariencia de Iconos</dc:title>
+  <dc:identifier>http://zaguan.unizar.es/record/63663</dc:identifier>
+  <dc:publisher>Universidad de Zaragoza</dc:publisher>
+  <dc:date>2017</dc:date>
+  <dc:description>Nowadays, visual design and interaction are playing an important role in traditional marketing pipelines. Within the context of visual design, the proper selection of icons can be the key of success for engaging and captivating the audience. In this work, we present a method based on a Convolutional Neural Network to obtain icon sets optimized for the properties of style and visual similarity and ease the process of selection to the users. We also obtain a new dataset of icons using an online database where the icons are uploaded by graphic designers in small collections that usually share same semantic meaning and appearance. Since the dataset is labelled by the designers, we cannot be completely sure that there is noise or non-reliable points in the collections. Thus, we use part of the raw data from this dataset to train the CNN, and the rest to collect human-rated information which used for testing. The final goal of the method is to train a Convolutional Neural Network to map each input image to a new Euclidean space where the properties of style and visual similarity are considered. To do so, we train the model using a triplet loss which ensures that images sharing style and visually similar remain closer in the new feature space, while keeps farther icons without similar appearance properties. At the end, we present several results and applications that can be helpful for designers and non-expert users while exploring large collections of icons.</dc:description>
+  <dc:format>pdf</dc:format>
+  <dc:language>eng</dc:language>
+  <dc:type>info:eu-repo/semantics/masterThesis</dc:type>
+  <dc:rights>by-nc-sa</dc:rights>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+</oai_dc:dc>
