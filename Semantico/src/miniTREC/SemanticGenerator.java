@@ -4,10 +4,14 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
+import java.io.IOException;
+import java.sql.Date;
 import java.util.ArrayList;
+import java.util.List;
 
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
+import javax.xml.parsers.ParserConfigurationException;
 
 import org.apache.jena.rdf.model.Resource;
 import org.apache.jena.rdf.model.Model;
@@ -18,10 +22,11 @@ import org.apache.jena.rdf.model.StmtIterator;
 import org.apache.jena.util.FileManager;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
+import org.xml.sax.SAXException;
 
 public class SemanticGenerator {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) throws SAXException, IOException, ParserConfigurationException {
 		String rdf = null;
 		String skos = null;
 		String docs = null;
@@ -82,138 +87,46 @@ public class SemanticGenerator {
 		generarRDF(modelo, conceptos, dir, output);
 	}
 
-	private static void generarRDF(Model modelo, ArrayList<String> conceptos, File dir, File output) {
-		// do not try to index dirs that cannot be read
-		if (dir.canRead()) {
-			if (dir.isDirectory()) {
-				File[] dirs = dir.listFiles();
-				// an IO error could occur
-				if (dirs != null) {
-					for (int i = 0; i < dirs.length; i++) {
-						generarRDF(modelo, conceptos, dirs[i], output);
-					}
-					// ESCRIBIR FICHERO TTL
-					try {
-						modelo.write(new FileOutputStream(output, false), "TTL");
-					} catch (Exception e) {
-						e.printStackTrace();
-					}
-					System.out.println("FIN");
-				}
-			} else {
-				FileInputStream fis;
-				try {
-					fis = new FileInputStream(dir);
-				} catch (FileNotFoundException fnfe) {
-					// at least on windows, some temporary dirs raise this
-					// exception with an "access denied" message
-					// checking if the dir can be read doesn't help
-					return;
-				}
-
-				try {
-
-					String path = dir.getPath();
-					String titulo = null;
-					int fecha = 0;
-					String descripcion = null;
-					String materias = null;
-					int tipo = 0;
-					String tipoTrab = null;
-
-					ArrayList<String> creatorS = new ArrayList<String>();
-
-					// RDF FECHA
-					DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
-					DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
-					org.w3c.dom.Document doc2 = dBuilder.parse(dir);
-
-					doc2.getDocumentElement().normalize();
-
-					NodeList nList = doc2.getElementsByTagName("dc:date");
-					Node nNode = nList.item(0);
-					if (nNode != null) {
-						String texto = nNode.getTextContent();
-						fecha = Integer.parseInt(texto);
-					}
-
-					// RDF TITULO
-					nList = doc2.getElementsByTagName("dc:title");
-					for (int i = 0; i < nList.getLength(); i++) {
-						nNode = nList.item(i);
-						titulo = nNode.getTextContent();
-					}
-					titulo = titulo.toLowerCase();
-					titulo = cleanString(titulo);
-					// RDF DESCRIPCION
-					nList = doc2.getElementsByTagName("dc:description");
-					for (int i = 0; i < nList.getLength(); i++) {
-						nNode = nList.item(i);
-						descripcion = nNode.getTextContent();
-					}
-
-					descripcion = descripcion.toLowerCase();
-					descripcion = cleanString(descripcion);
-
-					// RDF TEMA
-
-					nList = doc2.getElementsByTagName("dc:subject");
-					for (int i = 0; i < nList.getLength(); i++) {
-						nNode = nList.item(i);
-						materias = nNode.getTextContent();
-					}
-					if (materias != null) {
-						materias = materias.toLowerCase();
-						materias = cleanString(materias);
-					} else {
-						materias = "";
-					}
-					// RDF TIPO
-					nList = doc2.getElementsByTagName("dc:type");
-					for (int i = 0; i < nList.getLength(); i++) {
-						nNode = nList.item(i);
-						tipoTrab = nNode.getTextContent();
-					}
-					if (tipoTrab.equals("info:eu-repo/semantics/masterThesis")) {
-						tipo = 1;
-					} else if (tipoTrab.equals("info:eu-repo/semantics/bachelorThesis")) {
-						tipo = 0;
-					} else {
-						tipo = 2;
-					}
-					// RDF CREADOR
-					nList = doc2.getElementsByTagName("dc:creator");
-					for (int i = 0; i < nList.getLength(); i++) {
-						nNode = nList.item(i);
-						creatorS.add(nNode.getTextContent());
-					}
-
-					// TEMA DEL DOCUMENTO
-					ArrayList<String> al = new ArrayList<String>();
-					for (int i = 1; i < conceptos.size(); i = i + 2) {
-						if (titulo.contains(conceptos.get(i).toLowerCase())
-								|| materias.contains(conceptos.get(i).toLowerCase())
-								|| (descripcion.contains(conceptos.get(i).toLowerCase()))) {
-							al.add(conceptos.get(i - 1));
-						}
-					}
-					if (al.size() == 0) {
-						al.add("http://www.equipo03.com/Otros");
-					}
-					// Crear Modelo
-					Model modeloPro = generarModelo(path, al, fecha, creatorS, tipo);
-					if (modeloPro.isEmpty()) {
-						throw new Exception();
-					}
-					// Añadir modelo al modelo final
-					modelo.add(modeloPro);
-				} catch (Exception e) {
-					e.printStackTrace();
-				} finally {
-					fis.close();
-				}
-			}
+	private static void generarRDF(Model modelo, ArrayList<String> conceptos, File dir, File output) throws SAXException, IOException, ParserConfigurationException {
+		File[] file = dir.listFiles();
+		FileInputStream fis = null;
+		for (int i = 0; i < file.length; i++) {
+				fis = new FileInputStream(file[i]);
+				String title=null;
+				DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
+				DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
+				org.w3c.dom.Document doc = dBuilder.parse(file[i]);
+				//Sacamos atributos
+				NodeList nList = doc.getElementsByTagName("dc:date");
+				Node nNode = nList.item(0);
+				int anyo = Integer.parseInt(nNode.getTextContent());
+				nList = doc.getElementsByTagName("dc:title");
+				nNode = nList.item(0);
+				String titulo = nNode.getTextContent();
+				nList = doc.getElementsByTagName("dc:publisher");
+				nNode = nList.item(0);
+				String publisher = nNode.getTextContent();
+				nList = doc.getElementsByTagName("dc:rights");
+				nNode = nList.item(0);
+				String rights = nNode.getTextContent();
+				nList = doc.getElementsByTagName("dc:type");
+				nNode = nList.item(0);
+				String type = nNode.getTextContent();
+				nList = doc.getElementsByTagName("dc:language");
+				nNode = nList.item(0);
+				String language = nNode.getTextContent();
+				nList = doc.getElementsByTagName("dc:format");
+				nNode = nList.item(0);
+				String format = nNode.getTextContent();
+				nList = doc.getElementsByTagName("dc:creator");
+				List<String> autores = new ArrayList<String>();
+				for (int j = 0; j < nList.getLength(); j++)
+					autores.add(nList.item(j).getTextContent());
+				nList = doc.getElementsByTagName("dc:subject");
+				List<String> temas = new ArrayList<String>();
+				for (int j = 0; j < nList.getLength(); j++)
+					temas.add(nList.item(j).getTextContent());
+				
 		}
 	}
-
 }
