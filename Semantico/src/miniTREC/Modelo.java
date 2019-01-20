@@ -4,6 +4,7 @@ import org.apache.jena.rdf.model.Model;
 import org.apache.jena.rdf.model.ModelFactory;
 import org.apache.jena.rdf.model.Property;
 import org.apache.jena.rdf.model.Resource;
+import org.apache.jena.util.FileManager;
 import org.apache.jena.vocabulary.RDF;
 import org.apache.jena.vocabulary.RDFS;
 import org.apache.jena.vocabulary.SKOS;
@@ -11,8 +12,9 @@ import org.apache.jena.vocabulary.XSD;
 
 public class Modelo {
 	private static String uri = "http://www.equipo12.com/";
+	private static String skos = "skos.n3";
 	public static Model generar() {
-		Model model = ModelFactory.createDefaultModel();
+		Model model = FileManager.get().loadModel(skos);
 		Property concept = model.createProperty(uri + "concept");
 		concept.addProperty(RDF.type, RDF.Property);
 		concept.addProperty(RDFS.domain,model.createResource( uri + "trabajo"));
@@ -72,5 +74,8 @@ public class Modelo {
 		autor.addProperty(RDF.type, RDFS.Class);
 		model.write(System.out);
 		return model;
+	}
+	public static void main(String[] args) {
+		generar();
 	}
 }

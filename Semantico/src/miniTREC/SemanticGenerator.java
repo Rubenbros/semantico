@@ -122,33 +122,36 @@ public class SemanticGenerator {
 			List<String> temas = new ArrayList<String>();
 			for (int j = 0; j < nList.getLength(); j++)
 				temas.add(nList.item(j).getTextContent());
-			//Convertimos los datos en un formato determinado
+			// Convertimos los datos en un formato determinado
 			titulo = deAccent(titulo).toLowerCase();
 			descripcion = deAccent(descripcion).toLowerCase();
-			for(String subject : temas)
+			for (String subject : temas)
 				subject = deAccent(subject).toLowerCase();
 			publisher = deAccent(publisher).toLowerCase();
-			//Añadimos los nuevos recursos
-			Resource trabajo = model.createResource(uri+file[i].getName());
-			trabajo.addLiteral(model.getProperty(uri+"title"), titulo);
-			trabajo.addLiteral(model.getProperty(uri+"description"), descripcion);
-			trabajo.addLiteral(model.getProperty(uri+"rights"), rights);
-			trabajo.addLiteral(model.getProperty(uri+"format"), format);
-			trabajo.addLiteral(model.getProperty(uri+"language"), language);
-			trabajo.addLiteral(model.getProperty(uri+"publisher"), publisher);
-			trabajo.addLiteral(model.getProperty(uri+"type"), type);
-			trabajo.addLiteral(model.getProperty(uri+"date"),anyo);
-			for(String person : autores) {
+			// Añadimos los nuevos recursos
+			Resource trabajo = model.createResource(uri + file[i].getName());
+			trabajo.addLiteral(model.getProperty(uri + "title"), titulo);
+			trabajo.addLiteral(model.getProperty(uri + "description"), descripcion);
+			trabajo.addLiteral(model.getProperty(uri + "rights"), rights);
+			trabajo.addLiteral(model.getProperty(uri + "format"), format);
+			trabajo.addLiteral(model.getProperty(uri + "language"), language);
+			trabajo.addLiteral(model.getProperty(uri + "publisher"), publisher);
+			trabajo.addLiteral(model.getProperty(uri + "type"), type);
+			trabajo.addLiteral(model.getProperty(uri + "date"), anyo);
+			for (String person : autores) {
 				String[] aux1 = person.split(" ");
-				String name =aux1[2];
+				String name = aux1[2];
 				String apellido1 = aux1[0];
-				String apellido2 = aux1[1].replaceAll(",","");
-				Resource autor = model.createResource(uri+name+"_"+apellido1+"_"+apellido2);
-				autor.addLiteral(model.getProperty(uri+"name"), name);
-				autor.addLiteral(model.getProperty(uri+"apellido1"), apellido1);
-				autor.addLiteral(model.getProperty(uri+"apellido2"), apellido2);
-				trabajo.addLiteral(model.getProperty(uri+"creator"), autor);
+				String apellido2 = aux1[1].replaceAll(",", "");
+				Resource autor = model.createResource(uri + name + "_" + apellido1 + "_" + apellido2);
+				autor.addLiteral(model.getProperty(uri + "name"), name);
+				autor.addLiteral(model.getProperty(uri + "apellido1"), apellido1);
+				autor.addLiteral(model.getProperty(uri + "apellido2"), apellido2);
+				trabajo.addLiteral(model.getProperty(uri + "creator"), autor);
 			}
+			for (String tema : temas)
+				trabajo.addLiteral(model.getProperty(uri + "concept"),
+						model.createResource(uri + deAccent(tema).toLowerCase()));
 		}
 	}
 

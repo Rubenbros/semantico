@@ -1,0 +1,78 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ex: <http://www.equipo12.com/> .
+
+
+
+
+ex:Tecnologia rdf:type skos:Concept;
+	skos:narrower ex:Robotica;
+	skos:narrower ex:Vision_Computador.
+
+ex:Robotica rdf:type skos:Concept;
+	skos:prefLabel	"robotica";
+	skos:altLabel	"robot";
+	skos:altLabel	"automata";
+	skos:altLabel	"robots";
+	skos:broader	ex:Tecnologia.
+
+ex:Vision_Computador rdf:type skos:Concept;
+	skos:prefLabel	"vision computador";
+	skos:altLabel	"vision por computador";
+	skos:altLabel	"vision por ordenador";
+	skos:broader	ex:Tecnologia.
+ex:BDD rdf:type skos:Concept;
+	skos:prefLabel	"base de datos";
+	skos:altLabel	"bases de datos";
+	skos:narrower	ex:SQL;
+	skos:narrower	ex:Postgres;
+	skos:narrower	ex:Oracle.
+
+ex:SQL rdf:type	skos:Concept;
+	skos:prefLabel	"SQL";
+	skos:altLabel	"MySQL";
+	skos:altLabel	"SQL Server";
+	skos:broader	ex:BDD.
+
+ex:Postgres rdf:type	skos:Concept;
+	skos:prefLabel	"PostgreSQL";
+	skos:altLabel	"Postgres";
+	skos:broader	ex:BDD.
+
+ex:Oracle rdf:type	skos:Concept;
+	skos:prefLabel	"Oracle";
+	skos:broader	ex:BDD.
+
+ex:Frontera rdf:type	skos:Concept;
+	skos:prefLabel	"frontera";
+	skos:narrower	ex:Paises;
+	skos:narrower	ex:Pirineo.
+
+ex:Paises rdf:type	skos:Concept;
+	skos:prefLabel	"España y Francia";
+	skos:altLabel	"España";
+	skos:altLabel	"Francia";
+	skos:broader	ex:Frontera.
+
+ex:Pirineo rdf:type	skos:Concept;
+	skos:prefLabel	"Pirineo";
+	skos:broader	ex:Frontera.
+
+ex:Salud rdf:type skos:Concept;
+	skos:prefLabel	"salud";
+	skos:narrower	ex:Gente;
+	skos:narrower	ex:Problemas.
+
+ex:Gente rdf:type	skos:Concept;
+	skos:prefLabel	"mayores de 65";
+	skos:altLabel	"ancianos";
+	skos:altLabel	"mayor de 65";
+	skos:broader	ex:Salud.
+
+ex:Problemas rdf:type	skos:Concept;
+	skos:prefLabel	"problemas de salud";
+	skos:altLabel	"enfermedades";
+	skos:broader	ex:Salud.
+
+ex:Otros rdf:type skos:Concept;
+	skos:prefLabel	"otros".
