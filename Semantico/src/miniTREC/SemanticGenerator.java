@@ -15,15 +15,19 @@ import org.apache.jena.rdf.model.Resource;
 import org.apache.jena.rdf.model.Model;
 import org.apache.jena.rdf.model.ModelFactory;
 import org.apache.jena.rdf.model.Property;
+import org.apache.jena.rdf.model.ResIterator;
 import org.apache.jena.rdf.model.Statement;
 import org.apache.jena.rdf.model.StmtIterator;
 import org.apache.jena.util.FileManager;
+import org.apache.jena.vocabulary.RDF;
+import org.apache.jena.vocabulary.SKOS;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 import org.xml.sax.SAXException;
 
 public class SemanticGenerator {
 
+	@SuppressWarnings("unlikely-arg-type")
 	public static void main(String[] args) throws SAXException, IOException, ParserConfigurationException {
 		String rdf = null;
 		String skos = null;
@@ -45,39 +49,58 @@ public class SemanticGenerator {
 		// Modelo final que se escribira
 		Model modelo = ModelFactory.createDefaultModel();
 		// Modelo de skos
-		Model modeloSkos = FileManager.get().loadModel(skos);
-		// Iterador sobre las tripletas del modelo skos
-		StmtIterator it = modeloSkos.listStatements();
+		Model modeloSkos = FileManager.get().loadModel(skos,"TTL");
+		// Iterador sobre para identificar todos los conceptos
+		ArrayList<Concept> conceptos = new ArrayList<Concept>();
+		ResIterator it = modeloSkos.listResourcesWithProperty(RDF.type, SKOS.Concept);
+		while (it.hasNext()) {
+			Resource concept = it.next();
+			String path[] = concept.getURI().split("/");
+			Concept nuevo = new Concept(path[path.length - 1]);
+			conceptos.add(nuevo);
+		}
 		// Añadimos las propiedades de skos al modelo final
+		StmtIterator it1 = modeloSkos.listStatements();
 		Property narrower = modelo.createProperty("narrower");
 		Property prefLabel = modelo.createProperty("prefLabel");
 		Property altLabel = modelo.createProperty("altLabel");
 		Property broader = modelo.createProperty("broader");
 		String aux = "";
-		Resource nuevo = null;
-		ArrayList<String> conceptos = new ArrayList<String>();
-		while (it.hasNext()) {
-			Statement st = it.next();
+		Concept nuevo = null;
+		while (it1.hasNext()) {
+			Statement st = it1.next();
 			if (!aux.equals(st.getSubject().getURI())) {
-				nuevo = modelo.createResource(st.getSubject().getURI());
+				String[] aux2 = st.getSubject().getURI().split("/");
+				String name=aux2[aux2.length-1];
+				for(Concept i : conceptos)
+					if(i.equals(name)) {
+						nuevo = i;
+						break;
+					}
 			}
 			switch (st.getPredicate().toString()) {
-			case "http://www.w3.org/TR/2009/NOTE-skos-primer-20090818/narrower":
-				nuevo.addProperty(narrower, st.getObject());
+			case "http://www.w3.org/2004/02/skos/core#narrower":
+				String[] aux2 = st.getObject().asResource().getURI().split("/");
+				for(Concept i : conceptos)
+					if(i.equals(aux2[aux2.length-1])) {
+						nuevo.addNarrower(i);
+						break;
+					}
 				break;
-			case "http://www.w3.org/TR/2009/NOTE-skos-primer-20090818/altLabel":
-				nuevo.addProperty(altLabel, st.getObject());
+			case "http://www.w3.org/2004/02/skos/core#altLabel":
+				nuevo.addAltLabel(st.getObject().toString());
 				break;
-			case "http://www.w3.org/TR/2009/NOTE-skos-primer-20090818/prefLabel":
-				nuevo.addProperty(prefLabel, st.getObject());
+			case "http://www.w3.org/2004/02/skos/core#prefLabel":
+				nuevo.addPrefLabel(st.getObject().toString());
 				break;
-			case "http://www.w3.org/TR/2009/NOTE-skos-primer-20090818/broader":
-				nuevo.addProperty(broader, st.getObject());
+			case "http://www.w3.org/2004/02/skos/core#broader":
+				String[] aux3 = st.getObject().asResource().getURI().split("/");
+				for(Concept i : conceptos)
+					if(i.equals(aux3[aux3.length-1])) {
+						nuevo.addNarrower(i);
+						break;
+					}
 				break;
-			}
-			if (st.getObject().isLiteral()) {
-				conceptos.add(st.getSubject().getURI());
-				conceptos.add(st.getLiteral().toString());
 			}
 			aux = st.getSubject().getURI();
 		}
@@ -96,7 +119,7 @@ public class SemanticGenerator {
 			nList = doc.getElementsByTagName("dc:title");
 			nNode = nList.item(0);
 			String titulo = nNode.getTextContent();
-			nList = doc.getElementsByTagName("dc:desciption");
+			nList = doc.getElementsByTagName("dc:description");
 			nNode = nList.item(0);
 			String descripcion = nNode.getTextContent();
 			nList = doc.getElementsByTagName("dc:publisher");
