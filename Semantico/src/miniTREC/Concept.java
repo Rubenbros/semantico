@@ -4,10 +4,10 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Concept {
-	List<Concept> broader=new ArrayList<Concept>();
-	List<Concept> narrower=new ArrayList<Concept>();
-	List<String> prefLabel=new ArrayList<String>();
-	List<String> altLabel=new ArrayList<String>();
+	private List<Concept> broader=new ArrayList<Concept>();
+	private List<Concept> narrower=new ArrayList<Concept>();
+	private List<String> prefLabel=new ArrayList<String>();
+	private List<String> altLabel=new ArrayList<String>();
 	private String base;
 	
 	public Concept(String base) {
@@ -45,6 +45,20 @@ public class Concept {
 	public void addAltLabel(String concept) {
 		altLabel.add(concept);
 	}
+	public List<Concept> getBroader() {
+		return broader;
+	}
+	public List<Concept> getNarrower() {
+		return narrower;
+	}
+	public List<String> getPrefLabel() {
+		return prefLabel;
+	}
+	public List<String> getAltLabel() {
+		return altLabel;
+	}
+	
+	
 	@Override
 	public boolean equals(Object concept) {
 		String cmp = (String) concept;

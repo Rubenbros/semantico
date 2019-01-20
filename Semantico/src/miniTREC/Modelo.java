@@ -71,10 +71,6 @@ public class Modelo {
 		trabajo.addProperty(RDF.type, RDFS.Class);
 		Resource autor = model.createResource(uri + "autor");
 		autor.addProperty(RDF.type, RDFS.Class);
-		model.write(System.out);
 		return model;
-	}
-	public static void main(String[] args) {
-		generar();
 	}
 }
