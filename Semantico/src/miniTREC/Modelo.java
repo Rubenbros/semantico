@@ -11,8 +11,7 @@ import org.apache.jena.vocabulary.XSD;
 
 public class Modelo {
 	private static String uri = "http://www.equipo12.com/";
-	private static String skos = "skos.n12";
-	public static Model generar() {
+	public static Model generar(String skos) {
 		Model model = FileManager.get().loadModel(skos,"TTL");
 		Property concept = model.createProperty(uri + "concept");
 		concept.addProperty(RDF.type, RDF.Property);

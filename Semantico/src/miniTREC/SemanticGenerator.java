@@ -33,7 +33,7 @@ public class SemanticGenerator {
 		String rdf = null;
 		String skos = null;
 		String docs = null;
-		int split = 1;
+		int split = 0;
 		for (int i = 0; i < args.length; i++) {
 			if ("-rdf".equals(args[i])) {
 				rdf = args[i + 1];
@@ -45,21 +45,23 @@ public class SemanticGenerator {
 				docs = args[i + 1];
 				i++;
 			} else if ("-split".equals(args[i])) {
-				split = Integer.parseInt(args[i+1]);
+				split = Integer.parseInt(args[i + 1]);
 				i++;
 			}
 		}
 		List<Concept> conceptos = generarEstructuraSKOS(skos);
 		// Directorio con los documentos
 		File[] dir = new File(docs).listFiles();
-		Model[] model=new Model[(dir.length/split)+1];
-		int i=0;
-		for(int j=0;j<(dir.length/split)+1;j++) {
-			model[j]=Modelo.generar();
-			for (;i < dir.length; i++) {
+		if (split == 0)
+			split = dir.length;
+		Model[] model = new Model[(dir.length / split) + 1];
+		int i = 0;
+		for (int j = 0; j < (dir.length / split) + 1; j++) {
+			model[j] = Modelo.generar(skos);
+			for (; i < (j + 1) * split && i < dir.length; i++) {
 				generarRDFDocumento(model[j], conceptos, dir[i]);
 			}
-			FileWriter fichero = new FileWriter(rdf+j);
+			FileWriter fichero = new FileWriter(rdf + j);
 			PrintWriter pw = new PrintWriter(fichero);
 			model[j].write(pw);
 		}
@@ -179,9 +181,9 @@ public class SemanticGenerator {
 		addAutores(model, trabajo, autores);
 		addTemas(model, trabajo, conceptos, temas);
 		for (Concept j : conceptos) {
-			String base = buscar(titulo, descripcion, j, false, false);
+			String base = buscar(titulo, descripcion, j);
 			if (!base.equals(""))
-				trabajo.addLiteral(model.getProperty(uri + "concept"), model.createResource(uri + base));
+				trabajo.addProperty(model.getProperty(uri + "concept"), model.createResource(uri + base));
 		}
 	}
 
@@ -194,45 +196,60 @@ public class SemanticGenerator {
 			String[] aux1 = person.split(" ");
 			if (aux1.length == 1) {
 				name = aux1[aux1.length - 1];
+				name = deAccent(name).toLowerCase();
 				autor = model.createResource(uri + name);
 				autor.addLiteral(model.getProperty(uri + "name"), name);
-				trabajo.addLiteral(model.getProperty(uri + "creator"), autor);
+				trabajo.addProperty(model.getProperty(uri + "creator"), autor);
 			} else if (aux1.length == 2) {
 				name = aux1[aux1.length - 1];
+				name = deAccent(name).toLowerCase();
 				apellido1 = aux1[0].replaceAll(",", "");
+				apellido1 = deAccent(apellido1).toLowerCase();
 				autor = model.createResource(uri + name + "_" + apellido1);
 				autor.addLiteral(model.getProperty(uri + "apellido1"), apellido1);
 				autor.addLiteral(model.getProperty(uri + "name"), name);
-				trabajo.addLiteral(model.getProperty(uri + "creator"), autor);
+				trabajo.addProperty(model.getProperty(uri + "creator"), autor);
 			} else if (aux1.length == 3) {
 				name = aux1[aux1.length - 1];
+				name = deAccent(name).toLowerCase();
 				apellido1 = aux1[0];
+				apellido1 = deAccent(apellido1).toLowerCase();
 				apellido2 = aux1[1].replaceAll(",", "");
+				apellido2 = deAccent(apellido2).toLowerCase();
 				autor = model.createResource(uri + name + "_" + apellido1 + "_" + apellido2);
 				autor.addLiteral(model.getProperty(uri + "apellido2"), apellido2);
 				autor.addLiteral(model.getProperty(uri + "apellido1"), apellido1);
 				autor.addLiteral(model.getProperty(uri + "name"), name);
-				trabajo.addLiteral(model.getProperty(uri + "creator"), autor);
+				trabajo.addProperty(model.getProperty(uri + "creator"), autor);
+			}
+			else if(aux1.length>3) {
+				name = deAccent(person.substring(person.indexOf(',')+1,person.length())).toLowerCase();
+				apellido1 = deAccent(person.substring(0,person.indexOf(','))).toLowerCase();
+				autor = model.createResource(uri + name.replaceAll(" ","") + "_" + apellido1.replaceAll(" ",""));
+				autor.addLiteral(model.getProperty(uri + "name"), name);
+				autor.addLiteral(model.getProperty(uri + "apellido1"), apellido1);
+				trabajo.addProperty(model.getProperty(uri+"creator"), autor);
 			}
 		}
 	}
 
 	private static void addTemas(Model model, Resource trabajo, List<Concept> conceptos, List<String> temas) {
-		boolean found = false;
+		//boolean found = false;
 		for (String tema : temas) {
 			for (Concept j : conceptos) {
 				if (!j.isRelated(tema).equals("")) {
-					trabajo.addLiteral(model.getProperty(uri + "concept"),
+					trabajo.addProperty(model.getProperty(uri + "concept"),
 							model.createResource(uri + j.isRelated(tema)));
-					found = true;
+	//				found = true;
 					break;
 				}
 			}
+			/*
 			if (!found) {
 				conceptos.add(new Concept(tema));
-				trabajo.addLiteral(model.getProperty(uri + "concept"),
+				trabajo.addProperty(model.getProperty(uri + "concept"),
 						model.createResource(uri + tema.replaceAll(" ", "_")));
-			}
+			}*/
 		}
 	}
 
@@ -242,38 +259,22 @@ public class SemanticGenerator {
 		return pattern.matcher(nfdNormalizedString).replaceAll("");
 	}
 
-	private static String buscar(String titulo, String description, Concept concepto, boolean callNarrower,
-			boolean callBroader) {
-		List<Concept> broader = concepto.getBroader();
-		List<Concept> narrower = concepto.getNarrower();
+	private static String buscar(String titulo, String description, Concept concepto) {
 		List<String> prefLabel = concepto.getPrefLabel();
 		List<String> altLabel = concepto.getAltLabel();
-		String found;
-		Pattern pattern = Pattern.compile(".*\\b" + concepto.getBase() + "\\b.*");
+		Pattern pattern = Pattern.compile("\\b" + concepto.getBase() + "\\b");
 		if (pattern.matcher(titulo).find() || pattern.matcher(description).find())
 			return concepto.getBase();
 		for (String i : prefLabel) {
-			pattern = Pattern.compile(".*\\b" + i + "\\b.*");
+			pattern = Pattern.compile("\\b" + i + "\\b.*");
 			if (pattern.matcher(titulo).find() || pattern.matcher(description).find())
 				return concepto.getBase();
 		}
 		for (String i : altLabel) {
-			pattern = Pattern.compile(".*\\b" + i + "\\b.*");
+			pattern = Pattern.compile("\\b" + i + "\\b.*");
 			if (pattern.matcher(titulo).find() || pattern.matcher(description).find())
 				return concepto.getBase();
 		}
-		if (!callBroader)
-			for (Concept i : broader) {
-				found = buscar(titulo, description, i, true, false);
-				if (!found.equals(""))
-					return found;
-			}
-		if (!callNarrower)
-			for (Concept i : narrower) {
-				found = buscar(titulo, description, i, false, true);
-				if (!found.equals(""))
-					return found;
-			}
 		return "";
 	}
 
