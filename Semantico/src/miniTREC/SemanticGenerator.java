@@ -163,13 +163,15 @@ public class SemanticGenerator {
 		for (int j = 0; j < nList.getLength(); j++)
 			temas.add(nList.item(j).getTextContent());
 		// Convertimos los datos en un formato determinado
-		titulo = deAccent(titulo).toLowerCase();
-		descripcion = deAccent(descripcion).toLowerCase();
+		titulo = deAccent(titulo).toLowerCase().replaceAll("\\p{Punct}","");
+		descripcion = deAccent(descripcion).toLowerCase().replaceAll("\\p{Punct}","");
 		for (String subject : temas)
 			subject = deAccent(subject).toLowerCase();
 		publisher = deAccent(publisher).toLowerCase();
+		type = type.split("/")[type.split("/").length-1];
 		// Añadimos los nuevos recursos
 		Resource trabajo = model.createResource(uri + file.getName());
+		trabajo.addLiteral(model.getProperty(uri + "path"), file.getName());
 		trabajo.addLiteral(model.getProperty(uri + "title"), titulo);
 		trabajo.addLiteral(model.getProperty(uri + "description"), descripcion);
 		trabajo.addLiteral(model.getProperty(uri + "rights"), rights);
@@ -221,35 +223,37 @@ public class SemanticGenerator {
 				autor.addLiteral(model.getProperty(uri + "apellido1"), apellido1);
 				autor.addLiteral(model.getProperty(uri + "name"), name);
 				trabajo.addProperty(model.getProperty(uri + "creator"), autor);
-			}
-			else if(aux1.length>3) {
-				name = deAccent(person.substring(person.indexOf(',')+1,person.length())).toLowerCase();
-				apellido1 = deAccent(person.substring(0,person.indexOf(','))).toLowerCase();
-				autor = model.createResource(uri + name.replaceAll(" ","") + "_" + apellido1.replaceAll(" ",""));
+			} else if (aux1.length > 3) {
+				name = deAccent(person.substring(person.indexOf(',') + 1, person.length())).toLowerCase();
+				if(person.contains(",")){
+					apellido1 = deAccent(person.substring(0, person.indexOf(','))).toLowerCase();
+					autor = model.createResource(uri + name.replaceAll(" ", "") + "_" + apellido1.replaceAll(" ", ""));
+					autor.addLiteral(model.getProperty(uri + "apellido1"), apellido1);
+				}
+				else 
+					autor = model.createResource(uri + name.replaceAll(" ", "_"));
 				autor.addLiteral(model.getProperty(uri + "name"), name);
-				autor.addLiteral(model.getProperty(uri + "apellido1"), apellido1);
-				trabajo.addProperty(model.getProperty(uri+"creator"), autor);
+				trabajo.addProperty(model.getProperty(uri + "creator"), autor);
 			}
 		}
 	}
 
 	private static void addTemas(Model model, Resource trabajo, List<Concept> conceptos, List<String> temas) {
-		//boolean found = false;
+		// boolean found = false;
 		for (String tema : temas) {
 			for (Concept j : conceptos) {
 				if (!j.isRelated(tema).equals("")) {
 					trabajo.addProperty(model.getProperty(uri + "concept"),
 							model.createResource(uri + j.isRelated(tema)));
-	//				found = true;
+					// found = true;
 					break;
 				}
 			}
 			/*
-			if (!found) {
-				conceptos.add(new Concept(tema));
-				trabajo.addProperty(model.getProperty(uri + "concept"),
-						model.createResource(uri + tema.replaceAll(" ", "_")));
-			}*/
+			 * if (!found) { conceptos.add(new Concept(tema));
+			 * trabajo.addProperty(model.getProperty(uri + "concept"),
+			 * model.createResource(uri + tema.replaceAll(" ", "_"))); }
+			 */
 		}
 	}
 

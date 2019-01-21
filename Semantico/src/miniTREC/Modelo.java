@@ -65,7 +65,10 @@ public class Modelo {
 		description.addProperty(RDF.type, RDF.Property);
 		description.addProperty(RDFS.domain, model.createResource(uri + "trabajo"));
 		description.addProperty(RDFS.range, XSD.xstring);
-		
+		Property path = model.createProperty(uri + "path");
+		path.addProperty(RDF.type, RDF.Property);
+		path.addProperty(RDFS.domain, model.createResource(uri + "trabajo"));
+		path.addProperty(RDFS.range, XSD.xstring);
 		Resource trabajo = model.createResource(uri+"trabajo");
 		trabajo.addProperty(RDF.type, RDFS.Class);
 		Resource autor = model.createResource(uri + "autor");
