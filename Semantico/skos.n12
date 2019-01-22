@@ -1,78 +1,245 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
-@prefix ex: <http://www.equipo12.com/> .
+@prefix ns: <http://www.equipo12.com/> .
 
+ns:ambito rdf:type skos:Concept;
+	skos:preflabel	"ambito";
+	skos:narrower	ns:economia;
+	skos:narrower	ns:empresa;
+	skos:narrower	ns:publicidad;
+	skos:narrower	ns:cine;
+	skos:narrower	ns:ideologia;
+	skos:narrower	ns:construccion;
+	skos:narrower	ns:profesorado;
+	skos:narrower	ns:energia_renovable.
+	
+ns:economia rdf:type skos:Concept;
+	skos:preflabel	"economia";
+	skos:altLabel	"ahorro";
+	skos:altLabel	"parquedad";
+	skos:altLabel	"crematistica";
+	skos:altLabel	"finanzas";
+	skos:altLabel	"bienes";
+	skos:altLabel	"capital";
+	skos:altLabel	"caudal";
+	skos:altLabel	"hacienda";
+	skos:altLabel	"heredad";
+	skos:altLabel	"patrimonio";
+	skos:altLabel	"peculio";
+	skos:altLabel	"pertenencias";
+	skos:altLabel	"posesiones";
+	skos:altLabel	"riqueza";
+	skos:altLabel	"desarrollo economico";
+	skos:narrower 	ns:crisis_economica;
+	skos:broader	ns:ambito.
 
+ns:crisis_economica rdf:type skos:Concept;
+	skos:prefLabel  "crisis economica";
+	skos:altLabel	"dificultades economicas";
+	skos:altLabel	"desaceleracion economica";
+	skos:altLabel	"contraccion economica";
+	skos:altLabel	"recesion economica";
+	skos:altLabel	"rescate financiero";
+	skos:altLabel	"rescates financieros";
+	skos:altLabel	"recortes sociales";
+	skos:altLabel	"crisis";
+	skos:altLabel	"corrupcion";
+	skos:altLabel	"bancos";
+	skos:altLabel	"credito";
+	skos:altLabel	"inflacion";
+	skos:narrower	ns:crisis_economica_mundial;
+	skos:narrower	ns:crisis_economica_europea;
+	skos:broader	ns:economia.
+	
+ns:crisis_economica_mundial rdf:type skos:Concept;
+	skos:prefLabel "gran recesion";
+	skos:altLabel	"crisis mundial";
+	skos:altLabel	"crisis economica mundial";
+	skos:altLabel	"lehman brothers";
+	skos:altLabel	"crisis de los paises desarrollados";
+	skos:broader 	ns:crisis_economica.
 
+ns:crisis_economica_europea rdf:type skos:Concept;
+	skos:prefLabel "crisis economica europea";
+	skos:altLabel	"crisis europea";
+	skos:altLabel	"banco central europeo";
+	skos:altLabel	"crisis del euro";
+	skos:altLabel	"crisis de la zona euro";
+	skos:broader 	ns:crisis_economica.
+	
+ns:empresa rdf:type skos:Concept;
+	skos:prefLabel	"empresa";
+	skos:altLabel	"organizacion";
+	skos:narrower	ns:vision_empresarial;
+	skos:broader	ns:ambito.
+	
+ns:vision_empresarial rdf:type skos:Concept;
+	skos:prefLabel	"vision empresarial";
+	skos:altLabel	"enfoque empresarial";
+	skos:altLabel	"punto de vista empresarial";
+	skos:altLabel	"punto de vista de un empresario";
+	skos:broader	ns:empresa.
 
-ex:Tecnologia rdf:type skos:Concept;
-	skos:narrower ex:Robotica;
-	skos:narrower ex:Vision_Computador.
+ns:publicidad rdf:type skos:Concept;
+	skos:prefLabel	"publicidad";
+	skos:altLabel	"anuncios";
+	skos:altLabel	"spots";
+	skos:altLabel	"comerciales";
+	skos:altLabel	"promociones";
+	skos:altLabel	"propaganda";
+	skos:altLabel	"espacio publicitario";
+	skos:broader	ns:ambito.
+	
+ns:cine rdf:type skos:Concept;
+	skos:prefLabel	"cine";
+	skos:altLabel	"septimo arte";
+	skos:altLabel	"cinematografia";
+	skos:altLabel	"gran pantalla";
+	skos:altLabel	"cartelera";
+	skos:altLabel	"cines";
+	skos:altLabel	"mejores cines";
+	skos:altLabel	"cines";
+	skos:broader	ns:ambito.
 
-ex:Robotica rdf:type skos:Concept;
-	skos:prefLabel	"robotica";
-	skos:altLabel	"robot";
-	skos:altLabel	"automata";
-	skos:altLabel	"robots";
-	skos:broader	ex:Tecnologia.
+ns:ideologia rdf:type skos:Concept;
+	skos:prefLabel	"ideologia";
+	skos:altLabel	"ideario";
+	skos:altLabel	"credo";
+	skos:altLabel	"doctrina";
+	skos:altLabel	"ideas";
+	skos:narrower	ns:feminismo;
+	skos:broader	ns:ambito.
+	
+ns:feminismo rdf:type skos:Concept;
+	skos:prefLabel	"feminismo";
+	skos:altLabel	"techo de cristal";
+	skos:altLabel	"ideologia de genero";
+	skos:altLabel	"igualdad real";
+	skos:altLabel	"brecha salarial";
+	skos:altLabel	"violaciones";
+	skos:altLabel	"violacion";
+	skos:altLabel	"patriarcado";
+	skos:altLabel	"cultura de la violacion";
+	skos:altLabel	"cisgenero";
+	skos:altLabel	"transexual";
+	skos:altLabel	"heteropatriarcado";
+	skos:altLabel	"micromachismo";
+	skos:altLabel	"masculinidad toxica";
+	skos:altLabel	"mansplaining";
+	skos:altLabel	"empoderamiento";
+	skos:altLabel	"manslamming";
+	skos:altLabel	"masculinismo";
+	skos:altLabel	"manspreading";
+	skos:altLabel	"brecha de genero";
+	skos:altLabel	"feminazi";
+	skos:altLabel	"hembrismo";
+	skos:altLabel	"feminicidio";
+	skos:altLabel	"violencia de genero";
+	skos:altLabel	"lenguaje inclusivo";
+	skos:narrower	ns:mujer;
+	skos:broader	ns:ideologia.
 
-ex:Vision_Computador rdf:type skos:Concept;
-	skos:prefLabel	"vision computador";
-	skos:altLabel	"vision por computador";
-	skos:altLabel	"vision por ordenador";
-	skos:broader	ex:Tecnologia.
-ex:BDD rdf:type skos:Concept;
-	skos:prefLabel	"base de datos";
-	skos:altLabel	"bases de datos";
-	skos:narrower	ex:SQL;
-	skos:narrower	ex:Postgres;
-	skos:narrower	ex:Oracle.
+ns:mujer rdf:type skos:Concept;
+	skos:prefLabel	"mujer";
+	skos:altLabel	"mujeres";
+	skos:altLabel	"papel de la mujer";
+	skos:altLabel	"papel de las mujeres";
+	skos:altLabel	"evolucion de la mujer";
+	skos:altLabel	"evolucion de las mujeres";
+	skos:altLabel	"genoma xx";
+	skos:broader	ns:feminismo.
+	
+ns:construccion rdf:type skos:Concept;
+	skos:prefLabel	"construccion";
+	skos:altLabel	"construcciones";
+	skos:altLabel	"arquitectura";
+	skos:altLabel	"edificacion";
+	skos:altLabel	"edificio";
+	skos:altLabel	"cimentacion";
+	skos:narrower	ns:construcciones_espanolas;
+	skos:broader	ns:ambito.
+	
+ns:construcciones_espanolas_modernas rdf:type skos:Concept;
+	skos:prefLabel	"construcciones espanolas";
+	skos:altLabel	"construccion espanola";
+	skos:altLabel	"construcciones espanolas modernas";
+	skos:altLabel	"torres blancas";
+	skos:altLabel	"gimnasio del colegio maravillas";
+	skos:altLabel	"dispensario antituberculoso de barcelona";
+	skos:altLabel	"capitol";
+	skos:altLabel	"hipodromo de la zarzuela";
+	skos:altLabel	"casa huarte";
+	skos:altLabel	"centro de estudios hidrograficos";
+	skos:altLabel	"poblados de colonizacion";
+	skos:altLabel	"club nautico de san sebastian";
+	skos:altLabel	"colonia el viso";
+	skos:altLabel	"edificio de viviendas del instituto social de la marina en la barceloneta";
+	skos:altLabel	"edificio de sindicatos";
+	skos:altLabel	"pabellon de espana";
+	skos:altLabel	"casa ugalde";
+	skos:altLabel	"banco de bilbao";
+	skos:altLabel	"edificio arriba";
+	skos:altLabel	"plaza del tenis";
+	skos:altLabel	"torres quevedo";
+	skos:altLabel	"betancourt";
+	skos:altLabel	"ada byron";
+	skos:altLabel	"cementerio de igualada";
+	skos:altLabel	"museo nacional del arte romano";
+	skos:altLabel	"palacio de congresos de castilla y leon";
+	skos:broader	ns:construccion.
+	
+ns:profesorado rdf:type skos:Concept;
+	skos:prefLabel	"profesorado";
+	skos:altLabel	"ensenanza";
+	skos:altLabel	"docencia";
+	skos:altLabel	"magisterio";
+	skos:narrower	ns:eso;
+	skos:narrower	ns:bachillerato;
+	skos:narrower	ns:fp;
+	skos:broader	ns:ambito.
+	
+ns:eso rdf:type skos:Concept;
+	skos:prefLabel	"eso";
+	skos:altLabel	"educacion secundaria obligatoria";
+	skos:altLabel	"educacion secundaria";
+	skos:broader	ns:profesorado.
+	
+ns:bachillerato rdf:type skos:Concept;
+	skos:prefLabel	"bachillerato";
+	skos:altLabel	"bachiller";
+	skos:altLabel	"licenciatura";
+	skos:broader	ns:profesorado.
+	
+ns:fp rdf:type skos:Concept;
+	skos:prefLabel	"fp";
+	skos:altLabel	"formacion profesional";
+	skos:broader	ns:profesorado.
 
-ex:SQL rdf:type	skos:Concept;
-	skos:prefLabel	"SQL";
-	skos:altLabel	"MySQL";
-	skos:altLabel	"SQL Server";
-	skos:broader	ex:BDD.
+ns:energia_renovable rdf:type skos:Concept;
+	skos:prefLabel	"energia renovable";
+	skos:altLabel	"energias renovables";
+	skos:altLabel	"energia natural";
+	skos:altLabel	"energia hidraulica";
+	skos:altLabel	"hidraulica";
+	skos:altLabel	"energia eolica";
+	skos:altLabel	"eolica";
+	skos:altLabel	"energia geotermica";
+	skos:altLabel	"geotermica";
+	skos:altLabel	"energia de la biomasa";
+	skos:altLabel	"biomasa";
+	skos:narrower	ns:energia_solar;
+	skos:broader	ns:ambito.
 
-ex:Postgres rdf:type	skos:Concept;
-	skos:prefLabel	"PostgreSQL";
-	skos:altLabel	"Postgres";
-	skos:broader	ex:BDD.
-
-ex:Oracle rdf:type	skos:Concept;
-	skos:prefLabel	"Oracle";
-	skos:broader	ex:BDD.
-
-ex:Frontera rdf:type	skos:Concept;
-	skos:prefLabel	"frontera";
-	skos:narrower	ex:Paises;
-	skos:narrower	ex:Pirineo.
-
-ex:Paises rdf:type	skos:Concept;
-	skos:prefLabel	"España y Francia";
-	skos:altLabel	"España";
-	skos:altLabel	"Francia";
-	skos:broader	ex:Frontera.
-
-ex:Pirineo rdf:type	skos:Concept;
-	skos:prefLabel	"Pirineo";
-	skos:broader	ex:Frontera.
-
-ex:Salud rdf:type skos:Concept;
-	skos:prefLabel	"salud";
-	skos:narrower	ex:Gente;
-	skos:narrower	ex:Problemas.
-
-ex:Gente rdf:type	skos:Concept;
-	skos:prefLabel	"mayores de 65";
-	skos:altLabel	"ancianos";
-	skos:altLabel	"mayor de 65";
-	skos:broader	ex:Salud.
-
-ex:Problemas rdf:type	skos:Concept;
-	skos:prefLabel	"problemas de salud";
-	skos:altLabel	"enfermedades";
-	skos:broader	ex:Salud.
-
-ex:Otros rdf:type skos:Concept;
-	skos:prefLabel	"otros".
+ns:energia_solar rdf:type skos:Concept;
+	skos:prefLabel	"energia solar";
+	skos:altLabel	"solar";
+	skos:altLabel	"energia del sol";
+	skos:narrower	ns:placas_fotovoltaicas;
+	skos:broader	ns:energia_renovable.
+	
+ns:placas_fotovoltaicas rdf:type skos:Concept;
+	skos:prefLabel	"placas fotovoltaicas";
+	skos:altLabel	"fotovoltaico";
+	skos:altLabel	"fotovoltaica";
+	skos:altLabel	"panel solar";
+	skos:broader	ns:energia_solar.
