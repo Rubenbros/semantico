@@ -80,7 +80,7 @@ public class SemanticGenerator {
 			Concept nuevo = new Concept(path[path.length - 1]);
 			conceptos.add(nuevo);
 		}
-		// A�adimos las propiedades de skos a la estructura de java
+		// Añadimos las propiedades de skos a la estructura de java
 		StmtIterator it1 = modeloSkos.listStatements();
 		String aux = "";
 		Concept nuevo = null;
@@ -163,13 +163,13 @@ public class SemanticGenerator {
 		for (int j = 0; j < nList.getLength(); j++)
 			temas.add(nList.item(j).getTextContent());
 		// Convertimos los datos en un formato determinado
-		titulo = deAccent(titulo).toLowerCase().replaceAll("\\p{Punct}","");
-		descripcion = deAccent(descripcion).toLowerCase().replaceAll("\\p{Punct}","");
+		titulo = deAccent(titulo).toLowerCase().replaceAll("\\p{Punct}","").replaceAll("[^a-z0-9]"," ");
+		descripcion = deAccent(descripcion).toLowerCase().replaceAll("\\p{Punct}","").replaceAll("[^a-z0-9]"," ");//.replaceAll("[¿?…]","");
 		for (String subject : temas)
-			subject = deAccent(subject).toLowerCase();
-		publisher = deAccent(publisher).toLowerCase();
+			subject = deAccent(subject).toLowerCase().replaceAll("[^a-z0-9]"," ");
+		publisher = deAccent(publisher).toLowerCase().replaceAll("[^a-z0-9]"," ");
 		type = type.split("/")[type.split("/").length-1];
-		// A�adimos los nuevos recursos
+		// Añadimos los nuevos recursos
 		Resource trabajo = model.createResource(uri + file.getName());
 		trabajo.addLiteral(model.getProperty(uri + "path"), file.getName());
 		trabajo.addLiteral(model.getProperty(uri + "title"), titulo);
@@ -198,35 +198,35 @@ public class SemanticGenerator {
 			String[] aux1 = person.split(" ");
 			if (aux1.length == 1) {
 				name = aux1[aux1.length - 1];
-				name = deAccent(name).toLowerCase();
+				name = deAccent(name).toLowerCase().replaceAll("[^a-z0-9]","");
 				autor = model.createResource(uri + name);
 				autor.addLiteral(model.getProperty(uri + "name"), name);
 				trabajo.addProperty(model.getProperty(uri + "creator"), autor);
 			} else if (aux1.length == 2) {
 				name = aux1[aux1.length - 1];
-				name = deAccent(name).toLowerCase();
+				name = deAccent(name).toLowerCase().replaceAll("[^a-z0-9]","");
 				apellido1 = aux1[0].replaceAll(",", "");
-				apellido1 = deAccent(apellido1).toLowerCase();
+				apellido1 = deAccent(apellido1).toLowerCase().replaceAll("[^a-z0-9]","");
 				autor = model.createResource(uri + name + "_" + apellido1);
 				autor.addLiteral(model.getProperty(uri + "apellido1"), apellido1);
 				autor.addLiteral(model.getProperty(uri + "name"), name);
 				trabajo.addProperty(model.getProperty(uri + "creator"), autor);
 			} else if (aux1.length == 3) {
 				name = aux1[aux1.length - 1];
-				name = deAccent(name).toLowerCase();
+				name = deAccent(name).toLowerCase().replaceAll("[^a-z0-9]","");
 				apellido1 = aux1[0];
-				apellido1 = deAccent(apellido1).toLowerCase();
+				apellido1 = deAccent(apellido1).toLowerCase().replaceAll("[^a-z0-9]","");
 				apellido2 = aux1[1].replaceAll(",", "");
-				apellido2 = deAccent(apellido2).toLowerCase();
+				apellido2 = deAccent(apellido2).toLowerCase().replaceAll("[^a-z0-9]","");
 				autor = model.createResource(uri + name + "_" + apellido1 + "_" + apellido2);
 				autor.addLiteral(model.getProperty(uri + "apellido2"), apellido2);
 				autor.addLiteral(model.getProperty(uri + "apellido1"), apellido1);
 				autor.addLiteral(model.getProperty(uri + "name"), name);
 				trabajo.addProperty(model.getProperty(uri + "creator"), autor);
 			} else if (aux1.length > 3) {
-				name = deAccent(person.substring(person.indexOf(',') + 1, person.length())).toLowerCase();
+				name = deAccent(person.substring(person.indexOf(',') + 1, person.length())).toLowerCase().replaceAll("[^a-z0-9]","");
 				if(person.contains(",")){
-					apellido1 = deAccent(person.substring(0, person.indexOf(','))).toLowerCase();
+					apellido1 = deAccent(person.substring(0, person.indexOf(','))).toLowerCase().replaceAll("[^a-z0-9]","");
 					autor = model.createResource(uri + name.replaceAll(" ", "") + "_" + apellido1.replaceAll(" ", ""));
 					autor.addLiteral(model.getProperty(uri + "apellido1"), apellido1);
 				}
