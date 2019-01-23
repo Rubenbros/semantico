@@ -15,7 +15,6 @@ import org.apache.jena.query.QueryFactory;
 import org.apache.jena.query.QuerySolution;
 import org.apache.jena.query.ResultSet;
 import org.apache.jena.rdf.model.Model;
-import org.apache.jena.rdf.model.Resource;
 import org.apache.jena.util.FileManager;
 
 public class SemanticSearcher {
@@ -73,10 +72,9 @@ public class SemanticSearcher {
 						    {
 						      QuerySolution soln = results.nextSolution();
 						      System.out.println(soln.toString());
-						      Resource x = soln.getResource("x");
-						      String resultadoConsulta = x.getURI().substring(24);
-						      System.out.println(resultadoConsulta);
-						      bw.write(consultas.get(c-1) + "\t" + resultadoConsulta + "\r\n");				      
+						      String symp = soln.getLiteral("id").getLexicalForm();
+						      String res= consultas.get(c-1) + "\t" + symp + "\r\n";
+						      bw.write(res);	
 						    }
 						  } finally { qexec.close() ; }
 					}
